@@ -1,0 +1,27 @@
+{
+  "id": "2026",
+  "name": "Business & Careers",
+  "level": 2,
+  "parentId": "2020",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Photography & Video",
+    "Business & Careers"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8622815011",
+      "name": "Business Aspects"
+    },
+    {
+      "id": "8622817011",
+      "name": "Careers"
+    },
+    {
+      "id": "8622818011",
+      "name": "Commercial"
+    }
+  ]
+}

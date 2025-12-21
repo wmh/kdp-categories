@@ -1,0 +1,27 @@
+{
+  "id": "17330",
+  "name": "Kentucky",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Kentucky"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67493",
+      "name": "General"
+    },
+    {
+      "id": "67494",
+      "name": "Lexington"
+    },
+    {
+      "id": "67495",
+      "name": "Louisville"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "17236",
+  "name": "Northeast",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Northeast"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17238",
+      "name": "General"
+    },
+    {
+      "id": "17240",
+      "name": "Mid Atlantic"
+    },
+    {
+      "id": "17242",
+      "name": "New England"
+    }
+  ]
+}

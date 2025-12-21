@@ -1,0 +1,23 @@
+{
+  "id": "12775",
+  "name": "Folk & Tribal",
+  "level": 2,
+  "parentId": "12761",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Other Religions, Practices & Sacred Texts",
+    "Folk & Tribal"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "297522",
+      "name": "Popol Vuh"
+    },
+    {
+      "id": "12769",
+      "name": "Rastafari Movement"
+    }
+  ]
+}

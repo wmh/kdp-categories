@@ -1,0 +1,82 @@
+{
+  "id": "22",
+  "name": "Religion & Spirituality",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "12279",
+      "name": "Buddhism"
+    },
+    {
+      "id": "12290",
+      "name": "Christian Books & Bibles"
+    },
+    {
+      "id": "12506",
+      "name": "Hinduism"
+    },
+    {
+      "id": "12522",
+      "name": "Islam"
+    },
+    {
+      "id": "12540",
+      "name": "Judaism"
+    },
+    {
+      "id": "12489",
+      "name": "Literature & Fiction"
+    },
+    {
+      "id": "12621",
+      "name": "New Age & Spirituality"
+    },
+    {
+      "id": "12689",
+      "name": "Occult & Paranormal"
+    },
+    {
+      "id": "12735",
+      "name": "Other Eastern Religions & Sacred Texts"
+    },
+    {
+      "id": "12761",
+      "name": "Other Religions, Practices & Sacred Texts"
+    },
+    {
+      "id": "12779",
+      "name": "Religious Studies"
+    },
+    {
+      "id": "12809",
+      "name": "Worship & Devotion"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "12762",
+      "name": "Agnosticism"
+    },
+    {
+      "id": "12764",
+      "name": "Atheism"
+    },
+    {
+      "id": "206206496011",
+      "name": "Creation"
+    },
+    {
+      "id": "206206495011",
+      "name": "Faith Deconstruction"
+    },
+    {
+      "id": "12504",
+      "name": "General"
+    },
+    {
+      "id": "1873",
+      "name": "Religious Art"
+    }
+  ]
+}

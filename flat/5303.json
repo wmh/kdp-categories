@@ -1,0 +1,51 @@
+{
+  "id": "5303",
+  "name": "By Region",
+  "level": 2,
+  "parentId": "5241",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Gardening & Landscape Design",
+    "By Region"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10828121",
+      "name": "Canada"
+    },
+    {
+      "id": "713343011",
+      "name": "General"
+    },
+    {
+      "id": "10828111",
+      "name": "Middle Atlantic"
+    },
+    {
+      "id": "10828131",
+      "name": "Midwest"
+    },
+    {
+      "id": "10828141",
+      "name": "New England"
+    },
+    {
+      "id": "10828151",
+      "name": "Pacific Northwest"
+    },
+    {
+      "id": "10828161",
+      "name": "South"
+    },
+    {
+      "id": "10828171",
+      "name": "Southwest"
+    },
+    {
+      "id": "10828181",
+      "name": "West"
+    }
+  ]
+}

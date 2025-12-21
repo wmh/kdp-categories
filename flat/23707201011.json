@@ -1,0 +1,24 @@
+{
+  "id": "23707201011",
+  "name": "LGBTQ+ Families",
+  "level": 3,
+  "parentId": "3045",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Growing Up & Facts of Life",
+    "Family Life",
+    "LGBTQ+ Families"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "23707202011",
+      "name": "Fiction"
+    },
+    {
+      "id": "23707203011",
+      "name": "Nonfiction"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "67663",
+  "name": "Cancun & Cozumel",
+  "level": 2,
+  "parentId": "17148",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Mexico",
+    "Cancun & Cozumel"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8884012011",
+      "name": "Cancun"
+    },
+    {
+      "id": "8884013011",
+      "name": "Cozumel"
+    }
+  ]
+}

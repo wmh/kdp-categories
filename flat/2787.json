@@ -1,0 +1,150 @@
+{
+  "id": "2787",
+  "name": "Animals",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Animals"
+  ],
+  "nodes": [
+    {
+      "id": "2789",
+      "name": "Apes & Monkeys"
+    },
+    {
+      "id": "3564971011",
+      "name": "Baby Animals"
+    },
+    {
+      "id": "2792",
+      "name": "Bears"
+    },
+    {
+      "id": "2796",
+      "name": "Birds"
+    },
+    {
+      "id": "2800",
+      "name": "Bugs & Spiders"
+    },
+    {
+      "id": "2804",
+      "name": "Cats"
+    },
+    {
+      "id": "18882666011",
+      "name": "Cows"
+    },
+    {
+      "id": "18882669011",
+      "name": "Deer, Moose & Caribou"
+    },
+    {
+      "id": "2808",
+      "name": "Dinosaurs"
+    },
+    {
+      "id": "2812",
+      "name": "Dogs"
+    },
+    {
+      "id": "15356761",
+      "name": "Ducks & Other Waterfowl"
+    },
+    {
+      "id": "2816",
+      "name": "Elephants"
+    },
+    {
+      "id": "2820",
+      "name": "Farm Animals"
+    },
+    {
+      "id": "2823",
+      "name": "Fish"
+    },
+    {
+      "id": "2827",
+      "name": "Foxes & Wolves"
+    },
+    {
+      "id": "2830",
+      "name": "Frogs & Toads"
+    },
+    {
+      "id": "18882674011",
+      "name": "Giraffes"
+    },
+    {
+      "id": "18882677011",
+      "name": "Hippos & Rhinos"
+    },
+    {
+      "id": "2832",
+      "name": "Horses"
+    },
+    {
+      "id": "2840",
+      "name": "Lions, Tigers & Leopards"
+    },
+    {
+      "id": "2843",
+      "name": "Mammals"
+    },
+    {
+      "id": "2846",
+      "name": "Marine Life"
+    },
+    {
+      "id": "2849",
+      "name": "Mice, Hamsters, Guinea Pigs & Squirrels"
+    },
+    {
+      "id": "18882680011",
+      "name": "Penguins"
+    },
+    {
+      "id": "2853",
+      "name": "Pets"
+    },
+    {
+      "id": "2859",
+      "name": "Rabbits"
+    },
+    {
+      "id": "2863",
+      "name": "Reptiles & Amphibians"
+    },
+    {
+      "id": "2869",
+      "name": "Zoos"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2788",
+      "name": "Alligators & Crocodiles"
+    },
+    {
+      "id": "886508",
+      "name": "Fiction"
+    },
+    {
+      "id": "886506",
+      "name": "Nonfiction"
+    },
+    {
+      "id": "213811561011",
+      "name": "Pigs"
+    },
+    {
+      "id": "2867",
+      "name": "Turtles"
+    },
+    {
+      "id": "2868",
+      "name": "Whales"
+    }
+  ]
+}

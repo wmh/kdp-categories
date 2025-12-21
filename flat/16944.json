@@ -1,0 +1,47 @@
+{
+  "id": "16944",
+  "name": "Germany",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Germany"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67613",
+      "name": "Berlin"
+    },
+    {
+      "id": "67614",
+      "name": "Cologne"
+    },
+    {
+      "id": "67615",
+      "name": "Dusseldorf"
+    },
+    {
+      "id": "67616",
+      "name": "Frankfurt"
+    },
+    {
+      "id": "67612",
+      "name": "General"
+    },
+    {
+      "id": "67617",
+      "name": "Hamburg"
+    },
+    {
+      "id": "67618",
+      "name": "Munich"
+    },
+    {
+      "id": "67619",
+      "name": "Rhine"
+    }
+  ]
+}

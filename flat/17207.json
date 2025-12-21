@@ -1,0 +1,52 @@
+{
+  "id": "17207",
+  "name": "Adventure",
+  "level": 2,
+  "parentId": "17205",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Specialty Travel",
+    "Adventure"
+  ],
+  "nodes": [
+    {
+      "id": "16400",
+      "name": "Hiking"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "290111",
+      "name": "Birdwatching"
+    },
+    {
+      "id": "290115",
+      "name": "Canoeing"
+    },
+    {
+      "id": "290116",
+      "name": "Cycling"
+    },
+    {
+      "id": "290107",
+      "name": "General"
+    },
+    {
+      "id": "290117",
+      "name": "Kayaking"
+    },
+    {
+      "id": "290122",
+      "name": "Mountaineering"
+    },
+    {
+      "id": "290120",
+      "name": "Scuba Diving"
+    },
+    {
+      "id": "16698",
+      "name": "Skiing"
+    }
+  ]
+}

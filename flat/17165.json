@@ -1,0 +1,27 @@
+{
+  "id": "17165",
+  "name": "French Guiana, Guyana & Suriname",
+  "level": 2,
+  "parentId": "17150",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "South America",
+    "French Guiana, Guyana & Suriname"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8884020011",
+      "name": "French Guiana"
+    },
+    {
+      "id": "8884021011",
+      "name": "Guyana"
+    },
+    {
+      "id": "8884022011",
+      "name": "Suriname"
+    }
+  ]
+}

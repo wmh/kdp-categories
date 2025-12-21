@@ -1,0 +1,86 @@
+{
+  "id": "12290",
+  "name": "Christian Books & Bibles",
+  "level": 1,
+  "parentId": "22",
+  "isLeaf": false,
+  "path": [
+    "Christian Books & Bibles"
+  ],
+  "nodes": [
+    {
+      "id": "172810",
+      "name": "Bible Study & Reference"
+    },
+    {
+      "id": "12059",
+      "name": "Bibles"
+    },
+    {
+      "id": "12149",
+      "name": "Biographies"
+    },
+    {
+      "id": "12292",
+      "name": "Catholicism"
+    },
+    {
+      "id": "5412659011",
+      "name": "Children's & Teens"
+    },
+    {
+      "id": "16009761",
+      "name": "Christian Denominations & Sects"
+    },
+    {
+      "id": "12333",
+      "name": "Christian Living"
+    },
+    {
+      "id": "12360",
+      "name": "Churches & Church Leadership"
+    },
+    {
+      "id": "172800",
+      "name": "Education"
+    },
+    {
+      "id": "7259428011",
+      "name": "History"
+    },
+    {
+      "id": "172806",
+      "name": "Literature & Fiction"
+    },
+    {
+      "id": "12380",
+      "name": "Ministry & Evangelism"
+    },
+    {
+      "id": "12404",
+      "name": "Protestantism"
+    },
+    {
+      "id": "332930011",
+      "name": "Romance"
+    },
+    {
+      "id": "12449",
+      "name": "Theology"
+    },
+    {
+      "id": "12465",
+      "name": "Worship & Devotion"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "15755411",
+      "name": "General"
+    },
+    {
+      "id": "23551429011",
+      "name": "Social Group Studies"
+    }
+  ]
+}

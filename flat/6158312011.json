@@ -1,0 +1,46 @@
+{
+  "id": "6158312011",
+  "name": "Home Improvement & Design",
+  "level": 1,
+  "parentId": "48",
+  "isLeaf": false,
+  "path": [
+    "Home Improvement & Design"
+  ],
+  "nodes": [
+    {
+      "id": "5396",
+      "name": "Decorating & Design"
+    },
+    {
+      "id": "5339",
+      "name": "How-to & Home Improvements"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "5333",
+      "name": "Energy Efficiency"
+    },
+    {
+      "id": "5367",
+      "name": "Furniture"
+    },
+    {
+      "id": "18882706011",
+      "name": "Moving & Relocation"
+    },
+    {
+      "id": "5299",
+      "name": "Outdoor & Recreational Areas"
+    },
+    {
+      "id": "1007",
+      "name": "Residential Architecture"
+    },
+    {
+      "id": "660630",
+      "name": "Small Homes & Cottages"
+    }
+  ]
+}

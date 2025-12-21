@@ -1,0 +1,24 @@
+{
+  "id": "8298082011",
+  "name": "Passover",
+  "level": 3,
+  "parentId": "3083",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Holidays & Celebrations",
+    "Jewish",
+    "Passover"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298083011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8298084011",
+      "name": "Nonfiction"
+    }
+  ]
+}

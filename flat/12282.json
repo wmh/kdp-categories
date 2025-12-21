@@ -1,0 +1,23 @@
+{
+  "id": "12282",
+  "name": "General",
+  "level": 2,
+  "parentId": "12279",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Buddhism",
+    "General"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11309330011",
+      "name": "Philosophy"
+    },
+    {
+      "id": "11309331011",
+      "name": "Religion"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "9352388011",
+  "name": "Food & Nutrition",
+  "level": 2,
+  "parentId": "5043",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Pets & Animal Care",
+    "Food & Nutrition"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10075828011",
+      "name": "Recipes"
+    }
+  ]
+}

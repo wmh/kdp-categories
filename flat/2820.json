@@ -1,0 +1,23 @@
+{
+  "id": "2820",
+  "name": "Farm Animals",
+  "level": 2,
+  "parentId": "2787",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Farm Animals"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8951159011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8951160011",
+      "name": "Nonfiction"
+    }
+  ]
+}

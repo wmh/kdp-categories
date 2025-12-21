@@ -1,0 +1,36 @@
+{
+  "id": "7259428011",
+  "name": "History",
+  "level": 2,
+  "parentId": "12290",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "History"
+  ],
+  "nodes": [
+    {
+      "id": "12350",
+      "name": "Church History"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "7259405011",
+      "name": "Biblical History & Culture"
+    },
+    {
+      "id": "7259429011",
+      "name": "General"
+    },
+    {
+      "id": "172809",
+      "name": "Historical Jesus"
+    },
+    {
+      "id": "7259445011",
+      "name": "Historical Theology"
+    }
+  ]
+}

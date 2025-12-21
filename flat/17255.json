@@ -1,0 +1,27 @@
+{
+  "id": "17255",
+  "name": "West",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "West"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17256",
+      "name": "General"
+    },
+    {
+      "id": "17259",
+      "name": "Mountain"
+    },
+    {
+      "id": "17261",
+      "name": "Pacific"
+    }
+  ]
+}

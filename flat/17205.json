@@ -1,0 +1,98 @@
+{
+  "id": "17205",
+  "name": "Specialty Travel",
+  "level": 1,
+  "parentId": "27",
+  "isLeaf": false,
+  "path": [
+    "Specialty Travel"
+  ],
+  "nodes": [
+    {
+      "id": "17207",
+      "name": "Adventure"
+    },
+    {
+      "id": "3568222011",
+      "name": "Literary & Religious"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "172765",
+      "name": "Beaches"
+    },
+    {
+      "id": "17211",
+      "name": "Budget Travel"
+    },
+    {
+      "id": "67460",
+      "name": "Business Travel"
+    },
+    {
+      "id": "17027",
+      "name": "Cruises"
+    },
+    {
+      "id": "17745847011",
+      "name": "Culinary"
+    },
+    {
+      "id": "17213",
+      "name": "Ecotourism"
+    },
+    {
+      "id": "17215",
+      "name": "Family Travel"
+    },
+    {
+      "id": "17745848011",
+      "name": "Haunted & Unexplained"
+    },
+    {
+      "id": "17219",
+      "name": "Honeymoons"
+    },
+    {
+      "id": "11764693011",
+      "name": "Military"
+    },
+    {
+      "id": "17745849011",
+      "name": "Roadside Attractions"
+    },
+    {
+      "id": "17221",
+      "name": "Senior Travel"
+    },
+    {
+      "id": "17223",
+      "name": "Solo Travel"
+    },
+    {
+      "id": "17047",
+      "name": "Spas"
+    },
+    {
+      "id": "17225",
+      "name": "Students"
+    },
+    {
+      "id": "5496757011",
+      "name": "Theme Parks"
+    },
+    {
+      "id": "17051",
+      "name": "Tourist Destinations & Museums"
+    },
+    {
+      "id": "3210861",
+      "name": "Travel & Disability"
+    },
+    {
+      "id": "3210871",
+      "name": "Travel with Pets"
+    }
+  ]
+}

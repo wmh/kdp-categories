@@ -1,0 +1,32 @@
+{
+  "id": "12165",
+  "name": "Criticism & Interpretation",
+  "level": 3,
+  "parentId": "172810",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Bible Study & Reference",
+    "Criticism & Interpretation"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "12177",
+      "name": "Exegesis & Hermeneutics"
+    },
+    {
+      "id": "12166",
+      "name": "General"
+    },
+    {
+      "id": "12168",
+      "name": "New Testament"
+    },
+    {
+      "id": "12170",
+      "name": "Old Testament"
+    }
+  ]
+}

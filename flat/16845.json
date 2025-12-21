@@ -1,0 +1,23 @@
+{
+  "id": "16845",
+  "name": "Turkey",
+  "level": 2,
+  "parentId": "16772",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Asia",
+    "Turkey"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67693",
+      "name": "General"
+    },
+    {
+      "id": "67694",
+      "name": "Istanbul"
+    }
+  ]
+}

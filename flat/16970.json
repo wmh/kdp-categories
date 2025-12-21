@@ -1,0 +1,27 @@
+{
+  "id": "16970",
+  "name": "Ireland",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Ireland"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67642",
+      "name": "Cork"
+    },
+    {
+      "id": "67643",
+      "name": "Dublin"
+    },
+    {
+      "id": "67641",
+      "name": "General"
+    }
+  ]
+}

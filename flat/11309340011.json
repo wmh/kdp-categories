@@ -1,0 +1,27 @@
+{
+  "id": "11309340011",
+  "name": "Sacred Writings",
+  "level": 2,
+  "parentId": "12506",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Hinduism",
+    "Sacred Writings"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "12508",
+      "name": "Bhagavad Gita"
+    },
+    {
+      "id": "12517",
+      "name": "Upanishads"
+    },
+    {
+      "id": "297527",
+      "name": "Vedas"
+    }
+  ]
+}

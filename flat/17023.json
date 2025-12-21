@@ -1,0 +1,23 @@
+{
+  "id": "17023",
+  "name": "Serbia & Slovenia",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Serbia & Slovenia"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8884010011",
+      "name": "Serbia"
+    },
+    {
+      "id": "8884011011",
+      "name": "Slovenia"
+    }
+  ]
+}

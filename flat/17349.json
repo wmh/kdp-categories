@@ -1,0 +1,31 @@
+{
+  "id": "17349",
+  "name": "Missouri",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Missouri"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67506",
+      "name": "Branson"
+    },
+    {
+      "id": "67505",
+      "name": "General"
+    },
+    {
+      "id": "67507",
+      "name": "Kansas City"
+    },
+    {
+      "id": "67508",
+      "name": "St. Louis"
+    }
+  ]
+}

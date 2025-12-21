@@ -1,0 +1,90 @@
+{
+  "id": "2917",
+  "name": "History",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "History"
+  ],
+  "nodes": [
+    {
+      "id": "2947",
+      "name": "United States"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2918",
+      "name": "Africa"
+    },
+    {
+      "id": "15356871",
+      "name": "Ancient"
+    },
+    {
+      "id": "2919",
+      "name": "Asia"
+    },
+    {
+      "id": "2920",
+      "name": "Australia & Oceania"
+    },
+    {
+      "id": "69281",
+      "name": "Biographical"
+    },
+    {
+      "id": "2922",
+      "name": "Canada"
+    },
+    {
+      "id": "2923",
+      "name": "Central & South America"
+    },
+    {
+      "id": "2924",
+      "name": "Europe"
+    },
+    {
+      "id": "2925",
+      "name": "Exploration & Discovery"
+    },
+    {
+      "id": "2938",
+      "name": "General"
+    },
+    {
+      "id": "2939",
+      "name": "Holocaust"
+    },
+    {
+      "id": "2940",
+      "name": "Medieval"
+    },
+    {
+      "id": "2941",
+      "name": "Mexico"
+    },
+    {
+      "id": "2942",
+      "name": "Middle East"
+    },
+    {
+      "id": "2943",
+      "name": "Military & Wars"
+    },
+    {
+      "id": "2944",
+      "name": "Modern"
+    },
+    {
+      "id": "2945",
+      "name": "Prehistoric"
+    },
+    {
+      "id": "2946",
+      "name": "Renaissance"
+    }
+  ]
+}

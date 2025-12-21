@@ -1,0 +1,58 @@
+{
+  "id": "17175",
+  "name": "Middle East",
+  "level": 1,
+  "parentId": "27",
+  "isLeaf": false,
+  "path": [
+    "Middle East"
+  ],
+  "nodes": [
+    {
+      "id": "17177",
+      "name": "Bahrain, Kuwait, Oman, Qatar, United-Arab-Emirates & Yemen"
+    },
+    {
+      "id": "16720",
+      "name": "Egypt"
+    },
+    {
+      "id": "17187",
+      "name": "Israel"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "17181",
+      "name": "General"
+    },
+    {
+      "id": "17183",
+      "name": "Iran"
+    },
+    {
+      "id": "17185",
+      "name": "Iraq"
+    },
+    {
+      "id": "17189",
+      "name": "Jordan"
+    },
+    {
+      "id": "17191",
+      "name": "Lebanon"
+    },
+    {
+      "id": "17193",
+      "name": "Saudi Arabia"
+    },
+    {
+      "id": "17195",
+      "name": "Syria"
+    },
+    {
+      "id": "17197",
+      "name": "Yemen"
+    }
+  ]
+}

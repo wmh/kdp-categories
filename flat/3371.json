@@ -1,0 +1,38 @@
+{
+  "id": "3371",
+  "name": "Activities, Crafts & Games",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Activities, Crafts & Games"
+  ],
+  "nodes": [
+    {
+      "id": "3373",
+      "name": "Activity Books"
+    },
+    {
+      "id": "2882",
+      "name": "Crafts & Hobbies"
+    },
+    {
+      "id": "3383",
+      "name": "Games"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "3395",
+      "name": "General"
+    },
+    {
+      "id": "17018953011",
+      "name": "Interactive Adventures"
+    },
+    {
+      "id": "17745791011",
+      "name": "Spies & Spying"
+    }
+  ]
+}

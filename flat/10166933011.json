@@ -1,0 +1,23 @@
+{
+  "id": "10166933011",
+  "name": "Recycling & Green Living",
+  "level": 2,
+  "parentId": "3207",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Science, Nature & How It Works",
+    "Recycling & Green Living"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10166934011",
+      "name": "Fiction"
+    },
+    {
+      "id": "10166935011",
+      "name": "Nonfiction"
+    }
+  ]
+}

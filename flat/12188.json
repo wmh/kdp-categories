@@ -1,0 +1,37 @@
+{
+  "id": "12188",
+  "name": "New Testament",
+  "level": 3,
+  "parentId": "172810",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Bible Study & Reference",
+    "New Testament"
+  ],
+  "nodes": [
+    {
+      "id": "12196",
+      "name": "Bible Study"
+    },
+    {
+      "id": "12159",
+      "name": "Commentaries"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "12151",
+      "name": "Biography"
+    },
+    {
+      "id": "12168",
+      "name": "Criticism & Interpretation"
+    },
+    {
+      "id": "12184",
+      "name": "Meditations"
+    }
+  ]
+}

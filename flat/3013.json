@@ -1,0 +1,25 @@
+{
+  "id": "3013",
+  "name": "Science Fiction & Fantasy",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Science Fiction & Fantasy"
+  ],
+  "nodes": [
+    {
+      "id": "3017",
+      "name": "Fantasy"
+    },
+    {
+      "id": "3351949011",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "3018",
+      "name": "Spine-Chilling Horror"
+    }
+  ],
+  "leafs": []
+}

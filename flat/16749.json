@@ -1,0 +1,23 @@
+{
+  "id": "16749",
+  "name": "Rwanda & Uganda",
+  "level": 2,
+  "parentId": "16703",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Africa",
+    "Rwanda & Uganda"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883996011",
+      "name": "Rwanda"
+    },
+    {
+      "id": "8883997011",
+      "name": "Uganda"
+    }
+  ]
+}

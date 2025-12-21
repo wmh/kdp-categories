@@ -1,0 +1,23 @@
+{
+  "id": "16988",
+  "name": "Netherlands",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Netherlands"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67669",
+      "name": "Amsterdam"
+    },
+    {
+      "id": "67668",
+      "name": "General"
+    }
+  ]
+}

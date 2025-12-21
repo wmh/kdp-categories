@@ -1,0 +1,36 @@
+{
+  "id": "3102",
+  "name": "Bible",
+  "level": 3,
+  "parentId": "172820",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Religions",
+    "Christianity",
+    "Bible"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3105",
+      "name": "General"
+    },
+    {
+      "id": "3110",
+      "name": "Picture"
+    },
+    {
+      "id": "3104",
+      "name": "Reference & Interpretation"
+    },
+    {
+      "id": "3106",
+      "name": "Stories"
+    },
+    {
+      "id": "3107",
+      "name": "Study"
+    }
+  ]
+}

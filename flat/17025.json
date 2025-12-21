@@ -1,0 +1,30 @@
+{
+  "id": "17025",
+  "name": "Reference",
+  "level": 1,
+  "parentId": "27",
+  "isLeaf": false,
+  "path": [
+    "Reference"
+  ],
+  "nodes": [
+    {
+      "id": "5496755011",
+      "name": "Atlases & Maps"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "713839011",
+      "name": "General"
+    },
+    {
+      "id": "5496756011",
+      "name": "Phrasebooks"
+    },
+    {
+      "id": "17049",
+      "name": "Tips"
+    }
+  ]
+}

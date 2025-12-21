@@ -1,0 +1,58 @@
+{
+  "id": "17150",
+  "name": "South America",
+  "level": 1,
+  "parentId": "27",
+  "isLeaf": false,
+  "path": [
+    "South America"
+  ],
+  "nodes": [
+    {
+      "id": "67560",
+      "name": "Argentina"
+    },
+    {
+      "id": "17157",
+      "name": "Brazil"
+    },
+    {
+      "id": "17165",
+      "name": "French Guiana, Guyana & Suriname"
+    },
+    {
+      "id": "17169",
+      "name": "Paraguay & Uruguay"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "17155",
+      "name": "Bolivia"
+    },
+    {
+      "id": "17159",
+      "name": "Chile"
+    },
+    {
+      "id": "17161",
+      "name": "Colombia"
+    },
+    {
+      "id": "17163",
+      "name": "Ecuador & Galapagos Islands"
+    },
+    {
+      "id": "17168",
+      "name": "General"
+    },
+    {
+      "id": "17172",
+      "name": "Peru"
+    },
+    {
+      "id": "17173",
+      "name": "Venezuela"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "720868",
+  "name": "Urban & Land Use Planning",
+  "level": 2,
+  "parentId": "173508",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Architecture",
+    "Urban & Land Use Planning"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8929886011",
+      "name": "Adaptive Reuse"
+    },
+    {
+      "id": "8929887011",
+      "name": "Land Use Planning"
+    }
+  ]
+}

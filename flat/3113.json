@@ -1,0 +1,40 @@
+{
+  "id": "3113",
+  "name": "Religious Fiction",
+  "level": 2,
+  "parentId": "3101",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Religions",
+    "Religious Fiction"
+  ],
+  "nodes": [
+    {
+      "id": "3114",
+      "name": "Christian"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "13922592011",
+      "name": "Buddhist"
+    },
+    {
+      "id": "13922593011",
+      "name": "Hindu"
+    },
+    {
+      "id": "3116",
+      "name": "Jewish"
+    },
+    {
+      "id": "13922594011",
+      "name": "Muslim"
+    },
+    {
+      "id": "3115",
+      "name": "Other Religious Fiction"
+    }
+  ]
+}

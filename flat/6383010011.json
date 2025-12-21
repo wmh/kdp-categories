@@ -1,0 +1,31 @@
+{
+  "id": "6383010011",
+  "name": "Jewelry & Beadwork",
+  "level": 2,
+  "parentId": "5126",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Crafts & Hobbies",
+    "Jewelry & Beadwork"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5129",
+      "name": "Beadwork"
+    },
+    {
+      "id": "5147",
+      "name": "Jewelry"
+    },
+    {
+      "id": "5150",
+      "name": "Rock & Gem Crafts"
+    },
+    {
+      "id": "10166920011",
+      "name": "Wirework"
+    }
+  ]
+}

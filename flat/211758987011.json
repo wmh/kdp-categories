@@ -1,0 +1,19 @@
+{
+  "id": "211758987011",
+  "name": "Nordic & Scandinavian Countries",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Nordic & Scandinavian Countries"
+  ],
+  "nodes": [
+    {
+      "id": "16933",
+      "name": "Denmark"
+    }
+  ],
+  "leafs": []
+}

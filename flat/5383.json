@@ -1,0 +1,24 @@
+{
+  "id": "5383",
+  "name": "Plumbing & Household Automation",
+  "level": 3,
+  "parentId": "5339",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Home Improvement & Design",
+    "How-to & Home Improvements",
+    "Plumbing & Household Automation"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298085011",
+      "name": "DIY"
+    },
+    {
+      "id": "8298086011",
+      "name": "Technical"
+    }
+  ]
+}

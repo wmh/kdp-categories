@@ -1,0 +1,19 @@
+{
+  "id": "15762881",
+  "name": "History",
+  "level": 2,
+  "parentId": "173508",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Architecture",
+    "History"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "15762891",
+      "name": "General"
+    }
+  ]
+}

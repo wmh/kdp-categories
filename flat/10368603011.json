@@ -1,0 +1,29 @@
+{
+  "id": "10368603011",
+  "name": "Bible Stories",
+  "level": 4,
+  "parentId": "280287",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Children's & Teens",
+    "Teens",
+    "Bible Stories"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10368604011",
+      "name": "General"
+    },
+    {
+      "id": "10368605011",
+      "name": "New Testament"
+    },
+    {
+      "id": "10368606011",
+      "name": "Old Testament"
+    }
+  ]
+}

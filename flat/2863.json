@@ -1,0 +1,23 @@
+{
+  "id": "2863",
+  "name": "Reptiles & Amphibians",
+  "level": 2,
+  "parentId": "2787",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Reptiles & Amphibians"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883834011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883835011",
+      "name": "Nonfiction"
+    }
+  ]
+}

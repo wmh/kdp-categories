@@ -1,0 +1,21 @@
+{
+  "id": "12395",
+  "name": "Easter & Lent",
+  "level": 4,
+  "parentId": "12391",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Christian Living",
+    "Holidays",
+    "Easter & Lent"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "287470",
+      "name": "General"
+    }
+  ]
+}

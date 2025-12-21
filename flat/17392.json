@@ -1,0 +1,40 @@
+{
+  "id": "17392",
+  "name": "Texas",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Texas"
+  ],
+  "nodes": [
+    {
+      "id": "67541",
+      "name": "Dallas & Fort Worth"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "67539",
+      "name": "Austin"
+    },
+    {
+      "id": "67540",
+      "name": "Big Bend"
+    },
+    {
+      "id": "67538",
+      "name": "General"
+    },
+    {
+      "id": "67542",
+      "name": "Houston"
+    },
+    {
+      "id": "67543",
+      "name": "San Antonio"
+    }
+  ]
+}

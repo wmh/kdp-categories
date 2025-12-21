@@ -1,0 +1,28 @@
+{
+  "id": "5145",
+  "name": "Glass & Glassware",
+  "level": 3,
+  "parentId": "11160414011",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Crafts & Hobbies",
+    "Pottery, Clay & Glass",
+    "Glass & Glassware"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11160408011",
+      "name": "General"
+    },
+    {
+      "id": "11160409011",
+      "name": "Glassblowing"
+    },
+    {
+      "id": "11160410011",
+      "name": "Stained Glass"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3568222011",
+  "name": "Literary & Religious",
+  "level": 2,
+  "parentId": "17205",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Specialty Travel",
+    "Literary & Religious"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298115011",
+      "name": "Literary"
+    },
+    {
+      "id": "8298116011",
+      "name": "Religious"
+    }
+  ]
+}

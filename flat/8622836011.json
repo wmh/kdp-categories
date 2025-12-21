@@ -1,0 +1,23 @@
+{
+  "id": "8622836011",
+  "name": "Photojournalism & Essays",
+  "level": 2,
+  "parentId": "2020",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Photography & Video",
+    "Photojournalism & Essays"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2082",
+      "name": "Photo Essays"
+    },
+    {
+      "id": "2083",
+      "name": "Photojournalism"
+    }
+  ]
+}

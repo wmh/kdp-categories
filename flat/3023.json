@@ -1,0 +1,64 @@
+{
+  "id": "3023",
+  "name": "Explore the World",
+  "level": 2,
+  "parentId": "3344091011",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Geography & Cultures",
+    "Explore the World"
+  ],
+  "nodes": [
+    {
+      "id": "3024",
+      "name": "Africa"
+    },
+    {
+      "id": "3025",
+      "name": "Asia"
+    },
+    {
+      "id": "3026",
+      "name": "Australia & Oceania"
+    },
+    {
+      "id": "3027",
+      "name": "Canada"
+    },
+    {
+      "id": "3028",
+      "name": "Central & South America"
+    },
+    {
+      "id": "3029",
+      "name": "Europe"
+    },
+    {
+      "id": "3040",
+      "name": "Mexico"
+    },
+    {
+      "id": "3041",
+      "name": "Middle East"
+    },
+    {
+      "id": "3043",
+      "name": "Polar Regions"
+    },
+    {
+      "id": "3044",
+      "name": "United States"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "3178",
+      "name": "Atlases"
+    },
+    {
+      "id": "3039",
+      "name": "General"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "11160414011",
+  "name": "Pottery, Clay & Glass",
+  "level": 2,
+  "parentId": "5126",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Crafts & Hobbies",
+    "Pottery, Clay & Glass"
+  ],
+  "nodes": [
+    {
+      "id": "5145",
+      "name": "Glass & Glassware"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "11160413011",
+      "name": "Mosaics"
+    },
+    {
+      "id": "3564985011",
+      "name": "Polymer Clay"
+    },
+    {
+      "id": "5168",
+      "name": "Pottery & Ceramics"
+    }
+  ]
+}

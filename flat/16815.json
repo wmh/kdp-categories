@@ -1,0 +1,23 @@
+{
+  "id": "16815",
+  "name": "Nepal",
+  "level": 2,
+  "parentId": "16772",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Asia",
+    "Nepal"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67666",
+      "name": "General"
+    },
+    {
+      "id": "67667",
+      "name": "Kathmandu"
+    }
+  ]
+}

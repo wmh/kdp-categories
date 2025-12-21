@@ -1,0 +1,52 @@
+{
+  "id": "16009761",
+  "name": "Christian Denominations & Sects",
+  "level": 2,
+  "parentId": "12290",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Christian Denominations & Sects"
+  ],
+  "nodes": [
+    {
+      "id": "12292",
+      "name": "Catholicism"
+    },
+    {
+      "id": "12430",
+      "name": "Mormonism"
+    },
+    {
+      "id": "12404",
+      "name": "Protestantism"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "12406",
+      "name": "Amish"
+    },
+    {
+      "id": "12414",
+      "name": "Christian Science"
+    },
+    {
+      "id": "15755471",
+      "name": "Jehovah's Witness"
+    },
+    {
+      "id": "12426",
+      "name": "Mennonite"
+    },
+    {
+      "id": "873752",
+      "name": "Messianic Judaism"
+    },
+    {
+      "id": "12402",
+      "name": "Orthodoxy"
+    }
+  ]
+}

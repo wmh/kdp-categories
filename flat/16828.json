@@ -1,0 +1,23 @@
+{
+  "id": "16828",
+  "name": "South Korea",
+  "level": 2,
+  "parentId": "16772",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Asia",
+    "South Korea"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67659",
+      "name": "General"
+    },
+    {
+      "id": "67660",
+      "name": "Seoul"
+    }
+  ]
+}

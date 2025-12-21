@@ -1,0 +1,31 @@
+{
+  "id": "5083",
+  "name": "Firearms & Weapons",
+  "level": 2,
+  "parentId": "5066",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Antiques & Collectibles",
+    "Firearms & Weapons"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11160402011",
+      "name": "Ammo & Grenades"
+    },
+    {
+      "id": "11160403011",
+      "name": "Firearms"
+    },
+    {
+      "id": "11160404011",
+      "name": "General"
+    },
+    {
+      "id": "11160405011",
+      "name": "Swords & Knives"
+    }
+  ]
+}

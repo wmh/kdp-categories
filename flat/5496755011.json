@@ -1,0 +1,31 @@
+{
+  "id": "5496755011",
+  "name": "Atlases & Maps",
+  "level": 2,
+  "parentId": "17025",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Reference",
+    "Atlases & Maps"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11450",
+      "name": "Atlases"
+    },
+    {
+      "id": "11453",
+      "name": "Maps"
+    },
+    {
+      "id": "11455",
+      "name": "United States"
+    },
+    {
+      "id": "11457",
+      "name": "World"
+    }
+  ]
+}

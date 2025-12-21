@@ -1,0 +1,24 @@
+{
+  "id": "3168",
+  "name": "City Life",
+  "level": 3,
+  "parentId": "3167",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Geography & Cultures",
+    "Where We Live",
+    "City Life"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883844011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883845011",
+      "name": "Nonfiction"
+    }
+  ]
+}

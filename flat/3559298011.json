@@ -1,0 +1,23 @@
+{
+  "id": "3559298011",
+  "name": "Short Stories & Anthologies",
+  "level": 2,
+  "parentId": "12489",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Literature & Fiction",
+    "Short Stories & Anthologies"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11309335011",
+      "name": "Anthologies"
+    },
+    {
+      "id": "11309336011",
+      "name": "Short Stories"
+    }
+  ]
+}

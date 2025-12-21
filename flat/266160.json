@@ -1,0 +1,19 @@
+{
+  "id": "266160",
+  "name": "Drafting & Presentation",
+  "level": 2,
+  "parentId": "173508",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Architecture",
+    "Drafting & Presentation"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "541650",
+      "name": "General"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "16823",
+  "name": "Russia",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Russia"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67676",
+      "name": "General"
+    },
+    {
+      "id": "67677",
+      "name": "Moscow"
+    },
+    {
+      "id": "67678",
+      "name": "Siberia"
+    },
+    {
+      "id": "67679",
+      "name": "St. Petersburg"
+    }
+  ]
+}

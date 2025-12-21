@@ -1,0 +1,23 @@
+{
+  "id": "16925",
+  "name": "Belgium",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Belgium"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67575",
+      "name": "Brussels"
+    },
+    {
+      "id": "67574",
+      "name": "General"
+    }
+  ]
+}

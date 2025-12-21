@@ -1,0 +1,43 @@
+{
+  "id": "3351949011",
+  "name": "Science Fiction",
+  "level": 2,
+  "parentId": "3013",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Science Fiction & Fantasy",
+    "Science Fiction"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "18882702011",
+      "name": "Alien Contact"
+    },
+    {
+      "id": "8944233011",
+      "name": "Dystopian"
+    },
+    {
+      "id": "8944234011",
+      "name": "General"
+    },
+    {
+      "id": "8944235011",
+      "name": "Robots"
+    },
+    {
+      "id": "18882703011",
+      "name": "Space Exploration"
+    },
+    {
+      "id": "13922595011",
+      "name": "Superheroes"
+    },
+    {
+      "id": "10166931011",
+      "name": "Time Travel"
+    }
+  ]
+}

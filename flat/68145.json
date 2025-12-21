@@ -1,0 +1,23 @@
+{
+  "id": "68145",
+  "name": "Science Fiction & Fantasy",
+  "level": 2,
+  "parentId": "12489",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Literature & Fiction",
+    "Science Fiction & Fantasy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8417578011",
+      "name": "Fantasy"
+    },
+    {
+      "id": "8417579011",
+      "name": "Science Fiction"
+    }
+  ]
+}

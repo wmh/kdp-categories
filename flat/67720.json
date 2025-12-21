@@ -1,0 +1,24 @@
+{
+  "id": "67720",
+  "name": "Bryce Canyon & Zion National Parks",
+  "level": 3,
+  "parentId": "17394",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Utah",
+    "Bryce Canyon & Zion National Parks"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8884029011",
+      "name": "Bryce Canyon"
+    },
+    {
+      "id": "8884030011",
+      "name": "Zion"
+    }
+  ]
+}

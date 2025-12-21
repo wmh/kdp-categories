@@ -1,0 +1,162 @@
+{
+  "id": "5066",
+  "name": "Antiques & Collectibles",
+  "level": 1,
+  "parentId": "48",
+  "isLeaf": false,
+  "path": [
+    "Antiques & Collectibles"
+  ],
+  "nodes": [
+    {
+      "id": "6383004011",
+      "name": "Antiques Care & Reference"
+    },
+    {
+      "id": "5078",
+      "name": "Coins & Medals"
+    },
+    {
+      "id": "6383005011",
+      "name": "Dolls, Toys & Figurines"
+    },
+    {
+      "id": "5083",
+      "name": "Firearms & Weapons"
+    },
+    {
+      "id": "6383006011",
+      "name": "Houseware & Dining"
+    },
+    {
+      "id": "6383007011",
+      "name": "Paper Ephemera & Cards"
+    },
+    {
+      "id": "6383008011",
+      "name": "Sports Memorabilia & Cards"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "170103",
+      "name": "Advertising"
+    },
+    {
+      "id": "5067",
+      "name": "Americana"
+    },
+    {
+      "id": "5068",
+      "name": "Art"
+    },
+    {
+      "id": "5069",
+      "name": "Autographs"
+    },
+    {
+      "id": "5070",
+      "name": "Baskets"
+    },
+    {
+      "id": "5073",
+      "name": "Bottles"
+    },
+    {
+      "id": "5074",
+      "name": "Buttons"
+    },
+    {
+      "id": "3564983011",
+      "name": "Canadiana"
+    },
+    {
+      "id": "5077",
+      "name": "Clocks & Watches"
+    },
+    {
+      "id": "4395",
+      "name": "Comics"
+    },
+    {
+      "id": "170943",
+      "name": "Diecast"
+    },
+    {
+      "id": "234954011",
+      "name": "Fashion"
+    },
+    {
+      "id": "5085",
+      "name": "General"
+    },
+    {
+      "id": "5089",
+      "name": "Jewelry"
+    },
+    {
+      "id": "5091",
+      "name": "Magazines & Newspapers"
+    },
+    {
+      "id": "170944",
+      "name": "Marbles"
+    },
+    {
+      "id": "5092",
+      "name": "Military"
+    },
+    {
+      "id": "170121",
+      "name": "Music Boxes"
+    },
+    {
+      "id": "876684",
+      "name": "Performing Arts"
+    },
+    {
+      "id": "170122",
+      "name": "Pez"
+    },
+    {
+      "id": "5099",
+      "name": "Political"
+    },
+    {
+      "id": "5100",
+      "name": "Popular Culture"
+    },
+    {
+      "id": "5103",
+      "name": "Posters"
+    },
+    {
+      "id": "5104",
+      "name": "Pottery & Ceramics"
+    },
+    {
+      "id": "5110",
+      "name": "Precious Metals"
+    },
+    {
+      "id": "5105",
+      "name": "Radios & Televisions"
+    },
+    {
+      "id": "5106",
+      "name": "Records"
+    },
+    {
+      "id": "5118",
+      "name": "Stamps"
+    },
+    {
+      "id": "5121",
+      "name": "Textiles & Costume"
+    },
+    {
+      "id": "5076",
+      "name": "Transportation"
+    }
+  ]
+}

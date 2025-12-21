@@ -1,0 +1,23 @@
+{
+  "id": "16923",
+  "name": "Austria",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Austria"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67569",
+      "name": "General"
+    },
+    {
+      "id": "67570",
+      "name": "Vienna"
+    }
+  ]
+}

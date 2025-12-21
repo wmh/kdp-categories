@@ -1,0 +1,23 @@
+{
+  "id": "2800",
+  "name": "Bugs & Spiders",
+  "level": 2,
+  "parentId": "2787",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Bugs & Spiders"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8951147011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8951148011",
+      "name": "Nonfiction"
+    }
+  ]
+}

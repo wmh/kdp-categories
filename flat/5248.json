@@ -1,0 +1,43 @@
+{
+  "id": "5248",
+  "name": "Flowers",
+  "level": 2,
+  "parentId": "5241",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Gardening & Landscape Design",
+    "Flowers"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5249",
+      "name": "Annuals"
+    },
+    {
+      "id": "5254",
+      "name": "Bulbs"
+    },
+    {
+      "id": "5141",
+      "name": "Flower Arranging"
+    },
+    {
+      "id": "5258",
+      "name": "General"
+    },
+    {
+      "id": "5259",
+      "name": "Orchids"
+    },
+    {
+      "id": "5262",
+      "name": "Perennials"
+    },
+    {
+      "id": "5264",
+      "name": "Roses"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "27",
+  "name": "Travel",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "16703",
+      "name": "Africa"
+    },
+    {
+      "id": "16772",
+      "name": "Asia"
+    },
+    {
+      "id": "16854",
+      "name": "Australia & Oceania"
+    },
+    {
+      "id": "16878",
+      "name": "Canada"
+    },
+    {
+      "id": "16880",
+      "name": "Caribbean & West Indies"
+    },
+    {
+      "id": "17130",
+      "name": "Central America"
+    },
+    {
+      "id": "16917",
+      "name": "Europe"
+    },
+    {
+      "id": "17031",
+      "name": "Food, Lodging & Transportation"
+    },
+    {
+      "id": "17148",
+      "name": "Mexico"
+    },
+    {
+      "id": "17175",
+      "name": "Middle East"
+    },
+    {
+      "id": "17199",
+      "name": "Polar Regions"
+    },
+    {
+      "id": "17025",
+      "name": "Reference"
+    },
+    {
+      "id": "17150",
+      "name": "South America"
+    },
+    {
+      "id": "17205",
+      "name": "Specialty Travel"
+    },
+    {
+      "id": "17227",
+      "name": "United States"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "197498011",
+      "name": "General"
+    },
+    {
+      "id": "17043",
+      "name": "Pictorial"
+    },
+    {
+      "id": "17029",
+      "name": "Travel Writing"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "5057",
+  "name": "Horses",
+  "level": 2,
+  "parentId": "5043",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Pets & Animal Care",
+    "Horses"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5059",
+      "name": "General"
+    },
+    {
+      "id": "5060",
+      "name": "Riding"
+    },
+    {
+      "id": "5061",
+      "name": "Showing & Training"
+    }
+  ]
+}

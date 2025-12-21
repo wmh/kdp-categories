@@ -1,0 +1,72 @@
+{
+  "id": "172806",
+  "name": "Christian",
+  "level": 2,
+  "parentId": "12489",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Literature & Fiction",
+    "Christian"
+  ],
+  "nodes": [
+    {
+      "id": "332930011",
+      "name": "Romance"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "3559296011",
+      "name": "Amish & Mennonite"
+    },
+    {
+      "id": "68180",
+      "name": "Biblical Fiction"
+    },
+    {
+      "id": "9059875011",
+      "name": "Black & African American"
+    },
+    {
+      "id": "7259430011",
+      "name": "Classics & Allegories"
+    },
+    {
+      "id": "7259431011",
+      "name": "Collections & Anthologies"
+    },
+    {
+      "id": "18882746011",
+      "name": "Contemporary"
+    },
+    {
+      "id": "7259433011",
+      "name": "Fantasy"
+    },
+    {
+      "id": "713636011",
+      "name": "General"
+    },
+    {
+      "id": "7259434011",
+      "name": "Historical"
+    },
+    {
+      "id": "332929011",
+      "name": "Mystery & Suspense"
+    },
+    {
+      "id": "12348",
+      "name": "Poetry"
+    },
+    {
+      "id": "332928011",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "7259435011",
+      "name": "Westerns"
+    }
+  ]
+}

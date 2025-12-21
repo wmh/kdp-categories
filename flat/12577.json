@@ -1,0 +1,48 @@
+{
+  "id": "12577",
+  "name": "Hebrew Bible",
+  "level": 3,
+  "parentId": "12571",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Judaism",
+    "Sacred Writings",
+    "Hebrew Bible"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "12578",
+      "name": "Biography"
+    },
+    {
+      "id": "12580",
+      "name": "Commentaries"
+    },
+    {
+      "id": "12582",
+      "name": "Criticism & Interpretation"
+    },
+    {
+      "id": "572084",
+      "name": "General"
+    },
+    {
+      "id": "12086",
+      "name": "Hebrew"
+    },
+    {
+      "id": "12584",
+      "name": "Meditations"
+    },
+    {
+      "id": "12586",
+      "name": "Stories"
+    },
+    {
+      "id": "12588",
+      "name": "Study"
+    }
+  ]
+}

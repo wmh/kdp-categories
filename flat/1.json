@@ -1,0 +1,102 @@
+{
+  "id": "1",
+  "name": "Arts & Photography",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "173508",
+      "name": "Architecture"
+    },
+    {
+      "id": "1525",
+      "name": "Collections, Catalogs & Exhibitions"
+    },
+    {
+      "id": "336832011",
+      "name": "Decorative Arts & Design"
+    },
+    {
+      "id": "1855",
+      "name": "Drawing"
+    },
+    {
+      "id": "1862",
+      "name": "Fashion"
+    },
+    {
+      "id": "1829",
+      "name": "Graphic Design"
+    },
+    {
+      "id": "1064",
+      "name": "History & Criticism"
+    },
+    {
+      "id": "1104",
+      "name": "Individual Artists"
+    },
+    {
+      "id": "7976024011",
+      "name": "Man-Made Objects"
+    },
+    {
+      "id": "4507",
+      "name": "Music"
+    },
+    {
+      "id": "520982",
+      "name": "Other Media"
+    },
+    {
+      "id": "1876",
+      "name": "Painting"
+    },
+    {
+      "id": "521000",
+      "name": "Performing Arts"
+    },
+    {
+      "id": "2020",
+      "name": "Photography & Video"
+    },
+    {
+      "id": "2106",
+      "name": "Sculpture"
+    },
+    {
+      "id": "197504011",
+      "name": "Themes"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "211758937011",
+      "name": "Art Movements"
+    },
+    {
+      "id": "1835",
+      "name": "Business of Art"
+    },
+    {
+      "id": "206206545011",
+      "name": "European Art"
+    },
+    {
+      "id": "779552",
+      "name": "General"
+    },
+    {
+      "id": "1873",
+      "name": "Religious"
+    },
+    {
+      "id": "1836",
+      "name": "Study & Teaching"
+    },
+    {
+      "id": "17745780011",
+      "name": "Women Artists"
+    }
+  ]
+}

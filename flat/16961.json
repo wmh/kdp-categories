@@ -1,0 +1,39 @@
+{
+  "id": "16961",
+  "name": "Greece",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Greece"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67624",
+      "name": "Athens"
+    },
+    {
+      "id": "67625",
+      "name": "Corfu"
+    },
+    {
+      "id": "67626",
+      "name": "Crete"
+    },
+    {
+      "id": "67627",
+      "name": "Cyclades"
+    },
+    {
+      "id": "67623",
+      "name": "General"
+    },
+    {
+      "id": "67628",
+      "name": "Rhodes"
+    }
+  ]
+}

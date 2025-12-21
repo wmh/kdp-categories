@@ -1,0 +1,27 @@
+{
+  "id": "1863",
+  "name": "Techniques",
+  "level": 2,
+  "parentId": "1829",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Graphic Design",
+    "Techniques"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "1864",
+      "name": "General"
+    },
+    {
+      "id": "1865",
+      "name": "Use of Color"
+    },
+    {
+      "id": "1866",
+      "name": "Use of Ornament"
+    }
+  ]
+}

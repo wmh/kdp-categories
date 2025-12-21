@@ -1,0 +1,27 @@
+{
+  "id": "17365",
+  "name": "New Mexico",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "New Mexico"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67511",
+      "name": "Albuquerque"
+    },
+    {
+      "id": "67510",
+      "name": "General"
+    },
+    {
+      "id": "67512",
+      "name": "Santa Fe"
+    }
+  ]
+}

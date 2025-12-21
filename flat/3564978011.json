@@ -1,0 +1,23 @@
+{
+  "id": "3564978011",
+  "name": "Books & Libraries",
+  "level": 2,
+  "parentId": "3176",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Education & Reference",
+    "Books & Libraries"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8944243011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8944244011",
+      "name": "Nonfiction"
+    }
+  ]
+}

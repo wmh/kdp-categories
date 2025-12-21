@@ -1,0 +1,182 @@
+{
+  "id": "16917",
+  "name": "Europe",
+  "level": 1,
+  "parentId": "27",
+  "isLeaf": false,
+  "path": [
+    "Europe"
+  ],
+  "nodes": [
+    {
+      "id": "16923",
+      "name": "Austria"
+    },
+    {
+      "id": "67571",
+      "name": "Belarus & Ukraine"
+    },
+    {
+      "id": "16925",
+      "name": "Belgium"
+    },
+    {
+      "id": "17018",
+      "name": "Bosnia, Croatia & Herzegovina"
+    },
+    {
+      "id": "16931",
+      "name": "Czech Republic"
+    },
+    {
+      "id": "16950",
+      "name": "England"
+    },
+    {
+      "id": "16940",
+      "name": "France"
+    },
+    {
+      "id": "16944",
+      "name": "Germany"
+    },
+    {
+      "id": "16946",
+      "name": "Great Britain"
+    },
+    {
+      "id": "16961",
+      "name": "Greece"
+    },
+    {
+      "id": "16966",
+      "name": "Hungary"
+    },
+    {
+      "id": "16970",
+      "name": "Ireland"
+    },
+    {
+      "id": "16973",
+      "name": "Italy"
+    },
+    {
+      "id": "16988",
+      "name": "Netherlands"
+    },
+    {
+      "id": "211758987011",
+      "name": "Nordic & Scandinavian Countries"
+    },
+    {
+      "id": "16990",
+      "name": "Norway"
+    },
+    {
+      "id": "16992",
+      "name": "Poland"
+    },
+    {
+      "id": "16994",
+      "name": "Portugal"
+    },
+    {
+      "id": "16996",
+      "name": "Romania & Moldova"
+    },
+    {
+      "id": "16823",
+      "name": "Russia"
+    },
+    {
+      "id": "16999",
+      "name": "San Marino & Umbria"
+    },
+    {
+      "id": "16956",
+      "name": "Scotland"
+    },
+    {
+      "id": "17023",
+      "name": "Serbia & Slovenia"
+    },
+    {
+      "id": "17003",
+      "name": "Spain"
+    },
+    {
+      "id": "17010",
+      "name": "Sweden"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16919",
+      "name": "Andorra"
+    },
+    {
+      "id": "16927",
+      "name": "Bulgaria"
+    },
+    {
+      "id": "16929",
+      "name": "Cyprus"
+    },
+    {
+      "id": "16935",
+      "name": "Estonia"
+    },
+    {
+      "id": "16938",
+      "name": "Finland"
+    },
+    {
+      "id": "16942",
+      "name": "General"
+    },
+    {
+      "id": "16964",
+      "name": "Greenland"
+    },
+    {
+      "id": "16968",
+      "name": "Iceland"
+    },
+    {
+      "id": "16976",
+      "name": "Latvia"
+    },
+    {
+      "id": "16978",
+      "name": "Liechtenstein"
+    },
+    {
+      "id": "16980",
+      "name": "Lithuania"
+    },
+    {
+      "id": "16982",
+      "name": "Luxembourg"
+    },
+    {
+      "id": "16984",
+      "name": "Malta"
+    },
+    {
+      "id": "16986",
+      "name": "Monaco"
+    },
+    {
+      "id": "17001",
+      "name": "Slovakia"
+    },
+    {
+      "id": "17013",
+      "name": "Switzerland"
+    },
+    {
+      "id": "17015",
+      "name": "Vatican"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "8951163011",
+  "name": "Foxes",
+  "level": 3,
+  "parentId": "2827",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Foxes & Wolves",
+    "Foxes"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8951164011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8951165011",
+      "name": "Nonfiction"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "2977",
+  "name": "Fairy Tales, Folk Tales & Myths",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Fairy Tales, Folk Tales & Myths"
+  ],
+  "nodes": [
+    {
+      "id": "2979",
+      "name": "United States"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2978",
+      "name": "African"
+    },
+    {
+      "id": "2984",
+      "name": "Anthologies"
+    },
+    {
+      "id": "2985",
+      "name": "Arthurian"
+    },
+    {
+      "id": "2986",
+      "name": "Asian"
+    },
+    {
+      "id": "2987",
+      "name": "Collections"
+    },
+    {
+      "id": "2988",
+      "name": "European"
+    },
+    {
+      "id": "2989",
+      "name": "General"
+    },
+    {
+      "id": "2990",
+      "name": "Greek & Roman"
+    },
+    {
+      "id": "2991",
+      "name": "Latin American"
+    },
+    {
+      "id": "2992",
+      "name": "Multicultural"
+    },
+    {
+      "id": "2993",
+      "name": "Norse"
+    },
+    {
+      "id": "2994",
+      "name": "Other"
+    }
+  ]
+}

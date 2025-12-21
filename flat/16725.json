@@ -1,0 +1,23 @@
+{
+  "id": "16725",
+  "name": "Ethiopia & Djibouti",
+  "level": 2,
+  "parentId": "16703",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Africa",
+    "Ethiopia & Djibouti"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883988011",
+      "name": "Djibouti"
+    },
+    {
+      "id": "8883989011",
+      "name": "Ethiopia"
+    }
+  ]
+}

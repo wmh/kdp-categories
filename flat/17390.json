@@ -1,0 +1,27 @@
+{
+  "id": "17390",
+  "name": "Tennessee",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Tennessee"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67535",
+      "name": "General"
+    },
+    {
+      "id": "67536",
+      "name": "Memphis"
+    },
+    {
+      "id": "67537",
+      "name": "Nashville"
+    }
+  ]
+}

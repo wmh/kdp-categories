@@ -1,0 +1,51 @@
+{
+  "id": "2872",
+  "name": "Art",
+  "level": 2,
+  "parentId": "2870",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Arts, Music & Photography",
+    "Art"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2873",
+      "name": "Cartooning"
+    },
+    {
+      "id": "2874",
+      "name": "Drawing"
+    },
+    {
+      "id": "2875",
+      "name": "Fashion"
+    },
+    {
+      "id": "8298067011",
+      "name": "Fiction"
+    },
+    {
+      "id": "2877",
+      "name": "General"
+    },
+    {
+      "id": "2878",
+      "name": "History"
+    },
+    {
+      "id": "2879",
+      "name": "Painting"
+    },
+    {
+      "id": "2880",
+      "name": "Sculpture"
+    },
+    {
+      "id": "8298068011",
+      "name": "Techniques"
+    }
+  ]
+}

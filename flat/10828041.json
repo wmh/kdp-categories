@@ -1,0 +1,35 @@
+{
+  "id": "10828041",
+  "name": "By Climate",
+  "level": 2,
+  "parentId": "5241",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Gardening & Landscape Design",
+    "By Climate"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "1043896",
+      "name": "Colder Climates"
+    },
+    {
+      "id": "10828061",
+      "name": "Desert"
+    },
+    {
+      "id": "10828051",
+      "name": "General"
+    },
+    {
+      "id": "10828071",
+      "name": "Temperate"
+    },
+    {
+      "id": "10828081",
+      "name": "Tropical"
+    }
+  ]
+}

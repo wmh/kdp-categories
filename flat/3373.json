@@ -1,0 +1,48 @@
+{
+  "id": "3373",
+  "name": "Activity Books",
+  "level": 2,
+  "parentId": "3371",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Activities, Crafts & Games",
+    "Activity Books"
+  ],
+  "nodes": [
+    {
+      "id": "3374",
+      "name": "Coloring Books"
+    },
+    {
+      "id": "3375",
+      "name": "Cut & Assemble"
+    },
+    {
+      "id": "3376",
+      "name": "Diaries"
+    },
+    {
+      "id": "3377",
+      "name": "Dot to Dot"
+    },
+    {
+      "id": "3379",
+      "name": "Hidden Picture"
+    },
+    {
+      "id": "3380",
+      "name": "Mazes"
+    },
+    {
+      "id": "18882663011",
+      "name": "Sticker Books"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "3378",
+      "name": "General"
+    }
+  ]
+}

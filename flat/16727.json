@@ -1,0 +1,23 @@
+{
+  "id": "16727",
+  "name": "Gambia & Senegal",
+  "level": 2,
+  "parentId": "16703",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Africa",
+    "Gambia & Senegal"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883990011",
+      "name": "Gambia"
+    },
+    {
+      "id": "8883991011",
+      "name": "Senegal"
+    }
+  ]
+}

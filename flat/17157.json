@@ -1,0 +1,27 @@
+{
+  "id": "17157",
+  "name": "Brazil",
+  "level": 2,
+  "parentId": "17150",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "South America",
+    "Brazil"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67577",
+      "name": "Amazon"
+    },
+    {
+      "id": "67576",
+      "name": "General"
+    },
+    {
+      "id": "67578",
+      "name": "Rio de Janeiro"
+    }
+  ]
+}

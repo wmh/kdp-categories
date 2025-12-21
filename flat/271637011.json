@@ -1,0 +1,36 @@
+{
+  "id": "271637011",
+  "name": "Southeast",
+  "level": 2,
+  "parentId": "16772",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Asia",
+    "Southeast"
+  ],
+  "nodes": [
+    {
+      "id": "16795",
+      "name": "Indonesia"
+    },
+    {
+      "id": "16841",
+      "name": "Thailand"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16821",
+      "name": "Philippines"
+    },
+    {
+      "id": "16826",
+      "name": "Singapore"
+    },
+    {
+      "id": "16849",
+      "name": "Vietnam"
+    }
+  ]
+}

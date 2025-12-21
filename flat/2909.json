@@ -1,0 +1,37 @@
+{
+  "id": "2909",
+  "name": "Computers & Technology",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Computers & Technology"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2910",
+      "name": "Entertainment & Games"
+    },
+    {
+      "id": "2912",
+      "name": "General"
+    },
+    {
+      "id": "2913",
+      "name": "Hardware & Robotics"
+    },
+    {
+      "id": "2914",
+      "name": "Internet"
+    },
+    {
+      "id": "2915",
+      "name": "Programming"
+    },
+    {
+      "id": "2916",
+      "name": "Software"
+    }
+  ]
+}

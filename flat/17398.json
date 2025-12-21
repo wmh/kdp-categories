@@ -1,0 +1,23 @@
+{
+  "id": "17398",
+  "name": "Virginia",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Virginia"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67547",
+      "name": "General"
+    },
+    {
+      "id": "67548",
+      "name": "Richmond"
+    }
+  ]
+}

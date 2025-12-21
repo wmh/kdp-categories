@@ -1,0 +1,35 @@
+{
+  "id": "6383005011",
+  "name": "Dolls, Toys & Figurines",
+  "level": 2,
+  "parentId": "5066",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Antiques & Collectibles",
+    "Dolls, Toys & Figurines"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5082",
+      "name": "Dolls"
+    },
+    {
+      "id": "11160401011",
+      "name": "Figurines"
+    },
+    {
+      "id": "5119",
+      "name": "Teddy Bears"
+    },
+    {
+      "id": "5123",
+      "name": "Toy Animals"
+    },
+    {
+      "id": "5124",
+      "name": "Toys"
+    }
+  ]
+}

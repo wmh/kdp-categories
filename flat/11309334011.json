@@ -1,0 +1,27 @@
+{
+  "id": "11309334011",
+  "name": "Wicca, Witchcraft & Paganism",
+  "level": 2,
+  "parentId": "12621",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "New Age & Spirituality",
+    "Wicca, Witchcraft & Paganism"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "297501",
+      "name": "Paganism"
+    },
+    {
+      "id": "12484",
+      "name": "Wicca"
+    },
+    {
+      "id": "12486",
+      "name": "Witchcraft"
+    }
+  ]
+}

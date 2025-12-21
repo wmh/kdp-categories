@@ -1,0 +1,24 @@
+{
+  "id": "3280",
+  "name": "Weather",
+  "level": 3,
+  "parentId": "3261",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Science, Nature & How It Works",
+    "Nature",
+    "Weather"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "18882697011",
+      "name": "Fiction"
+    },
+    {
+      "id": "18882698011",
+      "name": "Nonfiction"
+    }
+  ]
+}

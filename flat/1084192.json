@@ -1,0 +1,42 @@
+{
+  "id": "1084192",
+  "name": "Growing Up & Facts of Life",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Growing Up & Facts of Life"
+  ],
+  "nodes": [
+    {
+      "id": "7009086011",
+      "name": "Difficult Discussions"
+    },
+    {
+      "id": "3045",
+      "name": "Family Life"
+    },
+    {
+      "id": "7009087011",
+      "name": "Friendship, Social Skills & School Life"
+    },
+    {
+      "id": "3230",
+      "name": "Health"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16233471",
+      "name": "General"
+    },
+    {
+      "id": "3564980011",
+      "name": "Growing Up & Facts of Life"
+    },
+    {
+      "id": "1084244",
+      "name": "Twins"
+    }
+  ]
+}

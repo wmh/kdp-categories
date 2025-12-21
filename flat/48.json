@@ -1,0 +1,58 @@
+{
+  "id": "48",
+  "name": "Crafts, Hobbies & Home",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "5066",
+      "name": "Antiques & Collectibles"
+    },
+    {
+      "id": "11357541011",
+      "name": "Coloring Books for Grown-Ups"
+    },
+    {
+      "id": "5126",
+      "name": "Crafts & Hobbies"
+    },
+    {
+      "id": "5241",
+      "name": "Gardening & Landscape Design"
+    },
+    {
+      "id": "6158312011",
+      "name": "Home Improvement & Design"
+    },
+    {
+      "id": "13998731",
+      "name": "Needlecrafts & Textile Crafts"
+    },
+    {
+      "id": "5043",
+      "name": "Pets & Animal Care"
+    },
+    {
+      "id": "14916051",
+      "name": "Sustainable Living"
+    },
+    {
+      "id": "5418",
+      "name": "Weddings"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "13922613011",
+      "name": "Event Planning"
+    },
+    {
+      "id": "5209",
+      "name": "Expert Advice"
+    },
+    {
+      "id": "197497011",
+      "name": "General"
+    }
+  ]
+}

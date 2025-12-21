@@ -1,0 +1,24 @@
+{
+  "id": "5111",
+  "name": "Sports Cards",
+  "level": 3,
+  "parentId": "6383008011",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Antiques & Collectibles",
+    "Sports Memorabilia & Cards",
+    "Sports Cards"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5112",
+      "name": "Baseball"
+    },
+    {
+      "id": "5115",
+      "name": "General"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "2081",
+  "name": "Nature & Wildlife",
+  "level": 2,
+  "parentId": "2020",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Photography & Video",
+    "Nature & Wildlife"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "13922583011",
+      "name": "Gardens"
+    },
+    {
+      "id": "8298056011",
+      "name": "Landscapes"
+    },
+    {
+      "id": "8298057011",
+      "name": "Plants & Animals"
+    },
+    {
+      "id": "13922607011",
+      "name": "Underwater"
+    }
+  ]
+}

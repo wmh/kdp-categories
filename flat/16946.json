@@ -1,0 +1,40 @@
+{
+  "id": "16946",
+  "name": "Great Britain",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Great Britain"
+  ],
+  "nodes": [
+    {
+      "id": "16950",
+      "name": "England"
+    },
+    {
+      "id": "16956",
+      "name": "Scotland"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16948",
+      "name": "Channel Islands"
+    },
+    {
+      "id": "16952",
+      "name": "General"
+    },
+    {
+      "id": "16954",
+      "name": "Northern Ireland"
+    },
+    {
+      "id": "16959",
+      "name": "Wales"
+    }
+  ]
+}

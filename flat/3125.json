@@ -1,0 +1,24 @@
+{
+  "id": "3125",
+  "name": "Death & Dying",
+  "level": 3,
+  "parentId": "7009086011",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Growing Up & Facts of Life",
+    "Difficult Discussions",
+    "Death & Dying"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883852011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883853011",
+      "name": "Nonfiction"
+    }
+  ]
+}

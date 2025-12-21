@@ -1,0 +1,29 @@
+{
+  "id": "12391",
+  "name": "Holidays",
+  "level": 3,
+  "parentId": "12333",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Christian Living",
+    "Holidays"
+  ],
+  "nodes": [
+    {
+      "id": "12393",
+      "name": "Christmas"
+    },
+    {
+      "id": "12395",
+      "name": "Easter & Lent"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "12397",
+      "name": "General"
+    }
+  ]
+}

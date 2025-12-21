@@ -1,0 +1,39 @@
+{
+  "id": "17313",
+  "name": "Hawaii",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Hawaii"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67484",
+      "name": "Big Island"
+    },
+    {
+      "id": "67483",
+      "name": "General"
+    },
+    {
+      "id": "67485",
+      "name": "Honolulu"
+    },
+    {
+      "id": "67486",
+      "name": "Kauai"
+    },
+    {
+      "id": "67487",
+      "name": "Maui"
+    },
+    {
+      "id": "67488",
+      "name": "Oahu"
+    }
+  ]
+}

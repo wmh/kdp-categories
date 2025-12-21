@@ -1,0 +1,35 @@
+{
+  "id": "3094",
+  "name": "Multicultural Stories",
+  "level": 2,
+  "parentId": "3344091011",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Geography & Cultures",
+    "Multicultural Stories"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3096",
+      "name": "Asian & Asian American"
+    },
+    {
+      "id": "3095",
+      "name": "Black & African American Stories"
+    },
+    {
+      "id": "3097",
+      "name": "General"
+    },
+    {
+      "id": "3098",
+      "name": "Hispanic & Latino"
+    },
+    {
+      "id": "3099",
+      "name": "Native North & South Americans"
+    }
+  ]
+}

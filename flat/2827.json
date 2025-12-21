@@ -1,0 +1,23 @@
+{
+  "id": "2827",
+  "name": "Foxes & Wolves",
+  "level": 2,
+  "parentId": "2787",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Foxes & Wolves"
+  ],
+  "nodes": [
+    {
+      "id": "8951163011",
+      "name": "Foxes"
+    },
+    {
+      "id": "8951166011",
+      "name": "Wolves & Coyotes"
+    }
+  ],
+  "leafs": []
+}

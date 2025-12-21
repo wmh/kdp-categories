@@ -1,0 +1,31 @@
+{
+  "id": "3004",
+  "name": "Poetry",
+  "level": 2,
+  "parentId": "2966",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Literature & Fiction",
+    "Poetry"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3006",
+      "name": "General"
+    },
+    {
+      "id": "3007",
+      "name": "Humorous"
+    },
+    {
+      "id": "9432906011",
+      "name": "Nursery Rhymes"
+    },
+    {
+      "id": "9432907011",
+      "name": "Stories In Verse"
+    }
+  ]
+}

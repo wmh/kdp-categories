@@ -1,0 +1,19 @@
+{
+  "id": "206206499011",
+  "name": "Indigenous",
+  "level": 2,
+  "parentId": "12761",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Other Religions, Practices & Sacred Texts",
+    "Indigenous"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "12478",
+      "name": "Native American"
+    }
+  ]
+}

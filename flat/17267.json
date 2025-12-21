@@ -1,0 +1,27 @@
+{
+  "id": "17267",
+  "name": "Alaska",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Alaska"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67462",
+      "name": "Anchorage"
+    },
+    {
+      "id": "67463",
+      "name": "Fairbanks"
+    },
+    {
+      "id": "67461",
+      "name": "General"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "16703",
+  "name": "Africa",
+  "level": 1,
+  "parentId": "27",
+  "isLeaf": false,
+  "path": [
+    "Africa"
+  ],
+  "nodes": [
+    {
+      "id": "16725",
+      "name": "Ethiopia & Djibouti"
+    },
+    {
+      "id": "16727",
+      "name": "Gambia & Senegal"
+    },
+    {
+      "id": "16738",
+      "name": "Madagascar & Comoros"
+    },
+    {
+      "id": "16747",
+      "name": "Niger & Nigeria"
+    },
+    {
+      "id": "16749",
+      "name": "Rwanda & Uganda"
+    },
+    {
+      "id": "16755",
+      "name": "South Africa"
+    },
+    {
+      "id": "16765",
+      "name": "Western Africa: Mali, Mauritania & Western Sahara"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16705",
+      "name": "Algeria"
+    },
+    {
+      "id": "16707",
+      "name": "Botswana"
+    },
+    {
+      "id": "16709",
+      "name": "Burkina Faso"
+    },
+    {
+      "id": "16711",
+      "name": "Coastal West Africa"
+    },
+    {
+      "id": "16718",
+      "name": "Democratic Republic of Congo"
+    },
+    {
+      "id": "16723",
+      "name": "Eritrea"
+    },
+    {
+      "id": "16730",
+      "name": "General"
+    },
+    {
+      "id": "16732",
+      "name": "Kenya"
+    },
+    {
+      "id": "16734",
+      "name": "Lesotho"
+    },
+    {
+      "id": "16736",
+      "name": "Libya"
+    },
+    {
+      "id": "16740",
+      "name": "Malawi"
+    },
+    {
+      "id": "16742",
+      "name": "Morocco"
+    },
+    {
+      "id": "16744",
+      "name": "Mozambique"
+    },
+    {
+      "id": "16746",
+      "name": "Namibia"
+    },
+    {
+      "id": "16913",
+      "name": "Sao Tome and Principe"
+    },
+    {
+      "id": "16751",
+      "name": "Seychelles"
+    },
+    {
+      "id": "16753",
+      "name": "Somalia"
+    },
+    {
+      "id": "16757",
+      "name": "Sudan"
+    },
+    {
+      "id": "16759",
+      "name": "Swaziland"
+    },
+    {
+      "id": "16761",
+      "name": "Tanzania"
+    },
+    {
+      "id": "16763",
+      "name": "Tunisia"
+    },
+    {
+      "id": "16768",
+      "name": "Zambia"
+    },
+    {
+      "id": "16770",
+      "name": "Zimbabwe"
+    }
+  ]
+}

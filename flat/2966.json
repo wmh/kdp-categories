@@ -1,0 +1,66 @@
+{
+  "id": "2966",
+  "name": "Literature & Fiction",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction"
+  ],
+  "nodes": [
+    {
+      "id": "18882683011",
+      "name": "Art & Architecture"
+    },
+    {
+      "id": "3564979011",
+      "name": "Chapter Books & Readers"
+    },
+    {
+      "id": "2926",
+      "name": "Historical Fiction"
+    },
+    {
+      "id": "3004",
+      "name": "Poetry"
+    },
+    {
+      "id": "3113",
+      "name": "Religious Fiction"
+    },
+    {
+      "id": "18882699011",
+      "name": "Technology"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "211758993011",
+      "name": "Community & Neighbors"
+    },
+    {
+      "id": "18882688011",
+      "name": "Diversity & Multicultural"
+    },
+    {
+      "id": "16254411",
+      "name": "General"
+    },
+    {
+      "id": "11764656011",
+      "name": "Light Novels"
+    },
+    {
+      "id": "15356881",
+      "name": "Literary Criticism & Collections"
+    },
+    {
+      "id": "3019",
+      "name": "Short Story Collections"
+    },
+    {
+      "id": "206206491011",
+      "name": "Trickster Tales"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "67560",
+  "name": "Argentina",
+  "level": 2,
+  "parentId": "17150",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "South America",
+    "Argentina"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67562",
+      "name": "Buenos Aires"
+    },
+    {
+      "id": "67561",
+      "name": "General"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "11357541011",
+  "name": "Coloring Books for Grown-Ups",
+  "level": 2,
+  "parentId": "5126",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Crafts & Hobbies",
+    "Coloring Books for Grown-Ups"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "14279703011",
+      "name": "Animals"
+    },
+    {
+      "id": "14279705011",
+      "name": "Cities & Architecture"
+    },
+    {
+      "id": "14279709011",
+      "name": "Comics & Manga"
+    },
+    {
+      "id": "14279714011",
+      "name": "Fantasy & Science Fiction"
+    },
+    {
+      "id": "14279716011",
+      "name": "Fashion"
+    },
+    {
+      "id": "14279719011",
+      "name": "Flowers & Landscapes"
+    },
+    {
+      "id": "14279722011",
+      "name": "General"
+    },
+    {
+      "id": "14279726011",
+      "name": "Humorous"
+    },
+    {
+      "id": "14279728011",
+      "name": "Mandalas & Patterns"
+    },
+    {
+      "id": "14279732011",
+      "name": "Religious & Inspirational"
+    },
+    {
+      "id": "14279733011",
+      "name": "Science & Anatomy"
+    }
+  ]
+}

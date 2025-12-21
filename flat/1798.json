@@ -1,0 +1,29 @@
+{
+  "id": "1798",
+  "name": "Religious & Sacred Music",
+  "level": 3,
+  "parentId": "4512",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Music",
+    "Musical Genres",
+    "Religious & Sacred Music"
+  ],
+  "nodes": [
+    {
+      "id": "1799",
+      "name": "Christian"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "1803",
+      "name": "Jewish"
+    },
+    {
+      "id": "1804",
+      "name": "Muslim"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "12761",
+  "name": "Other Religions, Practices & Sacred Texts",
+  "level": 1,
+  "parentId": "22",
+  "isLeaf": false,
+  "path": [
+    "Other Religions, Practices & Sacred Texts"
+  ],
+  "nodes": [
+    {
+      "id": "12775",
+      "name": "Folk & Tribal"
+    },
+    {
+      "id": "206206499011",
+      "name": "Indigenous"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16009641",
+      "name": "Apocrypha"
+    },
+    {
+      "id": "12737",
+      "name": "Baha'i"
+    },
+    {
+      "id": "11309346011",
+      "name": "Cults"
+    },
+    {
+      "id": "12703",
+      "name": "Demonology & Satanism"
+    },
+    {
+      "id": "15755621",
+      "name": "Eckankar"
+    },
+    {
+      "id": "12255",
+      "name": "Egyptian Book of the Dead"
+    },
+    {
+      "id": "12766",
+      "name": "Freemasonry"
+    },
+    {
+      "id": "873752",
+      "name": "Messianic Judaism"
+    },
+    {
+      "id": "12767",
+      "name": "Mysticism"
+    },
+    {
+      "id": "12773",
+      "name": "Scientology"
+    },
+    {
+      "id": "12463",
+      "name": "Theism"
+    },
+    {
+      "id": "12777",
+      "name": "Unitarian Universalism"
+    }
+  ]
+}

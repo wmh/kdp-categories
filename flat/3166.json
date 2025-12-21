@@ -1,0 +1,19 @@
+{
+  "id": "3166",
+  "name": "Travel",
+  "level": 2,
+  "parentId": "3344091011",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Geography & Cultures",
+    "Travel"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11764658011",
+      "name": "Fiction"
+    }
+  ]
+}

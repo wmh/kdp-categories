@@ -1,0 +1,29 @@
+{
+  "id": "1104",
+  "name": "Individual Artists",
+  "level": 1,
+  "parentId": "1",
+  "isLeaf": false,
+  "path": [
+    "Individual Artists"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8947733011",
+      "name": "Artists' Books"
+    },
+    {
+      "id": "8947734011",
+      "name": "Essays"
+    },
+    {
+      "id": "585494",
+      "name": "General"
+    },
+    {
+      "id": "8947735011",
+      "name": "Monographs"
+    }
+  ]
+}

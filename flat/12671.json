@@ -1,0 +1,27 @@
+{
+  "id": "12671",
+  "name": "Mental & Spiritual Healing",
+  "level": 2,
+  "parentId": "12621",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "New Age & Spirituality",
+    "Mental & Spiritual Healing"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11309342011",
+      "name": "Energy"
+    },
+    {
+      "id": "11309343011",
+      "name": "General"
+    },
+    {
+      "id": "11309344011",
+      "name": "Prayer & Spiritual"
+    }
+  ]
+}

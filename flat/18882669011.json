@@ -1,0 +1,23 @@
+{
+  "id": "18882669011",
+  "name": "Deer, Moose & Caribou",
+  "level": 2,
+  "parentId": "2787",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Deer, Moose & Caribou"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "18882670011",
+      "name": "Fiction"
+    },
+    {
+      "id": "18882671011",
+      "name": "Nonfiction"
+    }
+  ]
+}

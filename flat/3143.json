@@ -1,0 +1,27 @@
+{
+  "id": "3143",
+  "name": "Cultural Studies",
+  "level": 2,
+  "parentId": "3344091011",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Geography & Cultures",
+    "Cultural Studies"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3145",
+      "name": "Customs, Traditions, Anthropology"
+    },
+    {
+      "id": "3147",
+      "name": "General"
+    },
+    {
+      "id": "3148",
+      "name": "Sociology"
+    }
+  ]
+}

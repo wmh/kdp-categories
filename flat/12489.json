@@ -1,0 +1,54 @@
+{
+  "id": "12489",
+  "name": "Literature & Fiction",
+  "level": 1,
+  "parentId": "22",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction"
+  ],
+  "nodes": [
+    {
+      "id": "172806",
+      "name": "Christian"
+    },
+    {
+      "id": "68145",
+      "name": "Science Fiction & Fantasy"
+    },
+    {
+      "id": "3559298011",
+      "name": "Short Stories & Anthologies"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "68180",
+      "name": "Biblical"
+    },
+    {
+      "id": "735744",
+      "name": "General"
+    },
+    {
+      "id": "12495",
+      "name": "Historical"
+    },
+    {
+      "id": "16004751",
+      "name": "Jewish"
+    },
+    {
+      "id": "12498",
+      "name": "Mystery"
+    },
+    {
+      "id": "12500",
+      "name": "Romance"
+    },
+    {
+      "id": "3559299011",
+      "name": "Western"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5045",
+  "name": "Cats",
+  "level": 2,
+  "parentId": "5043",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Pets & Animal Care",
+    "Cats"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5046",
+      "name": "Breeds"
+    },
+    {
+      "id": "5047",
+      "name": "Care & Health"
+    },
+    {
+      "id": "5048",
+      "name": "General"
+    },
+    {
+      "id": "11160419011",
+      "name": "Training"
+    }
+  ]
+}

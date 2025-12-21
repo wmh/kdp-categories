@@ -1,0 +1,47 @@
+{
+  "id": "17367",
+  "name": "New York",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "New York"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67513",
+      "name": "Adirondacks"
+    },
+    {
+      "id": "67514",
+      "name": "Brooklyn"
+    },
+    {
+      "id": "67515",
+      "name": "Buffalo"
+    },
+    {
+      "id": "67516",
+      "name": "Catskills"
+    },
+    {
+      "id": "17369",
+      "name": "General"
+    },
+    {
+      "id": "67517",
+      "name": "Long Island"
+    },
+    {
+      "id": "17371",
+      "name": "New York City"
+    },
+    {
+      "id": "67518",
+      "name": "Niagara Falls"
+    }
+  ]
+}

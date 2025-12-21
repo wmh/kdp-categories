@@ -1,0 +1,31 @@
+{
+  "id": "16792",
+  "name": "India",
+  "level": 2,
+  "parentId": "16772",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Asia",
+    "India"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67632",
+      "name": "Bombay"
+    },
+    {
+      "id": "67633",
+      "name": "Calcutta"
+    },
+    {
+      "id": "67634",
+      "name": "Delhi"
+    },
+    {
+      "id": "67631",
+      "name": "General"
+    }
+  ]
+}

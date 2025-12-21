@@ -1,0 +1,97 @@
+{
+  "id": "13998731",
+  "name": "Needlecrafts & Textile Crafts",
+  "level": 1,
+  "parentId": "48",
+  "isLeaf": false,
+  "path": [
+    "Needlecrafts & Textile Crafts"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5127",
+      "name": "Applique"
+    },
+    {
+      "id": "5132",
+      "name": "Crocheting"
+    },
+    {
+      "id": "5133",
+      "name": "Cross-Stitch"
+    },
+    {
+      "id": "5138",
+      "name": "Dye"
+    },
+    {
+      "id": "5139",
+      "name": "Embroidery"
+    },
+    {
+      "id": "5140",
+      "name": "Fashion"
+    },
+    {
+      "id": "11160411011",
+      "name": "Felting"
+    },
+    {
+      "id": "11160412011",
+      "name": "Fiber Arts & Textiles"
+    },
+    {
+      "id": "5148",
+      "name": "Knitting"
+    },
+    {
+      "id": "3564984011",
+      "name": "Knots, Macrame & Rope Work"
+    },
+    {
+      "id": "5149",
+      "name": "Lace & Tatting"
+    },
+    {
+      "id": "5151",
+      "name": "Leathercrafts"
+    },
+    {
+      "id": "5157",
+      "name": "Needlepoint"
+    },
+    {
+      "id": "5158",
+      "name": "Needlework"
+    },
+    {
+      "id": "5166",
+      "name": "Patchwork"
+    },
+    {
+      "id": "5171",
+      "name": "Quilts & Quilting"
+    },
+    {
+      "id": "68203",
+      "name": "Ribbons"
+    },
+    {
+      "id": "5173",
+      "name": "Rugs"
+    },
+    {
+      "id": "5177",
+      "name": "Sewing"
+    },
+    {
+      "id": "5178",
+      "name": "Spinning"
+    },
+    {
+      "id": "5187",
+      "name": "Weaving"
+    }
+  ]
+}

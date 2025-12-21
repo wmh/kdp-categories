@@ -1,0 +1,23 @@
+{
+  "id": "11309332011",
+  "name": "Zen",
+  "level": 2,
+  "parentId": "12279",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Buddhism",
+    "Zen"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "12288",
+      "name": "Philosophy"
+    },
+    {
+      "id": "12286",
+      "name": "Spirituality"
+    }
+  ]
+}

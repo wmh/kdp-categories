@@ -1,0 +1,88 @@
+{
+  "id": "172810",
+  "name": "Bible Study & Reference",
+  "level": 2,
+  "parentId": "12290",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Bible Study & Reference"
+  ],
+  "nodes": [
+    {
+      "id": "7259399011",
+      "name": "Additional Texts"
+    },
+    {
+      "id": "720864",
+      "name": "Bible Study"
+    },
+    {
+      "id": "12155",
+      "name": "Commentaries"
+    },
+    {
+      "id": "12165",
+      "name": "Criticism & Interpretation"
+    },
+    {
+      "id": "12181",
+      "name": "Meditations"
+    },
+    {
+      "id": "12188",
+      "name": "New Testament"
+    },
+    {
+      "id": "12200",
+      "name": "Old Testament"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "172701",
+      "name": "Atlases"
+    },
+    {
+      "id": "12163",
+      "name": "Concordances"
+    },
+    {
+      "id": "12172",
+      "name": "Dictionaries & Encyclopedias"
+    },
+    {
+      "id": "12174",
+      "name": "General"
+    },
+    {
+      "id": "7259403011",
+      "name": "Handbooks"
+    },
+    {
+      "id": "7259405011",
+      "name": "History & Culture"
+    },
+    {
+      "id": "12179",
+      "name": "Language Studies"
+    },
+    {
+      "id": "12215",
+      "name": "Prophecies"
+    },
+    {
+      "id": "7259407011",
+      "name": "Prophets"
+    },
+    {
+      "id": "12218",
+      "name": "Quotations"
+    },
+    {
+      "id": "7259409011",
+      "name": "Wisdom Literature"
+    }
+  ]
+}

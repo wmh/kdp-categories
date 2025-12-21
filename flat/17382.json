@@ -1,0 +1,27 @@
+{
+  "id": "17382",
+  "name": "Pennsylvania",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Pennsylvania"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67527",
+      "name": "General"
+    },
+    {
+      "id": "67528",
+      "name": "Philadelphia"
+    },
+    {
+      "id": "67529",
+      "name": "Pittsburgh"
+    }
+  ]
+}

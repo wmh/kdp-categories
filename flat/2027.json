@@ -1,0 +1,23 @@
+{
+  "id": "2027",
+  "name": "Criticism & Essays",
+  "level": 2,
+  "parentId": "2020",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Photography & Video",
+    "Criticism & Essays"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298054011",
+      "name": "Criticism"
+    },
+    {
+      "id": "8298055011",
+      "name": "Essays"
+    }
+  ]
+}

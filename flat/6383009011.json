@@ -1,0 +1,31 @@
+{
+  "id": "6383009011",
+  "name": "Flower Arranging & Crafts",
+  "level": 2,
+  "parentId": "5126",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Crafts & Hobbies",
+    "Flower Arranging & Crafts"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5137",
+      "name": "Dried Flowers"
+    },
+    {
+      "id": "5141",
+      "name": "Flower Arranging"
+    },
+    {
+      "id": "5167",
+      "name": "Potpourri"
+    },
+    {
+      "id": "68204",
+      "name": "Wreathmaking"
+    }
+  ]
+}

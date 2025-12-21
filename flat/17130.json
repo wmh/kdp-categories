@@ -1,0 +1,49 @@
+{
+  "id": "17130",
+  "name": "Central America",
+  "level": 1,
+  "parentId": "27",
+  "isLeaf": false,
+  "path": [
+    "Central America"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17131",
+      "name": "Belize"
+    },
+    {
+      "id": "17133",
+      "name": "Costa Rica"
+    },
+    {
+      "id": "17135",
+      "name": "El Salvador"
+    },
+    {
+      "id": "17138",
+      "name": "General"
+    },
+    {
+      "id": "17140",
+      "name": "Guatemala"
+    },
+    {
+      "id": "17142",
+      "name": "Honduras"
+    },
+    {
+      "id": "213479467011",
+      "name": "Mexico"
+    },
+    {
+      "id": "17144",
+      "name": "Nicaragua"
+    },
+    {
+      "id": "17146",
+      "name": "Panama"
+    }
+  ]
+}

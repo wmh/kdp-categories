@@ -1,0 +1,21 @@
+{
+  "id": "16406",
+  "name": "United States",
+  "level": 4,
+  "parentId": "16400",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Specialty Travel",
+    "Adventure",
+    "Hiking",
+    "United States"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16407",
+      "name": "Alaska"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "16755",
+  "name": "South Africa",
+  "level": 2,
+  "parentId": "16703",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Africa",
+    "South Africa"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67681",
+      "name": "Cape Town"
+    },
+    {
+      "id": "67680",
+      "name": "General"
+    },
+    {
+      "id": "67682",
+      "name": "Johannesburg"
+    }
+  ]
+}

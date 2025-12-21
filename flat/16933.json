@@ -1,0 +1,24 @@
+{
+  "id": "16933",
+  "name": "Denmark",
+  "level": 3,
+  "parentId": "211758987011",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Nordic & Scandinavian Countries",
+    "Denmark"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67597",
+      "name": "Copenhagen"
+    },
+    {
+      "id": "67596",
+      "name": "General"
+    }
+  ]
+}

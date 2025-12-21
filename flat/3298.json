@@ -1,0 +1,23 @@
+{
+  "id": "3298",
+  "name": "Trains",
+  "level": 2,
+  "parentId": "3284",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Cars, Trains & Things That Go",
+    "Trains"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883842011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883843011",
+      "name": "Nonfiction"
+    }
+  ]
+}

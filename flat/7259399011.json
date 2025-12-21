@@ -1,0 +1,24 @@
+{
+  "id": "7259399011",
+  "name": "Additional Texts",
+  "level": 3,
+  "parentId": "172810",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Bible Study & Reference",
+    "Additional Texts"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "7259400011",
+      "name": "Apocrypha & Pseudepigrapha"
+    },
+    {
+      "id": "172805",
+      "name": "Dead Sea Scrolls"
+    }
+  ]
+}

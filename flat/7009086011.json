@@ -1,0 +1,47 @@
+{
+  "id": "7009086011",
+  "name": "Difficult Discussions",
+  "level": 2,
+  "parentId": "1084192",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Growing Up & Facts of Life",
+    "Difficult Discussions"
+  ],
+  "nodes": [
+    {
+      "id": "3124",
+      "name": "Abuse"
+    },
+    {
+      "id": "3125",
+      "name": "Death & Dying"
+    },
+    {
+      "id": "1084216",
+      "name": "Disaster Preparedness"
+    },
+    {
+      "id": "1084226",
+      "name": "Drugs & Substance Abuse"
+    },
+    {
+      "id": "3133",
+      "name": "Homelessness & Poverty"
+    },
+    {
+      "id": "3135",
+      "name": "Prejudice & Racism"
+    },
+    {
+      "id": "3138",
+      "name": "Runaways"
+    },
+    {
+      "id": "3142",
+      "name": "Violence"
+    }
+  ],
+  "leafs": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "3263",
+  "name": "Environment",
+  "level": 3,
+  "parentId": "3261",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Science, Nature & How It Works",
+    "Nature",
+    "Environment"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883929011",
+      "name": "Environment"
+    },
+    {
+      "id": "8883930011",
+      "name": "Nonfiction"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "7009074011",
+  "name": "Beadwork, Fashion & Jewelry",
+  "level": 3,
+  "parentId": "2882",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Activities, Crafts & Games",
+    "Crafts & Hobbies",
+    "Beadwork, Fashion & Jewelry"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298064011",
+      "name": "Beadwork"
+    },
+    {
+      "id": "8298065011",
+      "name": "Fashion"
+    },
+    {
+      "id": "8298066011",
+      "name": "Jewelry"
+    }
+  ]
+}

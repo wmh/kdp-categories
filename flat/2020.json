@@ -1,0 +1,122 @@
+{
+  "id": "2020",
+  "name": "Photography & Video",
+  "level": 1,
+  "parentId": "1",
+  "isLeaf": false,
+  "path": [
+    "Photography & Video"
+  ],
+  "nodes": [
+    {
+      "id": "2021",
+      "name": "Architectural"
+    },
+    {
+      "id": "2026",
+      "name": "Business & Careers"
+    },
+    {
+      "id": "2024",
+      "name": "Collections, Catalogues & Exhibitions"
+    },
+    {
+      "id": "2027",
+      "name": "Criticism & Essays"
+    },
+    {
+      "id": "505092",
+      "name": "Equipment, Techniques & Reference"
+    },
+    {
+      "id": "8622825011",
+      "name": "Individual Photographers"
+    },
+    {
+      "id": "3564970011",
+      "name": "Lifestyle & Events"
+    },
+    {
+      "id": "2081",
+      "name": "Nature & Wildlife"
+    },
+    {
+      "id": "8622836011",
+      "name": "Photojournalism & Essays"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "3564969011",
+      "name": "Aerial"
+    },
+    {
+      "id": "13922603011",
+      "name": "Astrophotography"
+    },
+    {
+      "id": "15762981",
+      "name": "Black & White"
+    },
+    {
+      "id": "8622835011",
+      "name": "Celebrities"
+    },
+    {
+      "id": "271619011",
+      "name": "Children"
+    },
+    {
+      "id": "2023",
+      "name": "Cinematography"
+    },
+    {
+      "id": "3825141",
+      "name": "Digital Photography"
+    },
+    {
+      "id": "2029",
+      "name": "Erotic Photography"
+    },
+    {
+      "id": "2030",
+      "name": "Fashion"
+    },
+    {
+      "id": "8622819011",
+      "name": "Film & Video Art"
+    },
+    {
+      "id": "13922604011",
+      "name": "Forensic"
+    },
+    {
+      "id": "2031",
+      "name": "General"
+    },
+    {
+      "id": "2032",
+      "name": "History"
+    },
+    {
+      "id": "5019",
+      "name": "Military History"
+    },
+    {
+      "id": "8622831011",
+      "name": "Nude Photography"
+    },
+    {
+      "id": "2084",
+      "name": "Portraits"
+    },
+    {
+      "id": "271621011",
+      "name": "Sports"
+    },
+    {
+      "id": "2087",
+      "name": "Travel"
+    }
+  ]
+}

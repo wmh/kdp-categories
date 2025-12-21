@@ -1,0 +1,27 @@
+{
+  "id": "17411",
+  "name": "Wyoming",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Wyoming"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67557",
+      "name": "General"
+    },
+    {
+      "id": "67558",
+      "name": "Jackson Hole"
+    },
+    {
+      "id": "67559",
+      "name": "Yellowstone"
+    }
+  ]
+}

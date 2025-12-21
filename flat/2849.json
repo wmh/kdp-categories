@@ -1,0 +1,27 @@
+{
+  "id": "2849",
+  "name": "Mice, Hamsters, Guinea Pigs & Squirrels",
+  "level": 2,
+  "parentId": "2787",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Mice, Hamsters, Guinea Pigs & Squirrels"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8951178011",
+      "name": "Mice, Hamsters & Guinea Pigs Fiction"
+    },
+    {
+      "id": "8951177011",
+      "name": "Nonfiction"
+    },
+    {
+      "id": "8951179011",
+      "name": "Squirrel Fiction"
+    }
+  ]
+}

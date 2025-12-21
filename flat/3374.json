@@ -1,0 +1,24 @@
+{
+  "id": "3374",
+  "name": "Coloring Books",
+  "level": 3,
+  "parentId": "3373",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Activities, Crafts & Games",
+    "Activity Books",
+    "Coloring Books"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883822011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883823011",
+      "name": "Nonfiction"
+    }
+  ]
+}

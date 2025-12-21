@@ -1,0 +1,25 @@
+{
+  "id": "3003",
+  "name": "Humor",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Humor"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3397",
+      "name": "Cartoons"
+    },
+    {
+      "id": "3398",
+      "name": "General"
+    },
+    {
+      "id": "3399",
+      "name": "Jokes & Riddles"
+    }
+  ]
+}

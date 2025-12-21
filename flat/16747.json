@@ -1,0 +1,23 @@
+{
+  "id": "16747",
+  "name": "Niger & Nigeria",
+  "level": 2,
+  "parentId": "16703",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Africa",
+    "Niger & Nigeria"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883994011",
+      "name": "Niger"
+    },
+    {
+      "id": "8883995011",
+      "name": "Nigeria"
+    }
+  ]
+}

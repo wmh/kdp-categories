@@ -1,0 +1,23 @@
+{
+  "id": "18882683011",
+  "name": "Art & Architecture",
+  "level": 2,
+  "parentId": "2966",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Literature & Fiction",
+    "Art & Architecture"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "18882684011",
+      "name": "Architecture"
+    },
+    {
+      "id": "8298067011",
+      "name": "Art"
+    }
+  ]
+}

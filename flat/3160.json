@@ -1,0 +1,24 @@
+{
+  "id": "3160",
+  "name": "Self-Esteem & Self-Respect",
+  "level": 3,
+  "parentId": "7009087011",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Growing Up & Facts of Life",
+    "Friendship, Social Skills & School Life",
+    "Self-Esteem & Self-Respect"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883909011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883910011",
+      "name": "Nonfiction"
+    }
+  ]
+}

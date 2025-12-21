@@ -1,0 +1,24 @@
+{
+  "id": "16841",
+  "name": "Thailand",
+  "level": 3,
+  "parentId": "271637011",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Asia",
+    "Southeast",
+    "Thailand"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67692",
+      "name": "Bangkok"
+    },
+    {
+      "id": "67691",
+      "name": "General"
+    }
+  ]
+}

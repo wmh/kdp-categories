@@ -1,0 +1,23 @@
+{
+  "id": "18882680011",
+  "name": "Penguins",
+  "level": 2,
+  "parentId": "2787",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Penguins"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "18882681011",
+      "name": "Fiction"
+    },
+    {
+      "id": "18882682011",
+      "name": "Nonfiction"
+    }
+  ]
+}

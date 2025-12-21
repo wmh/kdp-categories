@@ -1,0 +1,62 @@
+{
+  "id": "4507",
+  "name": "Music",
+  "level": 1,
+  "parentId": "1",
+  "isLeaf": false,
+  "path": [
+    "Music"
+  ],
+  "nodes": [
+    {
+      "id": "2331",
+      "name": "Biographies"
+    },
+    {
+      "id": "1764",
+      "name": "Instruments"
+    },
+    {
+      "id": "4512",
+      "name": "Musical Genres"
+    },
+    {
+      "id": "1821",
+      "name": "Songbooks"
+    },
+    {
+      "id": "4539",
+      "name": "Theory, Composition & Performance"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "4509",
+      "name": "Business"
+    },
+    {
+      "id": "17745779011",
+      "name": "Essays"
+    },
+    {
+      "id": "1780",
+      "name": "Ethnomusicology"
+    },
+    {
+      "id": "4510",
+      "name": "General"
+    },
+    {
+      "id": "4511",
+      "name": "History & Criticism"
+    },
+    {
+      "id": "4538",
+      "name": "Recording & Sound"
+    },
+    {
+      "id": "1809",
+      "name": "Reference"
+    }
+  ]
+}

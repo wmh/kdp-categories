@@ -1,0 +1,33 @@
+{
+  "id": "12196",
+  "name": "Bible Study",
+  "level": 4,
+  "parentId": "12188",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Bible Study & Reference",
+    "New Testament",
+    "Bible Study"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "18882729011",
+      "name": "General Epistles"
+    },
+    {
+      "id": "7259401011",
+      "name": "Jesus, the Gospels & Acts"
+    },
+    {
+      "id": "172815",
+      "name": "Paul's Letters"
+    },
+    {
+      "id": "18882730011",
+      "name": "Revelation"
+    }
+  ]
+}

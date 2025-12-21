@@ -1,0 +1,134 @@
+{
+  "id": "0",
+  "name": "Root",
+  "level": -1,
+  "isLeaf": false,
+  "path": [],
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Arts & Photography"
+    },
+    {
+      "id": "2",
+      "name": "Biographies & Memoirs"
+    },
+    {
+      "id": "3",
+      "name": "Business & Money"
+    },
+    {
+      "id": "4",
+      "name": "Children's Books"
+    },
+    {
+      "id": "4366",
+      "name": "Comics & Graphic Novels"
+    },
+    {
+      "id": "5",
+      "name": "Computers & Technology"
+    },
+    {
+      "id": "6",
+      "name": "Cookbooks, Food & Wine"
+    },
+    {
+      "id": "48",
+      "name": "Crafts, Hobbies & Home"
+    },
+    {
+      "id": "8975347011",
+      "name": "Education & Teaching"
+    },
+    {
+      "id": "173507",
+      "name": "Engineering & Transportation"
+    },
+    {
+      "id": "10",
+      "name": "Health, Fitness & Dieting"
+    },
+    {
+      "id": "9",
+      "name": "History"
+    },
+    {
+      "id": "86",
+      "name": "Humor & Entertainment"
+    },
+    {
+      "id": "301889",
+      "name": "LGBTQ+ Books"
+    },
+    {
+      "id": "10777",
+      "name": "Law"
+    },
+    {
+      "id": "17",
+      "name": "Literature & Fiction"
+    },
+    {
+      "id": "173514",
+      "name": "Medical Books"
+    },
+    {
+      "id": "18",
+      "name": "Mystery, Thriller & Suspense"
+    },
+    {
+      "id": "20",
+      "name": "Parenting & Relationships"
+    },
+    {
+      "id": "3377866011",
+      "name": "Politics & Social Sciences"
+    },
+    {
+      "id": "21",
+      "name": "Reference"
+    },
+    {
+      "id": "22",
+      "name": "Religion & Spirituality"
+    },
+    {
+      "id": "23",
+      "name": "Romance"
+    },
+    {
+      "id": "75",
+      "name": "Science & Math"
+    },
+    {
+      "id": "25",
+      "name": "Science Fiction & Fantasy"
+    },
+    {
+      "id": "4736",
+      "name": "Self-Help"
+    },
+    {
+      "id": "26",
+      "name": "Sports & Outdoors"
+    },
+    {
+      "id": "28",
+      "name": "Teen & Young Adult"
+    },
+    {
+      "id": "5267710011",
+      "name": "Test Preparation"
+    },
+    {
+      "id": "27",
+      "name": "Travel"
+    },
+    {
+      "id": "NON_CLASSIFIABLE",
+      "name": "Non-Classifiable"
+    }
+  ],
+  "leafs": []
+}

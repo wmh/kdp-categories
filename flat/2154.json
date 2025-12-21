@@ -1,0 +1,55 @@
+{
+  "id": "2154",
+  "name": "Theater",
+  "level": 2,
+  "parentId": "521000",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Performing Arts",
+    "Theater"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2155",
+      "name": "Acting & Auditioning"
+    },
+    {
+      "id": "2156",
+      "name": "Broadway & Musicals"
+    },
+    {
+      "id": "2157",
+      "name": "Circus"
+    },
+    {
+      "id": "2158",
+      "name": "Direction & Production"
+    },
+    {
+      "id": "2221",
+      "name": "History & Criticism"
+    },
+    {
+      "id": "18882657011",
+      "name": "Improvisation"
+    },
+    {
+      "id": "2224",
+      "name": "Miming"
+    },
+    {
+      "id": "2225",
+      "name": "Playwriting"
+    },
+    {
+      "id": "2227",
+      "name": "Puppets & Puppetry"
+    },
+    {
+      "id": "2229",
+      "name": "Stagecraft"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "6383012011",
+  "name": "Toys & Models",
+  "level": 2,
+  "parentId": "5126",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Crafts & Hobbies",
+    "Toys & Models"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5135",
+      "name": "Dollhouses"
+    },
+    {
+      "id": "11195005011",
+      "name": "Dolls & Doll Clothing"
+    },
+    {
+      "id": "5153",
+      "name": "Miniatures"
+    },
+    {
+      "id": "5155",
+      "name": "Model Trains"
+    },
+    {
+      "id": "5156",
+      "name": "Models"
+    },
+    {
+      "id": "5181",
+      "name": "Stuffed Animals"
+    },
+    {
+      "id": "5186",
+      "name": "Toymaking"
+    },
+    {
+      "id": "5188",
+      "name": "Wood Toys"
+    }
+  ]
+}

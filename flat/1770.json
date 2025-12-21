@@ -1,0 +1,40 @@
+{
+  "id": "1770",
+  "name": "Strings",
+  "level": 3,
+  "parentId": "1764",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Music",
+    "Instruments",
+    "Strings"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8622783011",
+      "name": "Banjos"
+    },
+    {
+      "id": "8622784011",
+      "name": "Cellos"
+    },
+    {
+      "id": "8622785011",
+      "name": "Mandolins"
+    },
+    {
+      "id": "8622786011",
+      "name": "Ukuleles"
+    },
+    {
+      "id": "8622787011",
+      "name": "Violas"
+    },
+    {
+      "id": "8622788011",
+      "name": "Violins"
+    }
+  ]
+}

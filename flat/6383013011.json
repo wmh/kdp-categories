@@ -1,0 +1,27 @@
+{
+  "id": "6383013011",
+  "name": "Wood Crafts & Carving",
+  "level": 2,
+  "parentId": "5126",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Crafts & Hobbies",
+    "Wood Crafts & Carving"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5143",
+      "name": "Carving"
+    },
+    {
+      "id": "5190",
+      "name": "Wood Decoys"
+    },
+    {
+      "id": "5188",
+      "name": "Wood Toys"
+    }
+  ]
+}

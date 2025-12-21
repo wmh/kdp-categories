@@ -1,0 +1,24 @@
+{
+  "id": "1084220",
+  "name": "Social Skills",
+  "level": 3,
+  "parentId": "7009087011",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Growing Up & Facts of Life",
+    "Friendship, Social Skills & School Life",
+    "Social Skills"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883911011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883912011",
+      "name": "Nonfiction"
+    }
+  ]
+}

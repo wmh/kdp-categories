@@ -1,0 +1,27 @@
+{
+  "id": "17311",
+  "name": "Georgia",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Georgia"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67481",
+      "name": "Atlanta"
+    },
+    {
+      "id": "67480",
+      "name": "General"
+    },
+    {
+      "id": "67482",
+      "name": "Savannah"
+    }
+  ]
+}

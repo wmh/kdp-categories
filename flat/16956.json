@@ -1,0 +1,27 @@
+{
+  "id": "16956",
+  "name": "Scotland",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Scotland"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67621",
+      "name": "Edinburgh"
+    },
+    {
+      "id": "67620",
+      "name": "General"
+    },
+    {
+      "id": "67622",
+      "name": "Glasgow"
+    }
+  ]
+}

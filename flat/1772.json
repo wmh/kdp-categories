@@ -1,0 +1,40 @@
+{
+  "id": "1772",
+  "name": "Woodwinds",
+  "level": 3,
+  "parentId": "1764",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Music",
+    "Instruments",
+    "Woodwinds"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8622791011",
+      "name": "Bassoons"
+    },
+    {
+      "id": "8622792011",
+      "name": "Clarinets"
+    },
+    {
+      "id": "8622793011",
+      "name": "Flutes"
+    },
+    {
+      "id": "8622794011",
+      "name": "Harmonicas"
+    },
+    {
+      "id": "8622795011",
+      "name": "Recorders"
+    },
+    {
+      "id": "8622796011",
+      "name": "Saxophones"
+    }
+  ]
+}

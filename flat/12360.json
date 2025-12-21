@@ -1,0 +1,60 @@
+{
+  "id": "12360",
+  "name": "Churches & Church Leadership",
+  "level": 2,
+  "parentId": "12290",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Churches & Church Leadership"
+  ],
+  "nodes": [
+    {
+      "id": "12350",
+      "name": "Church History"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "12451",
+      "name": "Canon Law"
+    },
+    {
+      "id": "12361",
+      "name": "Church Administration"
+    },
+    {
+      "id": "7259425011",
+      "name": "Church Growth"
+    },
+    {
+      "id": "12358",
+      "name": "Church Institutions & Organizations"
+    },
+    {
+      "id": "7259426011",
+      "name": "Church Leadership"
+    },
+    {
+      "id": "7259424011",
+      "name": "Clergy"
+    },
+    {
+      "id": "171116",
+      "name": "Ecclesiology"
+    },
+    {
+      "id": "12362",
+      "name": "General"
+    },
+    {
+      "id": "16009711",
+      "name": "Ministry to the Sick & Bereaved"
+    },
+    {
+      "id": "7282069011",
+      "name": "Pastoral Resources"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1728",
+  "name": "Opera",
+  "level": 3,
+  "parentId": "4512",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Music",
+    "Musical Genres",
+    "Opera"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "1747",
+      "name": "General"
+    },
+    {
+      "id": "1822",
+      "name": "Songbooks"
+    }
+  ]
+}

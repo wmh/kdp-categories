@@ -1,0 +1,74 @@
+{
+  "id": "12540",
+  "name": "Judaism",
+  "level": 1,
+  "parentId": "22",
+  "isLeaf": false,
+  "path": [
+    "Judaism"
+  ],
+  "nodes": [
+    {
+      "id": "15755561",
+      "name": "Movements"
+    },
+    {
+      "id": "12571",
+      "name": "Sacred Writings"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "12551",
+      "name": "General"
+    },
+    {
+      "id": "12553",
+      "name": "Haggadah"
+    },
+    {
+      "id": "12555",
+      "name": "Hasidism"
+    },
+    {
+      "id": "12559",
+      "name": "History"
+    },
+    {
+      "id": "12561",
+      "name": "Holidays"
+    },
+    {
+      "id": "12563",
+      "name": "Jewish Life"
+    },
+    {
+      "id": "12573",
+      "name": "Kabbalah & Mysticism"
+    },
+    {
+      "id": "16009821",
+      "name": "Law"
+    },
+    {
+      "id": "12569",
+      "name": "Prayerbooks"
+    },
+    {
+      "id": "15755601",
+      "name": "Sermons"
+    },
+    {
+      "id": "23551432011",
+      "name": "Social Group Studies"
+    },
+    {
+      "id": "12597",
+      "name": "Theology"
+    },
+    {
+      "id": "16009841",
+      "name": "Women & Judaism"
+    }
+  ]
+}

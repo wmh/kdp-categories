@@ -1,0 +1,27 @@
+{
+  "id": "17341",
+  "name": "Massachusetts",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Massachusetts"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67499",
+      "name": "Boston"
+    },
+    {
+      "id": "67500",
+      "name": "Cape Cod"
+    },
+    {
+      "id": "67498",
+      "name": "General"
+    }
+  ]
+}

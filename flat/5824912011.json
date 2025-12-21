@@ -1,0 +1,23 @@
+{
+  "id": "5824912011",
+  "name": "Interior & Home Design",
+  "level": 2,
+  "parentId": "336832011",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Decorative Arts & Design",
+    "Interior & Home Design"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5399",
+      "name": "Decoration & Ornament"
+    },
+    {
+      "id": "5412",
+      "name": "Style"
+    }
+  ]
+}

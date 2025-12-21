@@ -1,0 +1,28 @@
+{
+  "id": "12181",
+  "name": "Meditations",
+  "level": 3,
+  "parentId": "172810",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Bible Study & Reference",
+    "Meditations"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "12182",
+      "name": "General"
+    },
+    {
+      "id": "12184",
+      "name": "New Testament"
+    },
+    {
+      "id": "12186",
+      "name": "Old Testament"
+    }
+  ]
+}

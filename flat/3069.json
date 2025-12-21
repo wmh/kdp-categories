@@ -1,0 +1,98 @@
+{
+  "id": "3069",
+  "name": "Holidays & Celebrations",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Holidays & Celebrations"
+  ],
+  "nodes": [
+    {
+      "id": "3070",
+      "name": "Around the World"
+    },
+    {
+      "id": "18882691011",
+      "name": "Birthdays"
+    },
+    {
+      "id": "7009085011",
+      "name": "Independence Day"
+    },
+    {
+      "id": "3083",
+      "name": "Jewish"
+    },
+    {
+      "id": "7009084011",
+      "name": "St. Patrick's Day"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "3072",
+      "name": "Christmas"
+    },
+    {
+      "id": "206206574011",
+      "name": "Day of the Dead"
+    },
+    {
+      "id": "206206575011",
+      "name": "Diwali"
+    },
+    {
+      "id": "3076",
+      "name": "Easter"
+    },
+    {
+      "id": "18882694011",
+      "name": "Father's Day"
+    },
+    {
+      "id": "3079",
+      "name": "General"
+    },
+    {
+      "id": "3080",
+      "name": "Halloween"
+    },
+    {
+      "id": "206206573011",
+      "name": "Juneteenth"
+    },
+    {
+      "id": "3087",
+      "name": "Kwanzaa"
+    },
+    {
+      "id": "3071",
+      "name": "Lunar New Year & Chinese New Year"
+    },
+    {
+      "id": "18882695011",
+      "name": "Mother's Day"
+    },
+    {
+      "id": "3088",
+      "name": "Non-religious"
+    },
+    {
+      "id": "206206576011",
+      "name": "Ramadan"
+    },
+    {
+      "id": "3089",
+      "name": "Religious"
+    },
+    {
+      "id": "3090",
+      "name": "Thanksgiving"
+    },
+    {
+      "id": "3093",
+      "name": "Valentine's Day"
+    }
+  ]
+}

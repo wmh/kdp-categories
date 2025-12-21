@@ -1,0 +1,42 @@
+{
+  "id": "1855",
+  "name": "Drawing",
+  "level": 1,
+  "parentId": "1",
+  "isLeaf": false,
+  "path": [
+    "Drawing"
+  ],
+  "nodes": [
+    {
+      "id": "1839",
+      "name": "Cartooning"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "520994",
+      "name": "Figure Drawing"
+    },
+    {
+      "id": "1857",
+      "name": "General"
+    },
+    {
+      "id": "1858",
+      "name": "Pastel"
+    },
+    {
+      "id": "1859",
+      "name": "Pen & Ink"
+    },
+    {
+      "id": "1860",
+      "name": "Pencil"
+    },
+    {
+      "id": "1861",
+      "name": "Specific Objects"
+    }
+  ]
+}

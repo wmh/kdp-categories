@@ -1,0 +1,35 @@
+{
+  "id": "2021",
+  "name": "Architectural",
+  "level": 2,
+  "parentId": "2020",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Photography & Video",
+    "Architectural"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8622808011",
+      "name": "Bridges"
+    },
+    {
+      "id": "8622809011",
+      "name": "Cities"
+    },
+    {
+      "id": "8622810011",
+      "name": "Houses & Hotels"
+    },
+    {
+      "id": "8622811011",
+      "name": "Lighthouses"
+    },
+    {
+      "id": "8622812011",
+      "name": "Monuments"
+    }
+  ]
+}

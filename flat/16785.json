@@ -1,0 +1,31 @@
+{
+  "id": "16785",
+  "name": "China",
+  "level": 2,
+  "parentId": "16772",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Asia",
+    "China"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67589",
+      "name": "Beijing"
+    },
+    {
+      "id": "67588",
+      "name": "General"
+    },
+    {
+      "id": "67590",
+      "name": "Guangzhou"
+    },
+    {
+      "id": "67591",
+      "name": "Shanghai"
+    }
+  ]
+}

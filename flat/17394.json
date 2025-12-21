@@ -1,0 +1,28 @@
+{
+  "id": "17394",
+  "name": "Utah",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Utah"
+  ],
+  "nodes": [
+    {
+      "id": "67720",
+      "name": "Bryce Canyon & Zion National Parks"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "67544",
+      "name": "General"
+    },
+    {
+      "id": "67546",
+      "name": "Salt Lake City"
+    }
+  ]
+}

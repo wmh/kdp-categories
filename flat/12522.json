@@ -1,0 +1,73 @@
+{
+  "id": "12522",
+  "name": "Islam",
+  "level": 1,
+  "parentId": "22",
+  "isLeaf": false,
+  "path": [
+    "Islam"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "12526",
+      "name": "General"
+    },
+    {
+      "id": "15755511",
+      "name": "Hadith"
+    },
+    {
+      "id": "15755521",
+      "name": "History"
+    },
+    {
+      "id": "12530",
+      "name": "Law"
+    },
+    {
+      "id": "297513",
+      "name": "Mecca"
+    },
+    {
+      "id": "12532",
+      "name": "Muhammed"
+    },
+    {
+      "id": "9045880011",
+      "name": "Prayerbooks"
+    },
+    {
+      "id": "12527",
+      "name": "Quran"
+    },
+    {
+      "id": "9045881011",
+      "name": "Rituals & Practice"
+    },
+    {
+      "id": "12536",
+      "name": "Shi'ism"
+    },
+    {
+      "id": "23551430011",
+      "name": "Social Group Studies"
+    },
+    {
+      "id": "12538",
+      "name": "Sufism"
+    },
+    {
+      "id": "15755541",
+      "name": "Sunnism"
+    },
+    {
+      "id": "15755551",
+      "name": "Theology"
+    },
+    {
+      "id": "16009811",
+      "name": "Women in Islam"
+    }
+  ]
+}

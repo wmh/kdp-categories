@@ -1,0 +1,24 @@
+{
+  "id": "3375",
+  "name": "Cut & Assemble",
+  "level": 3,
+  "parentId": "3373",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Activities, Crafts & Games",
+    "Activity Books",
+    "Cut & Assemble"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883824011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883825011",
+      "name": "Nonfiction"
+    }
+  ]
+}

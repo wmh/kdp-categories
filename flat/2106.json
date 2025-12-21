@@ -1,0 +1,21 @@
+{
+  "id": "2106",
+  "name": "Sculpture",
+  "level": 1,
+  "parentId": "1",
+  "isLeaf": false,
+  "path": [
+    "Sculpture"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5824920011",
+      "name": "Appreciation"
+    },
+    {
+      "id": "5824919011",
+      "name": "Technique"
+    }
+  ]
+}

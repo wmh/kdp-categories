@@ -1,0 +1,32 @@
+{
+  "id": "3167",
+  "name": "Where We Live",
+  "level": 2,
+  "parentId": "3344091011",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Geography & Cultures",
+    "Where We Live"
+  ],
+  "nodes": [
+    {
+      "id": "3168",
+      "name": "City Life"
+    },
+    {
+      "id": "3171",
+      "name": "Country Life"
+    },
+    {
+      "id": "3172",
+      "name": "Farm Life"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "3175",
+      "name": "House & Home"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "15755561",
+  "name": "Movements",
+  "level": 2,
+  "parentId": "12540",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Judaism",
+    "Movements"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "15755571",
+      "name": "Conservative"
+    },
+    {
+      "id": "15755581",
+      "name": "Orthodox"
+    },
+    {
+      "id": "15755591",
+      "name": "Reform"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "3016",
+  "name": "Mysteries & Detectives",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Mysteries & Detectives"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8944241011",
+      "name": "General"
+    },
+    {
+      "id": "8944242011",
+      "name": "Law & Crime"
+    },
+    {
+      "id": "11764657011",
+      "name": "Thrillers & Suspense"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "2789",
+  "name": "Apes & Monkeys",
+  "level": 2,
+  "parentId": "2787",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Apes & Monkeys"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8951139011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8951140011",
+      "name": "Nonfiction"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "17187",
+  "name": "Israel",
+  "level": 2,
+  "parentId": "17175",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Middle East",
+    "Israel"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67644",
+      "name": "General"
+    },
+    {
+      "id": "67645",
+      "name": "Jerusalem"
+    }
+  ]
+}

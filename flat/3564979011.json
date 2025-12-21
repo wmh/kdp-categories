@@ -1,0 +1,32 @@
+{
+  "id": "3564979011",
+  "name": "Chapter Books & Readers",
+  "level": 2,
+  "parentId": "2966",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Literature & Fiction",
+    "Chapter Books & Readers"
+  ],
+  "nodes": [
+    {
+      "id": "9432908011",
+      "name": "Beginner Readers"
+    },
+    {
+      "id": "9432911011",
+      "name": "Chapter Books"
+    },
+    {
+      "id": "9432914011",
+      "name": "Intermediate Readers"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "206206492011",
+      "name": "Hi-Lo"
+    }
+  ]
+}

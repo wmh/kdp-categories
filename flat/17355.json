@@ -1,0 +1,27 @@
+{
+  "id": "17355",
+  "name": "Nevada",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Nevada"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17357",
+      "name": "General"
+    },
+    {
+      "id": "17359",
+      "name": "Las Vegas"
+    },
+    {
+      "id": "67509",
+      "name": "Reno"
+    }
+  ]
+}

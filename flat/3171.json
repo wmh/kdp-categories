@@ -1,0 +1,24 @@
+{
+  "id": "3171",
+  "name": "Country Life",
+  "level": 3,
+  "parentId": "3167",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Geography & Cultures",
+    "Where We Live",
+    "Country Life"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883846011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883847011",
+      "name": "Nonfiction"
+    }
+  ]
+}

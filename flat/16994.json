@@ -1,0 +1,23 @@
+{
+  "id": "16994",
+  "name": "Portugal",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Portugal"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67674",
+      "name": "General"
+    },
+    {
+      "id": "67675",
+      "name": "Lisbon"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "67571",
+  "name": "Belarus & Ukraine",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Belarus & Ukraine"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8884002011",
+      "name": "Belarus"
+    },
+    {
+      "id": "67572",
+      "name": "General"
+    },
+    {
+      "id": "67573",
+      "name": "Kiev"
+    },
+    {
+      "id": "8884003011",
+      "name": "Ukraine"
+    }
+  ]
+}

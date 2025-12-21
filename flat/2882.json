@@ -1,0 +1,44 @@
+{
+  "id": "2882",
+  "name": "Crafts & Hobbies",
+  "level": 2,
+  "parentId": "3371",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Activities, Crafts & Games",
+    "Crafts & Hobbies"
+  ],
+  "nodes": [
+    {
+      "id": "7009074011",
+      "name": "Beadwork, Fashion & Jewelry"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "15356831",
+      "name": "Antiques & Collectibles"
+    },
+    {
+      "id": "7009075011",
+      "name": "Clay Crafts"
+    },
+    {
+      "id": "7009076011",
+      "name": "Models"
+    },
+    {
+      "id": "7009077011",
+      "name": "Needlecrafts & Textile Crafts"
+    },
+    {
+      "id": "7009078011",
+      "name": "Papercrafts"
+    },
+    {
+      "id": "7009079011",
+      "name": "Woodworking"
+    }
+  ]
+}

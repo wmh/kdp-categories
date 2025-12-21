@@ -1,0 +1,82 @@
+{
+  "id": "3176",
+  "name": "Education & Reference",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Education & Reference"
+  ],
+  "nodes": [
+    {
+      "id": "3564978011",
+      "name": "Books & Libraries"
+    },
+    {
+      "id": "2917",
+      "name": "History"
+    },
+    {
+      "id": "69802",
+      "name": "Language Study"
+    },
+    {
+      "id": "3253",
+      "name": "Math"
+    },
+    {
+      "id": "3182",
+      "name": "Reading & Writing"
+    },
+    {
+      "id": "7009082011",
+      "name": "Reference"
+    },
+    {
+      "id": "7009083011",
+      "name": "Science Studies"
+    },
+    {
+      "id": "3200",
+      "name": "Study Aids"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "211759005011",
+      "name": "Building & Construction"
+    },
+    {
+      "id": "3351944011",
+      "name": "English as a Second Language"
+    },
+    {
+      "id": "3181",
+      "name": "General"
+    },
+    {
+      "id": "3190",
+      "name": "Government"
+    },
+    {
+      "id": "3022",
+      "name": "Jobs & Careers"
+    },
+    {
+      "id": "3188",
+      "name": "Law & Crime"
+    },
+    {
+      "id": "171106",
+      "name": "Money & Saving"
+    },
+    {
+      "id": "3189",
+      "name": "Philosophy"
+    },
+    {
+      "id": "3192",
+      "name": "School & Education"
+    }
+  ]
+}

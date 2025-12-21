@@ -1,0 +1,242 @@
+{
+  "id": "17227",
+  "name": "United States",
+  "level": 1,
+  "parentId": "27",
+  "isLeaf": false,
+  "path": [
+    "United States"
+  ],
+  "nodes": [
+    {
+      "id": "17267",
+      "name": "Alaska"
+    },
+    {
+      "id": "17269",
+      "name": "Arizona"
+    },
+    {
+      "id": "17281",
+      "name": "California"
+    },
+    {
+      "id": "17291",
+      "name": "Colorado"
+    },
+    {
+      "id": "17298",
+      "name": "Connecticut"
+    },
+    {
+      "id": "17302",
+      "name": "Florida"
+    },
+    {
+      "id": "17311",
+      "name": "Georgia"
+    },
+    {
+      "id": "17313",
+      "name": "Hawaii"
+    },
+    {
+      "id": "17315",
+      "name": "Idaho"
+    },
+    {
+      "id": "17318",
+      "name": "Illinois"
+    },
+    {
+      "id": "17323",
+      "name": "Indiana"
+    },
+    {
+      "id": "17330",
+      "name": "Kentucky"
+    },
+    {
+      "id": "17332",
+      "name": "Louisiana"
+    },
+    {
+      "id": "17339",
+      "name": "Maryland"
+    },
+    {
+      "id": "17341",
+      "name": "Massachusetts"
+    },
+    {
+      "id": "17343",
+      "name": "Michigan"
+    },
+    {
+      "id": "17345",
+      "name": "Minnesota"
+    },
+    {
+      "id": "17349",
+      "name": "Missouri"
+    },
+    {
+      "id": "17355",
+      "name": "Nevada"
+    },
+    {
+      "id": "17365",
+      "name": "New Mexico"
+    },
+    {
+      "id": "17367",
+      "name": "New York"
+    },
+    {
+      "id": "17373",
+      "name": "North Carolina"
+    },
+    {
+      "id": "17236",
+      "name": "Northeast"
+    },
+    {
+      "id": "17376",
+      "name": "Ohio"
+    },
+    {
+      "id": "17380",
+      "name": "Oregon"
+    },
+    {
+      "id": "17382",
+      "name": "Pennsylvania"
+    },
+    {
+      "id": "17384",
+      "name": "Rhode Island"
+    },
+    {
+      "id": "17244",
+      "name": "South"
+    },
+    {
+      "id": "17386",
+      "name": "South Carolina"
+    },
+    {
+      "id": "17390",
+      "name": "Tennessee"
+    },
+    {
+      "id": "17392",
+      "name": "Texas"
+    },
+    {
+      "id": "17394",
+      "name": "Utah"
+    },
+    {
+      "id": "17398",
+      "name": "Virginia"
+    },
+    {
+      "id": "17400",
+      "name": "Washington"
+    },
+    {
+      "id": "17255",
+      "name": "West"
+    },
+    {
+      "id": "17409",
+      "name": "Wisconsin"
+    },
+    {
+      "id": "17411",
+      "name": "Wyoming"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "17265",
+      "name": "Alabama"
+    },
+    {
+      "id": "17279",
+      "name": "Arkansas"
+    },
+    {
+      "id": "17230",
+      "name": "Central"
+    },
+    {
+      "id": "17300",
+      "name": "Delaware"
+    },
+    {
+      "id": "17232",
+      "name": "General"
+    },
+    {
+      "id": "17325",
+      "name": "Iowa"
+    },
+    {
+      "id": "17327",
+      "name": "Kansas"
+    },
+    {
+      "id": "17337",
+      "name": "Maine"
+    },
+    {
+      "id": "17234",
+      "name": "Midwest"
+    },
+    {
+      "id": "17347",
+      "name": "Mississippi"
+    },
+    {
+      "id": "17351",
+      "name": "Montana"
+    },
+    {
+      "id": "17353",
+      "name": "Nebraska"
+    },
+    {
+      "id": "17361",
+      "name": "New Hampshire"
+    },
+    {
+      "id": "17363",
+      "name": "New Jersey"
+    },
+    {
+      "id": "17375",
+      "name": "North Dakota"
+    },
+    {
+      "id": "17378",
+      "name": "Oklahoma"
+    },
+    {
+      "id": "17388",
+      "name": "South Dakota"
+    },
+    {
+      "id": "17396",
+      "name": "Vermont"
+    },
+    {
+      "id": "17413",
+      "name": "Washington, D.C."
+    },
+    {
+      "id": "17407",
+      "name": "West Virginia"
+    }
+  ]
+}

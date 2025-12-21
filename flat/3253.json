@@ -1,0 +1,43 @@
+{
+  "id": "3253",
+  "name": "Math",
+  "level": 2,
+  "parentId": "3176",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Education & Reference",
+    "Math"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3254",
+      "name": "Advanced"
+    },
+    {
+      "id": "3255",
+      "name": "Algebra"
+    },
+    {
+      "id": "3256",
+      "name": "Arithmetic"
+    },
+    {
+      "id": "17745794011",
+      "name": "Fiction"
+    },
+    {
+      "id": "3258",
+      "name": "Fractions"
+    },
+    {
+      "id": "3259",
+      "name": "General"
+    },
+    {
+      "id": "3260",
+      "name": "Geometry"
+    }
+  ]
+}

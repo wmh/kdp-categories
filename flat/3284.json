@@ -1,0 +1,50 @@
+{
+  "id": "3284",
+  "name": "Cars, Trains & Things That Go",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Cars, Trains & Things That Go"
+  ],
+  "nodes": [
+    {
+      "id": "3288",
+      "name": "Boats & Ships"
+    },
+    {
+      "id": "3291",
+      "name": "Cars, Trucks & Buses"
+    },
+    {
+      "id": "3285",
+      "name": "Planes & Aviation"
+    },
+    {
+      "id": "3298",
+      "name": "Trains"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "7009089011",
+      "name": "Buses"
+    },
+    {
+      "id": "3564981011",
+      "name": "Cars, Trains & Things That Go"
+    },
+    {
+      "id": "7009088011",
+      "name": "Construction Vehicles"
+    },
+    {
+      "id": "3295",
+      "name": "General"
+    },
+    {
+      "id": "3297",
+      "name": "Motorcycles"
+    }
+  ]
+}

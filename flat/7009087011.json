@@ -1,0 +1,76 @@
+{
+  "id": "7009087011",
+  "name": "Friendship, Social Skills & School Life",
+  "level": 2,
+  "parentId": "1084192",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Growing Up & Facts of Life",
+    "Friendship, Social Skills & School Life"
+  ],
+  "nodes": [
+    {
+      "id": "3021",
+      "name": "Boys & Men"
+    },
+    {
+      "id": "1084222",
+      "name": "Bullying"
+    },
+    {
+      "id": "3139",
+      "name": "Disability"
+    },
+    {
+      "id": "3150",
+      "name": "Emotions & Feelings"
+    },
+    {
+      "id": "3153",
+      "name": "Friendship"
+    },
+    {
+      "id": "3068",
+      "name": "Girls & Women"
+    },
+    {
+      "id": "3156",
+      "name": "Manners"
+    },
+    {
+      "id": "16244031",
+      "name": "Multiculturalism & Tolerance"
+    },
+    {
+      "id": "3159",
+      "name": "Peer Pressure"
+    },
+    {
+      "id": "15356791",
+      "name": "School"
+    },
+    {
+      "id": "3160",
+      "name": "Self-Esteem & Self-Respect"
+    },
+    {
+      "id": "1084220",
+      "name": "Social Skills"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "1084236",
+      "name": "First Day of School"
+    },
+    {
+      "id": "18882689011",
+      "name": "Inspirational & Personal Growth"
+    },
+    {
+      "id": "18882690011",
+      "name": "Social Activism & Volunteering"
+    }
+  ]
+}

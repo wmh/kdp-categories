@@ -1,0 +1,36 @@
+{
+  "id": "332930011",
+  "name": "Romance",
+  "level": 3,
+  "parentId": "172806",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Literature & Fiction",
+    "Christian",
+    "Romance"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "7259436011",
+      "name": "Amish"
+    },
+    {
+      "id": "7259437011",
+      "name": "Contemporary"
+    },
+    {
+      "id": "7259439011",
+      "name": "Historical"
+    },
+    {
+      "id": "7259440011",
+      "name": "Mystery & Suspense"
+    },
+    {
+      "id": "7259441011",
+      "name": "Western & Frontier"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3344091011",
+  "name": "Geography & Cultures",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Geography & Cultures"
+  ],
+  "nodes": [
+    {
+      "id": "3143",
+      "name": "Cultural Studies"
+    },
+    {
+      "id": "3023",
+      "name": "Explore the World"
+    },
+    {
+      "id": "3094",
+      "name": "Multicultural Stories"
+    },
+    {
+      "id": "3166",
+      "name": "Travel"
+    },
+    {
+      "id": "3167",
+      "name": "Where We Live"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "3144",
+      "name": "Archaeology"
+    },
+    {
+      "id": "271597011",
+      "name": "Emigrants, Immigrants & Refugees"
+    },
+    {
+      "id": "11764659011",
+      "name": "Pirates"
+    },
+    {
+      "id": "3122",
+      "name": "Royalty"
+    }
+  ]
+}

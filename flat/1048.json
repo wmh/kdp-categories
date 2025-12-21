@@ -1,0 +1,19 @@
+{
+  "id": "1048",
+  "name": "Regional",
+  "level": 2,
+  "parentId": "173508",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Architecture",
+    "Regional"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "1055",
+      "name": "General"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "17269",
+  "name": "Arizona",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Arizona"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17271",
+      "name": "General"
+    },
+    {
+      "id": "17273",
+      "name": "Grand Canyon"
+    },
+    {
+      "id": "17275",
+      "name": "Phoenix"
+    },
+    {
+      "id": "17277",
+      "name": "Tucson"
+    }
+  ]
+}

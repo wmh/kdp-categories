@@ -1,0 +1,82 @@
+{
+  "id": "16880",
+  "name": "Caribbean & West Indies",
+  "level": 1,
+  "parentId": "27",
+  "isLeaf": false,
+  "path": [
+    "Caribbean & West Indies"
+  ],
+  "nodes": [
+    {
+      "id": "16889",
+      "name": "Barbados & Trinidad and Tobago"
+    },
+    {
+      "id": "16893",
+      "name": "Cuba"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16882",
+      "name": "Antigua and Barbuda"
+    },
+    {
+      "id": "16884",
+      "name": "Aruba & Netherlands Antilles"
+    },
+    {
+      "id": "16887",
+      "name": "Bahamas"
+    },
+    {
+      "id": "16891",
+      "name": "Bermuda"
+    },
+    {
+      "id": "16895",
+      "name": "Dominican Republic"
+    },
+    {
+      "id": "16897",
+      "name": "French West Indies"
+    },
+    {
+      "id": "16899",
+      "name": "General"
+    },
+    {
+      "id": "16901",
+      "name": "Grenada"
+    },
+    {
+      "id": "16903",
+      "name": "Haiti"
+    },
+    {
+      "id": "16905",
+      "name": "Jamaica"
+    },
+    {
+      "id": "1040200",
+      "name": "Puerto Rico"
+    },
+    {
+      "id": "16907",
+      "name": "Saint Kitts"
+    },
+    {
+      "id": "16909",
+      "name": "Saint Lucia"
+    },
+    {
+      "id": "16911",
+      "name": "Saint Vincent"
+    },
+    {
+      "id": "16915",
+      "name": "Virgin Islands"
+    }
+  ]
+}

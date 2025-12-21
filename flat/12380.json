@@ -1,0 +1,55 @@
+{
+  "id": "12380",
+  "name": "Ministry & Evangelism",
+  "level": 2,
+  "parentId": "12290",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Christian Books & Bibles",
+    "Ministry & Evangelism"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "12364",
+      "name": "Adult Ministry"
+    },
+    {
+      "id": "7282066011",
+      "name": "Children's Ministry"
+    },
+    {
+      "id": "12366",
+      "name": "Counseling & Recovery"
+    },
+    {
+      "id": "12335",
+      "name": "Discipleship"
+    },
+    {
+      "id": "12382",
+      "name": "Evangelism"
+    },
+    {
+      "id": "7282073011",
+      "name": "General"
+    },
+    {
+      "id": "12384",
+      "name": "Missions & Missionary Work"
+    },
+    {
+      "id": "12368",
+      "name": "Preaching"
+    },
+    {
+      "id": "12370",
+      "name": "Sermons"
+    },
+    {
+      "id": "12374",
+      "name": "Youth Ministry"
+    }
+  ]
+}

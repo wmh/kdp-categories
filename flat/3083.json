@@ -1,0 +1,23 @@
+{
+  "id": "3083",
+  "name": "Jewish",
+  "level": 2,
+  "parentId": "3069",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Holidays & Celebrations",
+    "Jewish"
+  ],
+  "nodes": [
+    {
+      "id": "8298079011",
+      "name": "Hanukkah"
+    },
+    {
+      "id": "8298082011",
+      "name": "Passover"
+    }
+  ],
+  "leafs": []
+}

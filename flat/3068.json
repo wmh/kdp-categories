@@ -1,0 +1,24 @@
+{
+  "id": "3068",
+  "name": "Girls & Women",
+  "level": 3,
+  "parentId": "7009087011",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Growing Up & Facts of Life",
+    "Friendship, Social Skills & School Life",
+    "Girls & Women"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883899011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883900011",
+      "name": "Nonfiction"
+    }
+  ]
+}

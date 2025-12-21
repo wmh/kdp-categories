@@ -1,0 +1,24 @@
+{
+  "id": "18882663011",
+  "name": "Sticker Books",
+  "level": 3,
+  "parentId": "3373",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Activities, Crafts & Games",
+    "Activity Books",
+    "Sticker Books"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "18882664011",
+      "name": "Fiction"
+    },
+    {
+      "id": "18882665011",
+      "name": "Nonfiction"
+    }
+  ]
+}

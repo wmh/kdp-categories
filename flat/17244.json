@@ -1,0 +1,31 @@
+{
+  "id": "17244",
+  "name": "South",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "South"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17246",
+      "name": "East South Central"
+    },
+    {
+      "id": "17248",
+      "name": "General"
+    },
+    {
+      "id": "17250",
+      "name": "South Atlantic"
+    },
+    {
+      "id": "17252",
+      "name": "West South Central"
+    }
+  ]
+}

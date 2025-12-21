@@ -1,0 +1,24 @@
+{
+  "id": "3027",
+  "name": "Canada",
+  "level": 3,
+  "parentId": "3023",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Geography & Cultures",
+    "Explore the World",
+    "Canada"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8944251011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8944252011",
+      "name": "Nonfiction"
+    }
+  ]
+}

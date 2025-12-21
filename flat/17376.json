@@ -1,0 +1,27 @@
+{
+  "id": "17376",
+  "name": "Ohio",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Ohio"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67523",
+      "name": "Cincinnati"
+    },
+    {
+      "id": "67524",
+      "name": "Cleveland"
+    },
+    {
+      "id": "67522",
+      "name": "General"
+    }
+  ]
+}

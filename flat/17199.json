@@ -1,0 +1,21 @@
+{
+  "id": "17199",
+  "name": "Polar Regions",
+  "level": 1,
+  "parentId": "27",
+  "isLeaf": false,
+  "path": [
+    "Polar Regions"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17201",
+      "name": "Antarctica"
+    },
+    {
+      "id": "17203",
+      "name": "Arctic"
+    }
+  ]
+}

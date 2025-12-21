@@ -1,0 +1,66 @@
+{
+  "id": "5043",
+  "name": "Pets & Animal Care",
+  "level": 1,
+  "parentId": "48",
+  "isLeaf": false,
+  "path": [
+    "Pets & Animal Care"
+  ],
+  "nodes": [
+    {
+      "id": "5045",
+      "name": "Cats"
+    },
+    {
+      "id": "5049",
+      "name": "Dogs"
+    },
+    {
+      "id": "9352388011",
+      "name": "Food & Nutrition"
+    },
+    {
+      "id": "5057",
+      "name": "Horses"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "5044",
+      "name": "Birds"
+    },
+    {
+      "id": "886130",
+      "name": "Essays"
+    },
+    {
+      "id": "5054",
+      "name": "Fish & Aquariums"
+    },
+    {
+      "id": "5056",
+      "name": "General"
+    },
+    {
+      "id": "13922601011",
+      "name": "Insects & Spiders"
+    },
+    {
+      "id": "271616011",
+      "name": "Mice, Hamsters & Guinea Pigs"
+    },
+    {
+      "id": "660926",
+      "name": "Pet Loss"
+    },
+    {
+      "id": "5064",
+      "name": "Rabbits"
+    },
+    {
+      "id": "5065",
+      "name": "Reptiles & Amphibians"
+    }
+  ]
+}

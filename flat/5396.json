@@ -1,0 +1,63 @@
+{
+  "id": "5396",
+  "name": "Decorating & Design",
+  "level": 2,
+  "parentId": "6158312011",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Home Improvement & Design",
+    "Decorating & Design"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5397",
+      "name": "Decorating"
+    },
+    {
+      "id": "5399",
+      "name": "Decoration & Ornament"
+    },
+    {
+      "id": "11160417011",
+      "name": "Feng Shui"
+    },
+    {
+      "id": "5401",
+      "name": "Floors"
+    },
+    {
+      "id": "5403",
+      "name": "General"
+    },
+    {
+      "id": "11160418011",
+      "name": "Interior Decorating"
+    },
+    {
+      "id": "5405",
+      "name": "Lighting"
+    },
+    {
+      "id": "5408",
+      "name": "Painting & Wallpapering"
+    },
+    {
+      "id": "5410",
+      "name": "Professional Reference"
+    },
+    {
+      "id": "5412",
+      "name": "Style"
+    },
+    {
+      "id": "5414",
+      "name": "Upholstery & Fabrics"
+    },
+    {
+      "id": "5416",
+      "name": "Windows"
+    }
+  ]
+}

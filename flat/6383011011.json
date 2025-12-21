@@ -1,0 +1,35 @@
+{
+  "id": "6383011011",
+  "name": "Papercrafts, Stamping & Stenciling",
+  "level": 2,
+  "parentId": "5126",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Crafts & Hobbies",
+    "Papercrafts, Stamping & Stenciling"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5130",
+      "name": "Book Making & Binding"
+    },
+    {
+      "id": "5159",
+      "name": "Origami"
+    },
+    {
+      "id": "5161",
+      "name": "Papercrafts"
+    },
+    {
+      "id": "3221481",
+      "name": "Rubber Stamping"
+    },
+    {
+      "id": "5179",
+      "name": "Stenciling"
+    }
+  ]
+}

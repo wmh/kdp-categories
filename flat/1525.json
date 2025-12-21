@@ -1,0 +1,25 @@
+{
+  "id": "1525",
+  "name": "Collections, Catalogs & Exhibitions",
+  "level": 1,
+  "parentId": "1",
+  "isLeaf": false,
+  "path": [
+    "Collections, Catalogs & Exhibitions"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8622763011",
+      "name": "General"
+    },
+    {
+      "id": "8622764011",
+      "name": "Group Shows"
+    },
+    {
+      "id": "8622765011",
+      "name": "Permanent Collections"
+    }
+  ]
+}

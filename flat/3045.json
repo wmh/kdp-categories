@@ -1,0 +1,84 @@
+{
+  "id": "3045",
+  "name": "Family Life",
+  "level": 2,
+  "parentId": "1084192",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Growing Up & Facts of Life",
+    "Family Life"
+  ],
+  "nodes": [
+    {
+      "id": "3046",
+      "name": "Adoption"
+    },
+    {
+      "id": "1084232",
+      "name": "Babysitting"
+    },
+    {
+      "id": "23707201011",
+      "name": "LGBTQ+ Families"
+    },
+    {
+      "id": "3050",
+      "name": "Marriage & Divorce"
+    },
+    {
+      "id": "15356841",
+      "name": "Money"
+    },
+    {
+      "id": "3053",
+      "name": "Multigenerational"
+    },
+    {
+      "id": "3056",
+      "name": "New Baby"
+    },
+    {
+      "id": "3059",
+      "name": "New Experiences"
+    },
+    {
+      "id": "3060",
+      "name": "Orphans & Foster Homes"
+    },
+    {
+      "id": "3061",
+      "name": "Parents"
+    },
+    {
+      "id": "3064",
+      "name": "Siblings"
+    },
+    {
+      "id": "1084248",
+      "name": "Sleep"
+    },
+    {
+      "id": "3067",
+      "name": "Stepfamilies"
+    },
+    {
+      "id": "3163",
+      "name": "Values"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "3049",
+      "name": "General"
+    },
+    {
+      "id": "206206515011",
+      "name": "Grandparents"
+    },
+    {
+      "id": "1084194",
+      "name": "Moving"
+    }
+  ]
+}

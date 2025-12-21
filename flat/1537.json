@@ -1,0 +1,28 @@
+{
+  "id": "1537",
+  "name": "Classical",
+  "level": 3,
+  "parentId": "4512",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Music",
+    "Musical Genres",
+    "Classical"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "1538",
+      "name": "Chamber Music"
+    },
+    {
+      "id": "1620",
+      "name": "General"
+    },
+    {
+      "id": "1823",
+      "name": "Orchestral Songbooks"
+    }
+  ]
+}

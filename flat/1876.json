@@ -1,0 +1,33 @@
+{
+  "id": "1876",
+  "name": "Painting",
+  "level": 1,
+  "parentId": "1",
+  "isLeaf": false,
+  "path": [
+    "Painting"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5160",
+      "name": "Acrylics"
+    },
+    {
+      "id": "1879",
+      "name": "General"
+    },
+    {
+      "id": "2018",
+      "name": "Landscape"
+    },
+    {
+      "id": "171126",
+      "name": "Oil Painting"
+    },
+    {
+      "id": "2019",
+      "name": "Watercolor"
+    }
+  ]
+}

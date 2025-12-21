@@ -1,0 +1,23 @@
+{
+  "id": "16931",
+  "name": "Czech Republic",
+  "level": 2,
+  "parentId": "16917",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Czech Republic"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67594",
+      "name": "General"
+    },
+    {
+      "id": "67595",
+      "name": "Prague"
+    }
+  ]
+}

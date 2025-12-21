@@ -1,0 +1,24 @@
+{
+  "id": "3103",
+  "name": "Biographies",
+  "level": 3,
+  "parentId": "172820",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Religions",
+    "Christianity",
+    "Biographies"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8944290011",
+      "name": "Biblical"
+    },
+    {
+      "id": "8944291011",
+      "name": "Christian"
+    }
+  ]
+}

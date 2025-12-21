@@ -1,0 +1,93 @@
+{
+  "id": "3014",
+  "name": "Comics & Graphic Novels",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Comics & Graphic Novels"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16926943011",
+      "name": "Action & Adventure"
+    },
+    {
+      "id": "16926944011",
+      "name": "Animals"
+    },
+    {
+      "id": "8951188011",
+      "name": "Biographies"
+    },
+    {
+      "id": "16926945011",
+      "name": "Classic Adaptation"
+    },
+    {
+      "id": "16926946011",
+      "name": "Fairy Tales, Folklore, Legends & Mythology"
+    },
+    {
+      "id": "16926947011",
+      "name": "Fantasy"
+    },
+    {
+      "id": "8951187011",
+      "name": "Fiction"
+    },
+    {
+      "id": "16926948011",
+      "name": "Historical Fiction"
+    },
+    {
+      "id": "8951190011",
+      "name": "History"
+    },
+    {
+      "id": "16926949011",
+      "name": "Horror"
+    },
+    {
+      "id": "16926950011",
+      "name": "Humorous"
+    },
+    {
+      "id": "15356771",
+      "name": "Manga"
+    },
+    {
+      "id": "8951186011",
+      "name": "Media Tie-In"
+    },
+    {
+      "id": "16926951011",
+      "name": "Mystery & Detective"
+    },
+    {
+      "id": "8951189011",
+      "name": "Nonfiction"
+    },
+    {
+      "id": "16926952011",
+      "name": "Paranormal"
+    },
+    {
+      "id": "16926954011",
+      "name": "Science & Nature"
+    },
+    {
+      "id": "16926953011",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "16926955011",
+      "name": "Social Topics"
+    },
+    {
+      "id": "15356781",
+      "name": "Superheroes"
+    }
+  ]
+}

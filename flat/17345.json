@@ -1,0 +1,24 @@
+{
+  "id": "17345",
+  "name": "Minnesota",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Minnesota"
+  ],
+  "nodes": [
+    {
+      "id": "67504",
+      "name": "Minneapolis & St. Paul"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "67503",
+      "name": "General"
+    }
+  ]
+}

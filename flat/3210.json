@@ -1,0 +1,23 @@
+{
+  "id": "3210",
+  "name": "Astronomy & Space",
+  "level": 2,
+  "parentId": "3207",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Science, Nature & How It Works",
+    "Astronomy & Space"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3211",
+      "name": "Aeronautics & Space"
+    },
+    {
+      "id": "3212",
+      "name": "Astronomy"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "3200",
+  "name": "Study Aids",
+  "level": 2,
+  "parentId": "3176",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Education & Reference",
+    "Study Aids"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3201",
+      "name": "Book Notes"
+    },
+    {
+      "id": "3203",
+      "name": "Children's General Study Aids"
+    },
+    {
+      "id": "3204",
+      "name": "Test Preparation"
+    }
+  ]
+}

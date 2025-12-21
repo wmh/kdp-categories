@@ -1,0 +1,24 @@
+{
+  "id": "17716988011",
+  "name": "Daily Activities",
+  "level": 3,
+  "parentId": "3230",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Growing Up & Facts of Life",
+    "Health",
+    "Daily Activities"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17716989011",
+      "name": "Fiction"
+    },
+    {
+      "id": "17716990011",
+      "name": "Nonfiction"
+    }
+  ]
+}

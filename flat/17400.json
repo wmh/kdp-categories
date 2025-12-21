@@ -1,0 +1,47 @@
+{
+  "id": "17400",
+  "name": "Washington",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Washington"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17402",
+      "name": "General"
+    },
+    {
+      "id": "17403",
+      "name": "Mount Rainier"
+    },
+    {
+      "id": "67549",
+      "name": "Mount St. Helens"
+    },
+    {
+      "id": "67550",
+      "name": "North Cascades"
+    },
+    {
+      "id": "67551",
+      "name": "Olympic Peninsula"
+    },
+    {
+      "id": "67552",
+      "name": "San Juan Islands"
+    },
+    {
+      "id": "17405",
+      "name": "Seattle"
+    },
+    {
+      "id": "67553",
+      "name": "Spokane"
+    }
+  ]
+}

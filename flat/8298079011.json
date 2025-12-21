@@ -1,0 +1,24 @@
+{
+  "id": "8298079011",
+  "name": "Hanukkah",
+  "level": 3,
+  "parentId": "3083",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Holidays & Celebrations",
+    "Jewish",
+    "Hanukkah"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298080011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8298081011",
+      "name": "Nonfiction"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "17343",
+  "name": "Michigan",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Michigan"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67502",
+      "name": "Detroit"
+    },
+    {
+      "id": "67501",
+      "name": "General"
+    }
+  ]
+}

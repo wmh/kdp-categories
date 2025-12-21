@@ -1,0 +1,31 @@
+{
+  "id": "12716",
+  "name": "Psychic Phenomena",
+  "level": 2,
+  "parentId": "12689",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Occult & Paranormal",
+    "Psychic Phenomena"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "12705",
+      "name": "ESP"
+    },
+    {
+      "id": "11309347011",
+      "name": "General"
+    },
+    {
+      "id": "596556",
+      "name": "Near-Death Experiences"
+    },
+    {
+      "id": "12693",
+      "name": "Out-of-Body Experiences"
+    }
+  ]
+}

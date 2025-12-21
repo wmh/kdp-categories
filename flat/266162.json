@@ -1,0 +1,35 @@
+{
+  "id": "266162",
+  "name": "Buildings",
+  "level": 2,
+  "parentId": "173508",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Architecture",
+    "Buildings"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "720870",
+      "name": "General"
+    },
+    {
+      "id": "3564986011",
+      "name": "Landmarks & Monuments"
+    },
+    {
+      "id": "882340",
+      "name": "Religious Buildings"
+    },
+    {
+      "id": "1007",
+      "name": "Residential"
+    },
+    {
+      "id": "1062",
+      "name": "Specific Styles"
+    }
+  ]
+}

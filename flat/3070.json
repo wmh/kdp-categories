@@ -1,0 +1,23 @@
+{
+  "id": "3070",
+  "name": "Around the World",
+  "level": 2,
+  "parentId": "3069",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Holidays & Celebrations",
+    "Around the World"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883919011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883920011",
+      "name": "Nonfiction"
+    }
+  ]
+}

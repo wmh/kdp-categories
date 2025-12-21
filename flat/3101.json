@@ -1,0 +1,50 @@
+{
+  "id": "3101",
+  "name": "Religions",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Religions"
+  ],
+  "nodes": [
+    {
+      "id": "172820",
+      "name": "Christianity"
+    },
+    {
+      "id": "3113",
+      "name": "Religious Fiction"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "13922596011",
+      "name": "Buddhism"
+    },
+    {
+      "id": "3112",
+      "name": "Eastern"
+    },
+    {
+      "id": "3118",
+      "name": "General"
+    },
+    {
+      "id": "16244691",
+      "name": "Hinduism"
+    },
+    {
+      "id": "172720",
+      "name": "Inspirational"
+    },
+    {
+      "id": "3119",
+      "name": "Islam"
+    },
+    {
+      "id": "3120",
+      "name": "Judaism"
+    }
+  ]
+}

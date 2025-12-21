@@ -1,0 +1,24 @@
+{
+  "id": "15356791",
+  "name": "School",
+  "level": 3,
+  "parentId": "7009087011",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Growing Up & Facts of Life",
+    "Friendship, Social Skills & School Life",
+    "School"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883907011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8883908011",
+      "name": "Nonfiction"
+    }
+  ]
+}

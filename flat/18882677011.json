@@ -1,0 +1,23 @@
+{
+  "id": "18882677011",
+  "name": "Hippos & Rhinos",
+  "level": 2,
+  "parentId": "2787",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Hippos & Rhinos"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "18882678011",
+      "name": "Fiction"
+    },
+    {
+      "id": "18882679011",
+      "name": "Nonfiction"
+    }
+  ]
+}

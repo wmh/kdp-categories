@@ -1,0 +1,23 @@
+{
+  "id": "17169",
+  "name": "Paraguay & Uruguay",
+  "level": 2,
+  "parentId": "17150",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "South America",
+    "Paraguay & Uruguay"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8884023011",
+      "name": "Paraguay"
+    },
+    {
+      "id": "8884024011",
+      "name": "Uruguay"
+    }
+  ]
+}

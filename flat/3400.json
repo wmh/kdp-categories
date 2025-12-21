@@ -1,0 +1,77 @@
+{
+  "id": "3400",
+  "name": "Sports & Outdoors",
+  "level": 1,
+  "parentId": "4",
+  "isLeaf": false,
+  "path": [
+    "Sports & Outdoors"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3401",
+      "name": "Baseball"
+    },
+    {
+      "id": "3404",
+      "name": "Basketball"
+    },
+    {
+      "id": "3381",
+      "name": "Camping"
+    },
+    {
+      "id": "3407",
+      "name": "Cycling"
+    },
+    {
+      "id": "3408",
+      "name": "Football"
+    },
+    {
+      "id": "3411",
+      "name": "General"
+    },
+    {
+      "id": "3412",
+      "name": "Gymnastics"
+    },
+    {
+      "id": "3413",
+      "name": "Hockey"
+    },
+    {
+      "id": "3416",
+      "name": "Martial Arts"
+    },
+    {
+      "id": "3418",
+      "name": "Motor Sports"
+    },
+    {
+      "id": "3419",
+      "name": "Olympics"
+    },
+    {
+      "id": "3420",
+      "name": "Racket Sports"
+    },
+    {
+      "id": "3421",
+      "name": "Soccer"
+    },
+    {
+      "id": "69240",
+      "name": "Track & Field"
+    },
+    {
+      "id": "3424",
+      "name": "Water Sports"
+    },
+    {
+      "id": "3425",
+      "name": "Winter Sports"
+    }
+  ]
+}

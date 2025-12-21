@@ -1,0 +1,32 @@
+{
+  "id": "5189",
+  "name": "Woodworking",
+  "level": 3,
+  "parentId": "5339",
+  "isLeaf": false,
+  "path": [
+    "48",
+    "Home Improvement & Design",
+    "How-to & Home Improvements",
+    "Woodworking"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5192",
+      "name": "Furniture & Carpentry"
+    },
+    {
+      "id": "5193",
+      "name": "General"
+    },
+    {
+      "id": "5195",
+      "name": "Projects"
+    },
+    {
+      "id": "5197",
+      "name": "Tools"
+    }
+  ]
+}

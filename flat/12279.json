@@ -1,0 +1,54 @@
+{
+  "id": "12279",
+  "name": "Buddhism",
+  "level": 1,
+  "parentId": "22",
+  "isLeaf": false,
+  "path": [
+    "Buddhism"
+  ],
+  "nodes": [
+    {
+      "id": "12282",
+      "name": "General"
+    },
+    {
+      "id": "11309332011",
+      "name": "Zen"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "12280",
+      "name": "Dalai Lama"
+    },
+    {
+      "id": "720358",
+      "name": "History"
+    },
+    {
+      "id": "297512",
+      "name": "Mahayana"
+    },
+    {
+      "id": "15755341",
+      "name": "Rituals & Practice"
+    },
+    {
+      "id": "15755351",
+      "name": "Sacred Writings"
+    },
+    {
+      "id": "23551431011",
+      "name": "Social Group Studies"
+    },
+    {
+      "id": "297526",
+      "name": "Theravada"
+    },
+    {
+      "id": "12284",
+      "name": "Tibetan"
+    }
+  ]
+}

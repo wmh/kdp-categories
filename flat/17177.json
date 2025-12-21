@@ -1,0 +1,39 @@
+{
+  "id": "17177",
+  "name": "Bahrain, Kuwait, Oman, Qatar, United-Arab-Emirates & Yemen",
+  "level": 2,
+  "parentId": "17175",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Middle East",
+    "Bahrain, Kuwait, Oman, Qatar, United-Arab-Emirates & Yemen"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8884014011",
+      "name": "Bahrain"
+    },
+    {
+      "id": "8884015011",
+      "name": "Kuwait"
+    },
+    {
+      "id": "8884016011",
+      "name": "Oman"
+    },
+    {
+      "id": "8884017011",
+      "name": "Qatar"
+    },
+    {
+      "id": "8884018011",
+      "name": "United Arab Emirates"
+    },
+    {
+      "id": "8884019011",
+      "name": "Yemen"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "12571",
+  "name": "Sacred Writings",
+  "level": 2,
+  "parentId": "12540",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Judaism",
+    "Sacred Writings"
+  ],
+  "nodes": [
+    {
+      "id": "12577",
+      "name": "Hebrew Bible"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "12575",
+      "name": "General"
+    },
+    {
+      "id": "12590",
+      "name": "Talmud"
+    },
+    {
+      "id": "12592",
+      "name": "Torah"
+    },
+    {
+      "id": "12594",
+      "name": "Zohar"
+    }
+  ]
+}

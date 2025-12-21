@@ -1,0 +1,23 @@
+{
+  "id": "1059",
+  "name": "Project Planning & Management",
+  "level": 2,
+  "parentId": "173508",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Architecture",
+    "Project Planning & Management"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8929884011",
+      "name": "Professional Management"
+    },
+    {
+      "id": "8929885011",
+      "name": "Project Management"
+    }
+  ]
+}

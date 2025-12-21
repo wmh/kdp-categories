@@ -1,0 +1,36 @@
+{
+  "id": "8622799011",
+  "name": "Strings",
+  "level": 3,
+  "parentId": "1821",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Music",
+    "Songbooks",
+    "Strings"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10056632011",
+      "name": "Cellos"
+    },
+    {
+      "id": "10056633011",
+      "name": "General"
+    },
+    {
+      "id": "10056634011",
+      "name": "Harps"
+    },
+    {
+      "id": "10056635011",
+      "name": "Viola"
+    },
+    {
+      "id": "10056636011",
+      "name": "Violins"
+    }
+  ]
+}

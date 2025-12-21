@@ -1,0 +1,59 @@
+{
+  "id": "1091192",
+  "name": "Provinces",
+  "level": 2,
+  "parentId": "16878",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Canada",
+    "Provinces"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "1091202",
+      "name": "Alberta"
+    },
+    {
+      "id": "1091200",
+      "name": "British Columbia"
+    },
+    {
+      "id": "1091204",
+      "name": "Manitoba"
+    },
+    {
+      "id": "1091208",
+      "name": "New Brunswick"
+    },
+    {
+      "id": "1091210",
+      "name": "Newfoundland"
+    },
+    {
+      "id": "1091212",
+      "name": "Nova Scotia"
+    },
+    {
+      "id": "1091194",
+      "name": "Ontario"
+    },
+    {
+      "id": "1091214",
+      "name": "Prince Edward Island"
+    },
+    {
+      "id": "1091196",
+      "name": "Quebec"
+    },
+    {
+      "id": "1091206",
+      "name": "Saskatchewan"
+    },
+    {
+      "id": "1091198",
+      "name": "Territories"
+    }
+  ]
+}

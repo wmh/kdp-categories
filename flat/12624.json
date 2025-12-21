@@ -1,0 +1,27 @@
+{
+  "id": "12624",
+  "name": "Astrology",
+  "level": 2,
+  "parentId": "12621",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "New Age & Spirituality",
+    "Astrology"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "297497",
+      "name": "Eastern"
+    },
+    {
+      "id": "12626",
+      "name": "General"
+    },
+    {
+      "id": "12628",
+      "name": "Horoscopes"
+    }
+  ]
+}

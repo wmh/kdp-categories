@@ -1,0 +1,23 @@
+{
+  "id": "16889",
+  "name": "Barbados & Trinidad and Tobago",
+  "level": 2,
+  "parentId": "16880",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Caribbean & West Indies",
+    "Barbados & Trinidad and Tobago"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8884000011",
+      "name": "Barbados"
+    },
+    {
+      "id": "8884001011",
+      "name": "Trinidad and Tobago"
+    }
+  ]
+}

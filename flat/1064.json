@@ -1,0 +1,21 @@
+{
+  "id": "1064",
+  "name": "History & Criticism",
+  "level": 1,
+  "parentId": "1",
+  "isLeaf": false,
+  "path": [
+    "History & Criticism"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10825731",
+      "name": "Criticism"
+    },
+    {
+      "id": "713036011",
+      "name": "History"
+    }
+  ]
+}

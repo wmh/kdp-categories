@@ -1,0 +1,19 @@
+{
+  "id": "1008",
+  "name": "Individual Architects & Firms",
+  "level": 2,
+  "parentId": "173508",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Architecture",
+    "Individual Architects & Firms"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "1019",
+      "name": "General"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "3564966011",
+  "name": "Industrial & Product Design",
+  "level": 2,
+  "parentId": "336832011",
+  "isLeaf": false,
+  "path": [
+    "Arts & Photography",
+    "Decorative Arts & Design",
+    "Industrial & Product Design"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298052011",
+      "name": "Industrial"
+    },
+    {
+      "id": "8298053011",
+      "name": "Product"
+    }
+  ]
+}

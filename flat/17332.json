@@ -1,0 +1,23 @@
+{
+  "id": "17332",
+  "name": "Louisiana",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Louisiana"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17333",
+      "name": "General"
+    },
+    {
+      "id": "17335",
+      "name": "New Orleans"
+    }
+  ]
+}

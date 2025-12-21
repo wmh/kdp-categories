@@ -1,0 +1,27 @@
+{
+  "id": "17386",
+  "name": "South Carolina",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "South Carolina"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67533",
+      "name": "Charleston"
+    },
+    {
+      "id": "67532",
+      "name": "General"
+    },
+    {
+      "id": "67534",
+      "name": "Myrtle Beach"
+    }
+  ]
+}

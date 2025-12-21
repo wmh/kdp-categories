@@ -1,0 +1,40 @@
+{
+  "id": "16950",
+  "name": "England",
+  "level": 3,
+  "parentId": "16946",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Europe",
+    "Great Britain",
+    "England"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67696",
+      "name": "Bath"
+    },
+    {
+      "id": "67698",
+      "name": "Devon"
+    },
+    {
+      "id": "67695",
+      "name": "General"
+    },
+    {
+      "id": "67699",
+      "name": "Gloucestershire"
+    },
+    {
+      "id": "67700",
+      "name": "London"
+    },
+    {
+      "id": "67701",
+      "name": "Yorkshire"
+    }
+  ]
+}

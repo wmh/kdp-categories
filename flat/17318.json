@@ -1,0 +1,23 @@
+{
+  "id": "17318",
+  "name": "Illinois",
+  "level": 2,
+  "parentId": "17227",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "United States",
+    "Illinois"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17319",
+      "name": "Chicago"
+    },
+    {
+      "id": "17321",
+      "name": "General"
+    }
+  ]
+}

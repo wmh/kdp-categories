@@ -1,0 +1,102 @@
+{
+  "id": "4",
+  "name": "Children's Books",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "3371",
+      "name": "Activities, Crafts & Games"
+    },
+    {
+      "id": "2787",
+      "name": "Animals"
+    },
+    {
+      "id": "2870",
+      "name": "Arts, Music & Photography"
+    },
+    {
+      "id": "2351",
+      "name": "Biographies"
+    },
+    {
+      "id": "3284",
+      "name": "Cars, Trains & Things That Go"
+    },
+    {
+      "id": "3014",
+      "name": "Comics & Graphic Novels"
+    },
+    {
+      "id": "2909",
+      "name": "Computers & Technology"
+    },
+    {
+      "id": "3176",
+      "name": "Education & Reference"
+    },
+    {
+      "id": "2977",
+      "name": "Fairy Tales, Folk Tales & Myths"
+    },
+    {
+      "id": "3344091011",
+      "name": "Geography & Cultures"
+    },
+    {
+      "id": "1084192",
+      "name": "Growing Up & Facts of Life"
+    },
+    {
+      "id": "2917",
+      "name": "History"
+    },
+    {
+      "id": "3069",
+      "name": "Holidays & Celebrations"
+    },
+    {
+      "id": "3003",
+      "name": "Humor"
+    },
+    {
+      "id": "2966",
+      "name": "Literature & Fiction"
+    },
+    {
+      "id": "3016",
+      "name": "Mysteries & Detectives"
+    },
+    {
+      "id": "3101",
+      "name": "Religions"
+    },
+    {
+      "id": "3013",
+      "name": "Science Fiction & Fantasy"
+    },
+    {
+      "id": "3207",
+      "name": "Science, Nature & How It Works"
+    },
+    {
+      "id": "3400",
+      "name": "Sports & Outdoors"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2967",
+      "name": "Action & Adventure"
+    },
+    {
+      "id": "2655476011",
+      "name": "Children's Cookbooks"
+    },
+    {
+      "id": "2970",
+      "name": "Classics"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "16893",
+  "name": "Cuba",
+  "level": 2,
+  "parentId": "16880",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Caribbean & West Indies",
+    "Cuba"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67592",
+      "name": "General"
+    },
+    {
+      "id": "67593",
+      "name": "Havana"
+    }
+  ]
+}

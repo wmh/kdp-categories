@@ -1,0 +1,100 @@
+{
+  "id": "12449",
+  "name": "Christian",
+  "level": 3,
+  "parentId": "16009861",
+  "isLeaf": false,
+  "path": [
+    "22",
+    "Religious Studies",
+    "Theology",
+    "Christian"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "297489",
+      "name": "Angelology & Demonology"
+    },
+    {
+      "id": "7259444011",
+      "name": "Anthropology"
+    },
+    {
+      "id": "172811",
+      "name": "Apologetics"
+    },
+    {
+      "id": "12455",
+      "name": "Catholic"
+    },
+    {
+      "id": "297490",
+      "name": "Christology"
+    },
+    {
+      "id": "172814",
+      "name": "Creationism"
+    },
+    {
+      "id": "171116",
+      "name": "Ecclesiology"
+    },
+    {
+      "id": "12456",
+      "name": "Ecumenism"
+    },
+    {
+      "id": "172812",
+      "name": "Eschatology"
+    },
+    {
+      "id": "15755491",
+      "name": "Ethics & Moral Teaching"
+    },
+    {
+      "id": "12387",
+      "name": "Fundamentalism"
+    },
+    {
+      "id": "12458",
+      "name": "General"
+    },
+    {
+      "id": "172804",
+      "name": "Gnosticism"
+    },
+    {
+      "id": "7259445011",
+      "name": "Historical"
+    },
+    {
+      "id": "7259446011",
+      "name": "Liberation"
+    },
+    {
+      "id": "16009771",
+      "name": "Mysticism"
+    },
+    {
+      "id": "297491",
+      "name": "Pneumatology"
+    },
+    {
+      "id": "7259447011",
+      "name": "Process"
+    },
+    {
+      "id": "12462",
+      "name": "Protestant"
+    },
+    {
+      "id": "171117",
+      "name": "Salvation Theory"
+    },
+    {
+      "id": "15755501",
+      "name": "Systematic"
+    }
+  ]
+}

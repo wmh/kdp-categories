@@ -1,0 +1,38 @@
+{
+  "id": "521000",
+  "name": "Performing Arts",
+  "level": 1,
+  "parentId": "1",
+  "isLeaf": false,
+  "path": [
+    "Performing Arts"
+  ],
+  "nodes": [
+    {
+      "id": "1474",
+      "name": "Dance"
+    },
+    {
+      "id": "2154",
+      "name": "Theater"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "713027011",
+      "name": "General"
+    },
+    {
+      "id": "11160393011",
+      "name": "Individual Directors"
+    },
+    {
+      "id": "1099186",
+      "name": "Magic & Illusion"
+    },
+    {
+      "id": "271614011",
+      "name": "Reference"
+    }
+  ]
+}

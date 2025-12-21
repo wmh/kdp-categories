@@ -1,0 +1,23 @@
+{
+  "id": "16720",
+  "name": "Egypt",
+  "level": 2,
+  "parentId": "17175",
+  "isLeaf": false,
+  "path": [
+    "27",
+    "Middle East",
+    "Egypt"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "67599",
+      "name": "Cairo"
+    },
+    {
+      "id": "67598",
+      "name": "General"
+    }
+  ]
+}

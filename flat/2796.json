@@ -1,0 +1,23 @@
+{
+  "id": "2796",
+  "name": "Birds",
+  "level": 2,
+  "parentId": "2787",
+  "isLeaf": false,
+  "path": [
+    "Children's Books",
+    "Animals",
+    "Birds"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8951145011",
+      "name": "Fiction"
+    },
+    {
+      "id": "8951146011",
+      "name": "Nonfiction"
+    }
+  ]
+}
