@@ -4,8 +4,8 @@ Complete Amazon KDP (Kindle Direct Publishing) category hierarchy in two formats
 
 ## 📊 Dataset Overview
 
-- **566 category files** in flat format
-- **31 root categories** with full hierarchical structure
+- **567 category files** in flat format
+- **11 root categories** with full hierarchical structure
 - Covers all major KDP categories including:
   - Arts & Photography
   - Biographies & Memoirs
@@ -43,26 +43,25 @@ Complete Amazon KDP (Kindle Direct Publishing) category hierarchy in two formats
 
 ```
 kdp-categories/
-├── flat/           # Flat JSON files (566 files)
+├── flat/           # Flat JSON files (567 files)
 │   ├── 0.json      # Root categories list
 │   ├── 1.json      # Arts & Photography
 │   ├── 4.json      # Children's Books
 │   ├── 23.json     # Romance
 │   ├── 28.json     # Teen & Young Adult
 │   └── ...
-└── tree/           # Hierarchical directory structure (31 root categories)
-    ├── 23/                        # Romance
-    ├── 28/                        # Teen & Young Adult
-    ├── 4366/                      # Comics & Graphic Novels
-    ├── 4736/                      # Self-Help
-    ├── 86/                        # Humor & Entertainment
-    ├── 8975347011/                # Education & Teaching
+└── tree/           # Hierarchical directory structure (11 root categories)
     ├── Arts_&_Photography/
     ├── Children's_Books/
+    ├── Comics_&_Graphic_Novels/
     ├── Crafts,_Hobbies_&_Home/
+    ├── Education_&_Teaching/
+    ├── Humor_&_Entertainment/
     ├── Religion_&_Spirituality/
-    ├── Travel/
-    └── ...
+    ├── Romance/
+    ├── Self-Help/
+    ├── Teen_&_Young_Adult/
+    └── Travel/
 ```
 
 ## 🗂️ Format Specifications
