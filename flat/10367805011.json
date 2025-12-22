@@ -1,0 +1,48 @@
+{
+  "id": "10367805011",
+  "name": "Games & Activities",
+  "level": 2,
+  "parentId": "10367802011",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Hobbies & Games",
+    "Games & Activities"
+  ],
+  "nodes": [
+    {
+      "id": "10367808011",
+      "name": "Computer & Video Games"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10367806011",
+      "name": "Board Games"
+    },
+    {
+      "id": "10367807011",
+      "name": "Card Games"
+    },
+    {
+      "id": "10367812011",
+      "name": "General"
+    },
+    {
+      "id": "10367814011",
+      "name": "Magic"
+    },
+    {
+      "id": "10367815011",
+      "name": "Puzzles"
+    },
+    {
+      "id": "10367816011",
+      "name": "Questions & Answers"
+    },
+    {
+      "id": "10367817011",
+      "name": "Word Games"
+    }
+  ]
+}

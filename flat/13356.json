@@ -1,0 +1,45 @@
+{
+  "id": "13356",
+  "name": "Paranormal",
+  "level": 1,
+  "parentId": "23",
+  "isLeaf": false,
+  "path": [
+    "Paranormal"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "120214359011",
+      "name": "Angels"
+    },
+    {
+      "id": "120214360011",
+      "name": "Demons & Devils"
+    },
+    {
+      "id": "120214358011",
+      "name": "Ghosts"
+    },
+    {
+      "id": "120214357011",
+      "name": "Magic"
+    },
+    {
+      "id": "120214356011",
+      "name": "Psychics"
+    },
+    {
+      "id": "16399311",
+      "name": "Vampires"
+    },
+    {
+      "id": "13922582011",
+      "name": "Werewolves & Shifters"
+    },
+    {
+      "id": "18882747011",
+      "name": "Witches"
+    }
+  ]
+}

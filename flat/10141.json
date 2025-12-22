@@ -1,0 +1,102 @@
+{
+  "id": "10141",
+  "name": "Erotica",
+  "level": 1,
+  "parentId": "23",
+  "isLeaf": false,
+  "path": [
+    "Erotica"
+  ],
+  "nodes": [
+    {
+      "id": "10159300011",
+      "name": "LGBTQ+ Erotica"
+    },
+    {
+      "id": "11764647011",
+      "name": "Science Fiction, Fantasy & Horror"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10159290011",
+      "name": "Action & Adventure"
+    },
+    {
+      "id": "10159293011",
+      "name": "BDSM"
+    },
+    {
+      "id": "10159292011",
+      "name": "Black & African American"
+    },
+    {
+      "id": "11764646011",
+      "name": "Collections & Anthologies"
+    },
+    {
+      "id": "10202275011",
+      "name": "Fantasy"
+    },
+    {
+      "id": "10159294011",
+      "name": "General"
+    },
+    {
+      "id": "10159296011",
+      "name": "Historical"
+    },
+    {
+      "id": "9807",
+      "name": "Horror"
+    },
+    {
+      "id": "10159298011",
+      "name": "Humorous"
+    },
+    {
+      "id": "10159299011",
+      "name": "Interracial"
+    },
+    {
+      "id": "10159306011",
+      "name": "Mystery"
+    },
+    {
+      "id": "10159307011",
+      "name": "Paranormal"
+    },
+    {
+      "id": "10159308011",
+      "name": "Poetry"
+    },
+    {
+      "id": "10159309011",
+      "name": "Romantic"
+    },
+    {
+      "id": "10159310011",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "10159311011",
+      "name": "Suspense"
+    },
+    {
+      "id": "10159312011",
+      "name": "Thrillers"
+    },
+    {
+      "id": "10159313011",
+      "name": "Urban"
+    },
+    {
+      "id": "10159314011",
+      "name": "Victorian"
+    },
+    {
+      "id": "10159315011",
+      "name": "Westerns"
+    }
+  ]
+}

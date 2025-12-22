@@ -1,0 +1,58 @@
+{
+  "id": "69820",
+  "name": "Higher & Continuing Education",
+  "level": 1,
+  "parentId": "8975347011",
+  "isLeaf": false,
+  "path": [
+    "Higher & Continuing Education"
+  ],
+  "nodes": [
+    {
+      "id": "9221735011",
+      "name": "Test Preparation"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "8975357011",
+      "name": "Administration"
+    },
+    {
+      "id": "69822",
+      "name": "Adult & Continuing Education"
+    },
+    {
+      "id": "11643",
+      "name": "Business School Guides"
+    },
+    {
+      "id": "11634",
+      "name": "College Guides"
+    },
+    {
+      "id": "69826",
+      "name": "Financial Aid"
+    },
+    {
+      "id": "69821",
+      "name": "General"
+    },
+    {
+      "id": "11641",
+      "name": "Graduate School Guides"
+    },
+    {
+      "id": "11647",
+      "name": "Law School Guides"
+    },
+    {
+      "id": "11649",
+      "name": "Medical School Guides"
+    },
+    {
+      "id": "16022311",
+      "name": "Vocational"
+    }
+  ]
+}

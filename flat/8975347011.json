@@ -1,0 +1,25 @@
+{
+  "id": "8975347011",
+  "name": "8975347011",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "69820",
+      "name": "Higher & Continuing Education"
+    },
+    {
+      "id": "5267708011",
+      "name": "Schools & Teaching"
+    },
+    {
+      "id": "5267723011",
+      "name": "Studying & Workbooks"
+    },
+    {
+      "id": "5267710011",
+      "name": "Test Preparation"
+    }
+  ],
+  "leafs": []
+}

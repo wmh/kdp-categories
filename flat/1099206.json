@@ -1,0 +1,31 @@
+{
+  "id": "1099206",
+  "name": "Computers",
+  "level": 2,
+  "parentId": "10367802011",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Hobbies & Games",
+    "Computers"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10367738011",
+      "name": "General"
+    },
+    {
+      "id": "10367739011",
+      "name": "Internet"
+    },
+    {
+      "id": "10367740011",
+      "name": "Programming"
+    },
+    {
+      "id": "10367741011",
+      "name": "Software"
+    }
+  ]
+}

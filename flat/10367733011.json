@@ -1,0 +1,24 @@
+{
+  "id": "10367733011",
+  "name": "Botany",
+  "level": 3,
+  "parentId": "1099194",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Education & Reference",
+    "Science & Technology",
+    "Botany"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10367734011",
+      "name": "Flowers & Plants"
+    },
+    {
+      "id": "10367736011",
+      "name": "Trees & Forests"
+    }
+  ]
+}

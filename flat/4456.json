@@ -1,0 +1,146 @@
+{
+  "id": "4456",
+  "name": "Humor",
+  "level": 1,
+  "parentId": "86",
+  "isLeaf": false,
+  "path": [
+    "Humor"
+  ],
+  "nodes": [
+    {
+      "id": "4480",
+      "name": "Self-Help & Psychology"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "271590011",
+      "name": "Business & Professional"
+    },
+    {
+      "id": "4459",
+      "name": "Cats, Dogs & Animals"
+    },
+    {
+      "id": "16926936011",
+      "name": "Celebrity & Popular Culture"
+    },
+    {
+      "id": "4460",
+      "name": "Comedy"
+    },
+    {
+      "id": "4461",
+      "name": "Computers & Internet"
+    },
+    {
+      "id": "4462",
+      "name": "Cooking"
+    },
+    {
+      "id": "16926937011",
+      "name": "Cultural, Ethnic & Regional"
+    },
+    {
+      "id": "4463",
+      "name": "Doctors & Medicine"
+    },
+    {
+      "id": "4464",
+      "name": "Essays"
+    },
+    {
+      "id": "4466",
+      "name": "General"
+    },
+    {
+      "id": "16926938011",
+      "name": "History"
+    },
+    {
+      "id": "4468",
+      "name": "Hunting & Fishing"
+    },
+    {
+      "id": "16926939011",
+      "name": "Internet & Social Media"
+    },
+    {
+      "id": "4469",
+      "name": "Jokes & Riddles"
+    },
+    {
+      "id": "16926940011",
+      "name": "LGBTQ+ Humor"
+    },
+    {
+      "id": "10166930011",
+      "name": "Language"
+    },
+    {
+      "id": "4470",
+      "name": "Law & Crime"
+    },
+    {
+      "id": "4471",
+      "name": "Limericks & Humorous Verse"
+    },
+    {
+      "id": "4472",
+      "name": "Love, Sex & Marriage"
+    },
+    {
+      "id": "761128",
+      "name": "Parenting & Families"
+    },
+    {
+      "id": "4473",
+      "name": "Parodies"
+    },
+    {
+      "id": "4474",
+      "name": "Political"
+    },
+    {
+      "id": "4475",
+      "name": "Puns & Wordplay"
+    },
+    {
+      "id": "271591011",
+      "name": "Religion"
+    },
+    {
+      "id": "4476",
+      "name": "Rural Life"
+    },
+    {
+      "id": "3558941011",
+      "name": "Satire"
+    },
+    {
+      "id": "16926941011",
+      "name": "School & Education"
+    },
+    {
+      "id": "4479",
+      "name": "Science & Scientists"
+    },
+    {
+      "id": "4481",
+      "name": "Sports & Recreation"
+    },
+    {
+      "id": "4482",
+      "name": "Theories of Humor"
+    },
+    {
+      "id": "16926942011",
+      "name": "Travel"
+    },
+    {
+      "id": "4483",
+      "name": "Urban Legends"
+    }
+  ]
+}

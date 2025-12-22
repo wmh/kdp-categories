@@ -1,0 +1,39 @@
+{
+  "id": "11684",
+  "name": "Graduate School",
+  "level": 2,
+  "parentId": "5267710011",
+  "isLeaf": false,
+  "path": [
+    "8975347011",
+    "Test Preparation",
+    "Graduate School"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11686",
+      "name": "GMAT"
+    },
+    {
+      "id": "11688",
+      "name": "GRE"
+    },
+    {
+      "id": "11690",
+      "name": "Graduate Preparation"
+    },
+    {
+      "id": "11691",
+      "name": "LSAT"
+    },
+    {
+      "id": "11680",
+      "name": "MAT"
+    },
+    {
+      "id": "11693",
+      "name": "MCAT"
+    }
+  ]
+}

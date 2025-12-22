@@ -1,0 +1,31 @@
+{
+  "id": "69828",
+  "name": "Counseling",
+  "level": 2,
+  "parentId": "5267708011",
+  "isLeaf": false,
+  "path": [
+    "8975347011",
+    "Schools & Teaching",
+    "Counseling"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8975352011",
+      "name": "Academic Development"
+    },
+    {
+      "id": "8975353011",
+      "name": "Career Development"
+    },
+    {
+      "id": "8975354011",
+      "name": "Crisis Management"
+    },
+    {
+      "id": "8975355011",
+      "name": "General"
+    }
+  ]
+}

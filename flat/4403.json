@@ -1,0 +1,31 @@
+{
+  "id": "4403",
+  "name": "Board Games",
+  "level": 2,
+  "parentId": "4402",
+  "isLeaf": false,
+  "path": [
+    "86",
+    "Puzzles & Games",
+    "Board Games"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4404",
+      "name": "Backgammon"
+    },
+    {
+      "id": "4405",
+      "name": "Checkers"
+    },
+    {
+      "id": "4407",
+      "name": "General"
+    },
+    {
+      "id": "4408",
+      "name": "Scrabble"
+    }
+  ]
+}

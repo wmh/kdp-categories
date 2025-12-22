@@ -1,0 +1,51 @@
+{
+  "id": "10367765011",
+  "name": "Study Aids",
+  "level": 2,
+  "parentId": "3344092011",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Education & Reference",
+    "Study Aids"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11670",
+      "name": "ACT"
+    },
+    {
+      "id": "10367767011",
+      "name": "Advanced Placement"
+    },
+    {
+      "id": "10367768011",
+      "name": "Book Notes"
+    },
+    {
+      "id": "10367769011",
+      "name": "College Entrance"
+    },
+    {
+      "id": "10367770011",
+      "name": "College Guides"
+    },
+    {
+      "id": "10367771011",
+      "name": "General"
+    },
+    {
+      "id": "7290951011",
+      "name": "PSAT & National Merit"
+    },
+    {
+      "id": "10367773011",
+      "name": "SAT"
+    },
+    {
+      "id": "10367774011",
+      "name": "Test Preparation"
+    }
+  ]
+}

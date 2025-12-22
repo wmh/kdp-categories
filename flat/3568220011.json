@@ -1,0 +1,29 @@
+{
+  "id": "3568220011",
+  "name": "Drugs, Alcohol & Tobacco",
+  "level": 1,
+  "parentId": "4736",
+  "isLeaf": false,
+  "path": [
+    "Drugs, Alcohol & Tobacco"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8930304011",
+      "name": "Alcohol"
+    },
+    {
+      "id": "8930305011",
+      "name": "Drugs"
+    },
+    {
+      "id": "8930306011",
+      "name": "General"
+    },
+    {
+      "id": "8930307011",
+      "name": "Tobacco"
+    }
+  ]
+}

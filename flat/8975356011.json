@@ -1,0 +1,35 @@
+{
+  "id": "8975356011",
+  "name": "Curriculum & Lesson Plans",
+  "level": 2,
+  "parentId": "5267708011",
+  "isLeaf": false,
+  "path": [
+    "8975347011",
+    "Schools & Teaching",
+    "Curriculum & Lesson Plans"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8975350011",
+      "name": "Common Core"
+    },
+    {
+      "id": "266136",
+      "name": "Curricula"
+    },
+    {
+      "id": "11764643011",
+      "name": "Education Standards"
+    },
+    {
+      "id": "10646",
+      "name": "Lesson Planning"
+    },
+    {
+      "id": "10424331011",
+      "name": "STEM Education"
+    }
+  ]
+}

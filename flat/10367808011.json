@@ -1,0 +1,24 @@
+{
+  "id": "10367808011",
+  "name": "Computer & Video Games",
+  "level": 3,
+  "parentId": "10367805011",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Hobbies & Games",
+    "Games & Activities",
+    "Computer & Video Games"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10367809011",
+      "name": "Computer Games"
+    },
+    {
+      "id": "10367811011",
+      "name": "Video Games"
+    }
+  ]
+}

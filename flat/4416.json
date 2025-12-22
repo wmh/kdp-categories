@@ -1,0 +1,31 @@
+{
+  "id": "4416",
+  "name": "Crosswords",
+  "level": 2,
+  "parentId": "4402",
+  "isLeaf": false,
+  "path": [
+    "86",
+    "Puzzles & Games",
+    "Crosswords"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4417",
+      "name": "Crostic"
+    },
+    {
+      "id": "4418",
+      "name": "Cryptic"
+    },
+    {
+      "id": "4420",
+      "name": "Dictionaries"
+    },
+    {
+      "id": "4421",
+      "name": "General"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "69829",
+  "name": "Education Theory",
+  "level": 2,
+  "parentId": "5267708011",
+  "isLeaf": false,
+  "path": [
+    "8975347011",
+    "Schools & Teaching",
+    "Education Theory"
+  ],
+  "nodes": [
+    {
+      "id": "69830",
+      "name": "Administration"
+    },
+    {
+      "id": "69832",
+      "name": "Assessment"
+    },
+    {
+      "id": "16022391",
+      "name": "Reform & Policy"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "206206471011",
+      "name": "Cultural Pedagogies"
+    },
+    {
+      "id": "69834",
+      "name": "Educational Psychology"
+    },
+    {
+      "id": "8975363011",
+      "name": "Experimental Methods"
+    },
+    {
+      "id": "15959721",
+      "name": "General"
+    },
+    {
+      "id": "69837",
+      "name": "History"
+    },
+    {
+      "id": "10618",
+      "name": "Language Experience Approach"
+    },
+    {
+      "id": "266129",
+      "name": "Philosophy & Social Aspects"
+    },
+    {
+      "id": "69842",
+      "name": "Research"
+    }
+  ]
+}

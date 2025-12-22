@@ -1,0 +1,118 @@
+{
+  "id": "17496",
+  "name": "Social Issues",
+  "level": 1,
+  "parentId": "28",
+  "isLeaf": false,
+  "path": [
+    "Social Issues"
+  ],
+  "nodes": [
+    {
+      "id": "17500",
+      "name": "Family"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "15356801",
+      "name": "Being a Teen"
+    },
+    {
+      "id": "10368639011",
+      "name": "Bullying"
+    },
+    {
+      "id": "16926993011",
+      "name": "Civil & Human Rights"
+    },
+    {
+      "id": "16926994011",
+      "name": "Compulsive Behavior"
+    },
+    {
+      "id": "3045731",
+      "name": "Dating & Intimacy"
+    },
+    {
+      "id": "17515",
+      "name": "Death"
+    },
+    {
+      "id": "171183",
+      "name": "Depression & Mental Health"
+    },
+    {
+      "id": "13922511011",
+      "name": "Disabilities"
+    },
+    {
+      "id": "10445669011",
+      "name": "Drugs & Alcohol Abuse"
+    },
+    {
+      "id": "13922507011",
+      "name": "Eating Disorders & Body Image"
+    },
+    {
+      "id": "17519",
+      "name": "General"
+    },
+    {
+      "id": "10368645011",
+      "name": "Homelessness & Poverty"
+    },
+    {
+      "id": "171191",
+      "name": "LGBTQ+ Issues"
+    },
+    {
+      "id": "13922508011",
+      "name": "Peer Pressure"
+    },
+    {
+      "id": "10368646011",
+      "name": "Physical & Emotional Abuse"
+    },
+    {
+      "id": "171192",
+      "name": "Pregnancy"
+    },
+    {
+      "id": "171193",
+      "name": "Prejudice"
+    },
+    {
+      "id": "17527",
+      "name": "Runaways"
+    },
+    {
+      "id": "171187",
+      "name": "Self-Esteem"
+    },
+    {
+      "id": "13922509011",
+      "name": "Self-Esteem & Self-Reliance"
+    },
+    {
+      "id": "13922510011",
+      "name": "Self-Harm"
+    },
+    {
+      "id": "15356811",
+      "name": "Sexual Abuse"
+    },
+    {
+      "id": "18882753011",
+      "name": "Social Activism & Volunteering"
+    },
+    {
+      "id": "171190",
+      "name": "Suicide"
+    },
+    {
+      "id": "17510",
+      "name": "Violence"
+    }
+  ]
+}

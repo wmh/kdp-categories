@@ -1,0 +1,124 @@
+{
+  "id": "10368546011",
+  "name": "Social & Family Issues",
+  "level": 2,
+  "parentId": "17443",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Literature & Fiction",
+    "Social & Family Issues"
+  ],
+  "nodes": [
+    {
+      "id": "10368551011",
+      "name": "Depression & Mental Health"
+    },
+    {
+      "id": "10368555011",
+      "name": "Family"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10368547011",
+      "name": "Being a Teen"
+    },
+    {
+      "id": "10368548011",
+      "name": "Bullying"
+    },
+    {
+      "id": "10368549011",
+      "name": "Dating & Sex"
+    },
+    {
+      "id": "10368550011",
+      "name": "Death & Dying"
+    },
+    {
+      "id": "10368579011",
+      "name": "Disability"
+    },
+    {
+      "id": "10368552011",
+      "name": "Drugs & Alcohol Abuse"
+    },
+    {
+      "id": "13922483011",
+      "name": "Eating Disorders & Body Image"
+    },
+    {
+      "id": "10368553011",
+      "name": "Emigration, Immigration & Refugees"
+    },
+    {
+      "id": "10368554011",
+      "name": "Emotions & Feelings"
+    },
+    {
+      "id": "10368566011",
+      "name": "Friendship"
+    },
+    {
+      "id": "10368567011",
+      "name": "General"
+    },
+    {
+      "id": "10368568011",
+      "name": "Homelessness & Poverty"
+    },
+    {
+      "id": "10368569011",
+      "name": "LGBTQ+ Issues"
+    },
+    {
+      "id": "10368570011",
+      "name": "New Experiences"
+    },
+    {
+      "id": "10368571011",
+      "name": "Peer Pressure"
+    },
+    {
+      "id": "10368572011",
+      "name": "Physical & Emotional Abuse"
+    },
+    {
+      "id": "10368573011",
+      "name": "Pregnancy"
+    },
+    {
+      "id": "10368574011",
+      "name": "Prejudice & Racism"
+    },
+    {
+      "id": "10368575011",
+      "name": "Runaways"
+    },
+    {
+      "id": "10368576011",
+      "name": "Self Esteem & Reliance"
+    },
+    {
+      "id": "10368577011",
+      "name": "Self-Harm"
+    },
+    {
+      "id": "10368578011",
+      "name": "Sexual Abuse"
+    },
+    {
+      "id": "10368580011",
+      "name": "Suicide"
+    },
+    {
+      "id": "10368581011",
+      "name": "Values & Virtues"
+    },
+    {
+      "id": "10368582011",
+      "name": "Violence"
+    }
+  ]
+}

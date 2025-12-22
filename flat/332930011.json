@@ -1,14 +1,11 @@
 {
   "id": "332930011",
-  "name": "Romance",
-  "level": 3,
-  "parentId": "172806",
+  "name": "Inspirational",
+  "level": 1,
+  "parentId": "23",
   "isLeaf": false,
   "path": [
-    "22",
-    "Literature & Fiction",
-    "Christian",
-    "Romance"
+    "Inspirational"
   ],
   "nodes": [],
   "leafs": [

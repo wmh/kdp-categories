@@ -1,0 +1,31 @@
+{
+  "id": "7421466011",
+  "name": "LGBTQ+ Graphic Novels",
+  "level": 2,
+  "parentId": "4390",
+  "isLeaf": false,
+  "path": [
+    "4366",
+    "Graphic Novels",
+    "LGBTQ+ Graphic Novels"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "206206524011",
+      "name": "Bisexual"
+    },
+    {
+      "id": "206206522011",
+      "name": "Gay"
+    },
+    {
+      "id": "206206523011",
+      "name": "Lesbian"
+    },
+    {
+      "id": "206206521011",
+      "name": "Transgender"
+    }
+  ]
+}

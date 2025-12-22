@@ -1,0 +1,33 @@
+{
+  "id": "4608",
+  "name": "Death & Grief",
+  "level": 1,
+  "parentId": "4736",
+  "isLeaf": false,
+  "path": [
+    "Death & Grief"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4609",
+      "name": "General"
+    },
+    {
+      "id": "4610",
+      "name": "Grief & Bereavement"
+    },
+    {
+      "id": "14258",
+      "name": "Hospice Care"
+    },
+    {
+      "id": "660926",
+      "name": "Pet Loss"
+    },
+    {
+      "id": "4612",
+      "name": "Suicide"
+    }
+  ]
+}

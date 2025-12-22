@@ -1,0 +1,40 @@
+{
+  "id": "1099198",
+  "name": "Earth Science",
+  "level": 3,
+  "parentId": "1099194",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Education & Reference",
+    "Science & Technology",
+    "Earth Science"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10367744011",
+      "name": "Earthquakes & Volcanoes"
+    },
+    {
+      "id": "10367745011",
+      "name": "General"
+    },
+    {
+      "id": "10367746011",
+      "name": "Geography"
+    },
+    {
+      "id": "10367747011",
+      "name": "Geology"
+    },
+    {
+      "id": "10367748011",
+      "name": "Water"
+    },
+    {
+      "id": "10367749011",
+      "name": "Weather"
+    }
+  ]
+}

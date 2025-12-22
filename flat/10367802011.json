@@ -1,0 +1,42 @@
+{
+  "id": "10367802011",
+  "name": "Hobbies & Games",
+  "level": 1,
+  "parentId": "28",
+  "isLeaf": false,
+  "path": [
+    "Hobbies & Games"
+  ],
+  "nodes": [
+    {
+      "id": "1099206",
+      "name": "Computers"
+    },
+    {
+      "id": "10367805011",
+      "name": "Games & Activities"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10367803011",
+      "name": "Antiques & Collectibles"
+    },
+    {
+      "id": "3351979011",
+      "name": "Cooking"
+    },
+    {
+      "id": "8298114011",
+      "name": "Crafts & Hobbies"
+    },
+    {
+      "id": "10367804011",
+      "name": "Gardening"
+    },
+    {
+      "id": "10367819011",
+      "name": "Travel"
+    }
+  ]
+}

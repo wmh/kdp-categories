@@ -1,0 +1,23 @@
+{
+  "id": "17450",
+  "name": "Poetry",
+  "level": 2,
+  "parentId": "17443",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Literature & Fiction",
+    "Poetry"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10368524011",
+      "name": "General"
+    },
+    {
+      "id": "10368525011",
+      "name": "Humorous"
+    }
+  ]
+}

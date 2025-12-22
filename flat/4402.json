@@ -1,0 +1,110 @@
+{
+  "id": "4402",
+  "name": "Puzzles & Games",
+  "level": 1,
+  "parentId": "86",
+  "isLeaf": false,
+  "path": [
+    "Puzzles & Games"
+  ],
+  "nodes": [
+    {
+      "id": "4403",
+      "name": "Board Games"
+    },
+    {
+      "id": "4409",
+      "name": "Card Games"
+    },
+    {
+      "id": "4416",
+      "name": "Crosswords"
+    },
+    {
+      "id": "4422",
+      "name": "Gambling"
+    },
+    {
+      "id": "4453",
+      "name": "Video & Computer Games"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "4424",
+      "name": "Blackjack"
+    },
+    {
+      "id": "4411",
+      "name": "Bridge"
+    },
+    {
+      "id": "4406",
+      "name": "Chess"
+    },
+    {
+      "id": "13021791",
+      "name": "Fantasy Sports"
+    },
+    {
+      "id": "4435",
+      "name": "General"
+    },
+    {
+      "id": "4436",
+      "name": "Logic & Brain Teasers"
+    },
+    {
+      "id": "4437",
+      "name": "Magic"
+    },
+    {
+      "id": "775830",
+      "name": "Math Games"
+    },
+    {
+      "id": "8626717011",
+      "name": "Minecraft"
+    },
+    {
+      "id": "119235586011",
+      "name": "Party Games"
+    },
+    {
+      "id": "4414",
+      "name": "Poker"
+    },
+    {
+      "id": "4439",
+      "name": "Puzzles"
+    },
+    {
+      "id": "4440",
+      "name": "Quizzes"
+    },
+    {
+      "id": "4441",
+      "name": "Reference"
+    },
+    {
+      "id": "15756641",
+      "name": "Sudoku"
+    },
+    {
+      "id": "4451",
+      "name": "Travel Games"
+    },
+    {
+      "id": "4452",
+      "name": "Trivia"
+    },
+    {
+      "id": "4454",
+      "name": "Word Games"
+    },
+    {
+      "id": "4455",
+      "name": "Word Search"
+    }
+  ]
+}

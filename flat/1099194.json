@@ -1,0 +1,84 @@
+{
+  "id": "1099194",
+  "name": "Science & Technology",
+  "level": 2,
+  "parentId": "3344092011",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Education & Reference",
+    "Science & Technology"
+  ],
+  "nodes": [
+    {
+      "id": "10367733011",
+      "name": "Botany"
+    },
+    {
+      "id": "1099206",
+      "name": "Computers"
+    },
+    {
+      "id": "1099198",
+      "name": "Earth Science"
+    },
+    {
+      "id": "10367754011",
+      "name": "Technology"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10367731011",
+      "name": "Anatomy & Physiology"
+    },
+    {
+      "id": "1099202",
+      "name": "Astronomy"
+    },
+    {
+      "id": "10367732011",
+      "name": "Biology"
+    },
+    {
+      "id": "10367737011",
+      "name": "Chemistry"
+    },
+    {
+      "id": "10367742011",
+      "name": "Disasters"
+    },
+    {
+      "id": "10367743011",
+      "name": "Discoveries"
+    },
+    {
+      "id": "1099200",
+      "name": "Ecology"
+    },
+    {
+      "id": "10367750011",
+      "name": "Environmental Conservation & Protection"
+    },
+    {
+      "id": "10367751011",
+      "name": "Experiments & Projects"
+    },
+    {
+      "id": "1099196",
+      "name": "General"
+    },
+    {
+      "id": "10367752011",
+      "name": "History of Science"
+    },
+    {
+      "id": "10367753011",
+      "name": "Physics"
+    },
+    {
+      "id": "10367762011",
+      "name": "Zoology"
+    }
+  ]
+}

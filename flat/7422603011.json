@@ -1,0 +1,23 @@
+{
+  "id": "7422603011",
+  "name": "Biographies & History",
+  "level": 2,
+  "parentId": "4390",
+  "isLeaf": false,
+  "path": [
+    "4366",
+    "Graphic Novels",
+    "Biographies & History"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883933011",
+      "name": "Biographies"
+    },
+    {
+      "id": "8883934011",
+      "name": "History"
+    }
+  ]
+}

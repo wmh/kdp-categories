@@ -1,0 +1,24 @@
+{
+  "id": "10368517011",
+  "name": "General",
+  "level": 3,
+  "parentId": "10368516011",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Literature & Fiction",
+    "Comics & Graphic Novels",
+    "General"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "13922473011",
+      "name": "Fiction"
+    },
+    {
+      "id": "13922474011",
+      "name": "Nonfiction"
+    }
+  ]
+}

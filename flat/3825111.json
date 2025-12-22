@@ -1,0 +1,27 @@
+{
+  "id": "3825111",
+  "name": "Fantasy",
+  "level": 2,
+  "parentId": "4390",
+  "isLeaf": false,
+  "path": [
+    "4366",
+    "Graphic Novels",
+    "Fantasy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "206206531011",
+      "name": "Dark Fantasy"
+    },
+    {
+      "id": "206206529011",
+      "name": "Dragons & Mythical Creatures"
+    },
+    {
+      "id": "206206530011",
+      "name": "Epic"
+    }
+  ]
+}

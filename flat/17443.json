@@ -1,0 +1,114 @@
+{
+  "id": "17443",
+  "name": "Literature & Fiction",
+  "level": 1,
+  "parentId": "28",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction"
+  ],
+  "nodes": [
+    {
+      "id": "10368508011",
+      "name": "Action & Adventure"
+    },
+    {
+      "id": "10368516011",
+      "name": "Comics & Graphic Novels"
+    },
+    {
+      "id": "10368521011",
+      "name": "LGBTQ+"
+    },
+    {
+      "id": "10399750011",
+      "name": "Performing Arts"
+    },
+    {
+      "id": "17450",
+      "name": "Poetry"
+    },
+    {
+      "id": "10368526011",
+      "name": "Religious"
+    },
+    {
+      "id": "10368546011",
+      "name": "Social & Family Issues"
+    },
+    {
+      "id": "17465",
+      "name": "Sports"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "8298108011",
+      "name": "Art & Architecture"
+    },
+    {
+      "id": "10368515011",
+      "name": "Boys & Men"
+    },
+    {
+      "id": "17445",
+      "name": "Classics"
+    },
+    {
+      "id": "13922486011",
+      "name": "Coming of Age"
+    },
+    {
+      "id": "265004",
+      "name": "General"
+    },
+    {
+      "id": "17447",
+      "name": "Girl Power"
+    },
+    {
+      "id": "10368522011",
+      "name": "Girls & Women"
+    },
+    {
+      "id": "10368523011",
+      "name": "Humorous"
+    },
+    {
+      "id": "11764665011",
+      "name": "Light Novels"
+    },
+    {
+      "id": "13922487011",
+      "name": "Literary"
+    },
+    {
+      "id": "13922488011",
+      "name": "Loners & Outcasts"
+    },
+    {
+      "id": "13922489011",
+      "name": "Magical Realism"
+    },
+    {
+      "id": "23504859011",
+      "name": "Own Voices"
+    },
+    {
+      "id": "17452",
+      "name": "Short Stories"
+    },
+    {
+      "id": "17454",
+      "name": "Suspense"
+    },
+    {
+      "id": "10433096011",
+      "name": "TV, Movie, Video Game Adaptations"
+    },
+    {
+      "id": "10368594011",
+      "name": "Westerns"
+    }
+  ]
+}

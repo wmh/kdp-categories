@@ -1,0 +1,17 @@
+{
+  "id": "11871",
+  "name": "Trivia & Fun Facts",
+  "level": 1,
+  "parentId": "86",
+  "isLeaf": false,
+  "path": [
+    "Trivia & Fun Facts"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11873",
+      "name": "Curiosities & Wonders"
+    }
+  ]
+}

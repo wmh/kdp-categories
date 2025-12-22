@@ -1,0 +1,28 @@
+{
+  "id": "69830",
+  "name": "Administration",
+  "level": 3,
+  "parentId": "69829",
+  "isLeaf": false,
+  "path": [
+    "8975347011",
+    "Schools & Teaching",
+    "Education Theory",
+    "Administration"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8975358011",
+      "name": "Elementary & Secondary"
+    },
+    {
+      "id": "8975359011",
+      "name": "General"
+    },
+    {
+      "id": "8975360011",
+      "name": "Superintendents & Principals"
+    }
+  ]
+}

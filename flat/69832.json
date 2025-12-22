@@ -1,0 +1,24 @@
+{
+  "id": "69832",
+  "name": "Assessment",
+  "level": 3,
+  "parentId": "69829",
+  "isLeaf": false,
+  "path": [
+    "8975347011",
+    "Schools & Teaching",
+    "Education Theory",
+    "Assessment"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8975361011",
+      "name": "Evaluation & Assessment"
+    },
+    {
+      "id": "8975362011",
+      "name": "Testing & Measurement"
+    }
+  ]
+}

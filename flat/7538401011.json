@@ -1,0 +1,28 @@
+{
+  "id": "7538401011",
+  "name": "Paranormal & Urban",
+  "level": 3,
+  "parentId": "17468",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Science Fiction & Fantasy",
+    "Fantasy",
+    "Paranormal & Urban"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "13922493011",
+      "name": "Mermaids"
+    },
+    {
+      "id": "13922494011",
+      "name": "Vampires"
+    },
+    {
+      "id": "13922495011",
+      "name": "Werewolves & Shifters"
+    }
+  ]
+}

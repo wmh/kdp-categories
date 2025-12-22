@@ -1,0 +1,23 @@
+{
+  "id": "4480",
+  "name": "Self-Help & Psychology",
+  "level": 2,
+  "parentId": "4456",
+  "isLeaf": false,
+  "path": [
+    "86",
+    "Humor",
+    "Self-Help & Psychology"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883979011",
+      "name": "Psychology"
+    },
+    {
+      "id": "8883980011",
+      "name": "Self-Help"
+    }
+  ]
+}

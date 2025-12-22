@@ -1,0 +1,31 @@
+{
+  "id": "17460",
+  "name": "Reference",
+  "level": 2,
+  "parentId": "3344092011",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Education & Reference",
+    "Reference"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10367727011",
+      "name": "Atlases"
+    },
+    {
+      "id": "10367728011",
+      "name": "Dictionaries"
+    },
+    {
+      "id": "10367729011",
+      "name": "Encyclopedias"
+    },
+    {
+      "id": "17463",
+      "name": "General"
+    }
+  ]
+}

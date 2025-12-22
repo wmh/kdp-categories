@@ -1,0 +1,23 @@
+{
+  "id": "4487",
+  "name": "Biographies",
+  "level": 2,
+  "parentId": "4484",
+  "isLeaf": false,
+  "path": [
+    "86",
+    "Movies",
+    "Biographies"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2328",
+      "name": "Actors & Actresses"
+    },
+    {
+      "id": "2345",
+      "name": "Directors"
+    }
+  ]
+}

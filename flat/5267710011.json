@@ -1,0 +1,54 @@
+{
+  "id": "5267710011",
+  "name": "Test Preparation",
+  "level": 1,
+  "parentId": "8975347011",
+  "isLeaf": false,
+  "path": [
+    "Test Preparation"
+  ],
+  "nodes": [
+    {
+      "id": "11668",
+      "name": "College & High School"
+    },
+    {
+      "id": "11684",
+      "name": "Graduate School"
+    },
+    {
+      "id": "11657",
+      "name": "Professional"
+    },
+    {
+      "id": "5267723011",
+      "name": "Study Guides & Workbooks"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "11632",
+      "name": "Citizenship"
+    },
+    {
+      "id": "497332",
+      "name": "Driver's Education"
+    },
+    {
+      "id": "11709",
+      "name": "General"
+    },
+    {
+      "id": "17745841011",
+      "name": "Study & Test-Taking Skills"
+    },
+    {
+      "id": "11655",
+      "name": "TOEFL & TOEIC"
+    },
+    {
+      "id": "7290953011",
+      "name": "Test Flash Cards"
+    }
+  ]
+}

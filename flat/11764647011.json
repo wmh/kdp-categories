@@ -1,0 +1,27 @@
+{
+  "id": "11764647011",
+  "name": "Science Fiction, Fantasy & Horror",
+  "level": 2,
+  "parentId": "10141",
+  "isLeaf": false,
+  "path": [
+    "23",
+    "Erotica",
+    "Science Fiction, Fantasy & Horror"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10202275011",
+      "name": "Fantasy"
+    },
+    {
+      "id": "9807",
+      "name": "Horror"
+    },
+    {
+      "id": "10159310011",
+      "name": "Science Fiction"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "3344094011",
+  "name": "Language Arts",
+  "level": 2,
+  "parentId": "3344092011",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Education & Reference",
+    "Language Arts"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10367718011",
+      "name": "Composition & Creative Writing"
+    },
+    {
+      "id": "10367719011",
+      "name": "General"
+    },
+    {
+      "id": "10367720011",
+      "name": "Grammar"
+    },
+    {
+      "id": "10367721011",
+      "name": "Vocabulary & Spelling"
+    }
+  ]
+}

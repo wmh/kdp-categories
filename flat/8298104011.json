@@ -1,0 +1,51 @@
+{
+  "id": "8298104011",
+  "name": "Art",
+  "level": 2,
+  "parentId": "10367653011",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Art, Music & Photography",
+    "Art"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10367674011",
+      "name": "Biographies"
+    },
+    {
+      "id": "8298105011",
+      "name": "Cartooning"
+    },
+    {
+      "id": "8298106011",
+      "name": "Drawing"
+    },
+    {
+      "id": "8298107011",
+      "name": "Fashion"
+    },
+    {
+      "id": "8298109011",
+      "name": "General"
+    },
+    {
+      "id": "8298110011",
+      "name": "History"
+    },
+    {
+      "id": "8298111011",
+      "name": "Painting"
+    },
+    {
+      "id": "8298112011",
+      "name": "Sculpture"
+    },
+    {
+      "id": "8298113011",
+      "name": "Techniques"
+    }
+  ]
+}

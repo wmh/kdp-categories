@@ -1,0 +1,35 @@
+{
+  "id": "17441",
+  "name": "Horror",
+  "level": 2,
+  "parentId": "17466",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Science Fiction & Fantasy",
+    "Horror"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "13922497011",
+      "name": "Dark Fantasy"
+    },
+    {
+      "id": "13922502011",
+      "name": "General"
+    },
+    {
+      "id": "13922501011",
+      "name": "Ghosts"
+    },
+    {
+      "id": "10368507011",
+      "name": "Monsters"
+    },
+    {
+      "id": "13922496011",
+      "name": "Zombies"
+    }
+  ]
+}

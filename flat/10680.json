@@ -1,0 +1,47 @@
+{
+  "id": "10680",
+  "name": "Special Education",
+  "level": 2,
+  "parentId": "5267708011",
+  "isLeaf": false,
+  "path": [
+    "8975347011",
+    "Schools & Teaching",
+    "Special Education"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "69850",
+      "name": "Behavioral Disorders"
+    },
+    {
+      "id": "10682",
+      "name": "Communicative Disorders"
+    },
+    {
+      "id": "69848",
+      "name": "Developmental & Intellectual Disabilities"
+    },
+    {
+      "id": "10684",
+      "name": "General"
+    },
+    {
+      "id": "8975379011",
+      "name": "Gifted Students"
+    },
+    {
+      "id": "8975364011",
+      "name": "Inclusive Education"
+    },
+    {
+      "id": "10687",
+      "name": "Learning Disabilities"
+    },
+    {
+      "id": "69849",
+      "name": "Physically Disabled"
+    }
+  ]
+}

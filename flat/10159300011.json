@@ -1,0 +1,31 @@
+{
+  "id": "10159300011",
+  "name": "LGBTQ+ Erotica",
+  "level": 2,
+  "parentId": "10141",
+  "isLeaf": false,
+  "path": [
+    "23",
+    "Erotica",
+    "LGBTQ+ Erotica"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10159301011",
+      "name": "Bisexual"
+    },
+    {
+      "id": "10148",
+      "name": "Gay"
+    },
+    {
+      "id": "10150",
+      "name": "Lesbian"
+    },
+    {
+      "id": "10159305011",
+      "name": "Transgender"
+    }
+  ]
+}

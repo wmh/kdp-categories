@@ -1,0 +1,48 @@
+{
+  "id": "10367754011",
+  "name": "Technology",
+  "level": 3,
+  "parentId": "1099194",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Education & Reference",
+    "Science & Technology",
+    "Technology"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10367756011",
+      "name": "Agriculture"
+    },
+    {
+      "id": "10367755011",
+      "name": "Air & Space Science"
+    },
+    {
+      "id": "10367757011",
+      "name": "Electricity & Electronics"
+    },
+    {
+      "id": "10367758011",
+      "name": "General"
+    },
+    {
+      "id": "10367759011",
+      "name": "How Things Work"
+    },
+    {
+      "id": "10367760011",
+      "name": "Inventions"
+    },
+    {
+      "id": "10367761011",
+      "name": "Machinery & Tools"
+    },
+    {
+      "id": "18882751011",
+      "name": "Robotics"
+    }
+  ]
+}

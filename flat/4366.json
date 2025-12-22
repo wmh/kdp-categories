@@ -1,0 +1,70 @@
+{
+  "id": "4366",
+  "name": "4366",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "7422603011",
+      "name": "Biographies & History Graphic Novels"
+    },
+    {
+      "id": "3825111",
+      "name": "Fantasy Graphic Novels"
+    },
+    {
+      "id": "4390",
+      "name": "Graphic Novels"
+    },
+    {
+      "id": "1839",
+      "name": "How To Create Comics & Manga"
+    },
+    {
+      "id": "4367",
+      "name": "Manga"
+    },
+    {
+      "id": "4396",
+      "name": "Publishers"
+    },
+    {
+      "id": "4394",
+      "name": "Science Fiction Graphic Novels"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "7421474011",
+      "name": "Action & Adventure Manga"
+    },
+    {
+      "id": "7421482011",
+      "name": "Art of Comics and Manga"
+    },
+    {
+      "id": "4375",
+      "name": "Comic Strips"
+    },
+    {
+      "id": "7432726011",
+      "name": "General"
+    },
+    {
+      "id": "4395",
+      "name": "History & Price Guides"
+    },
+    {
+      "id": "7421472011",
+      "name": "Media Tie-In Graphic Novels"
+    },
+    {
+      "id": "7421479011",
+      "name": "Romance Manga"
+    },
+    {
+      "id": "3825121",
+      "name": "Superheroes"
+    }
+  ]
+}

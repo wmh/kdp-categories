@@ -1,0 +1,58 @@
+{
+  "id": "13371",
+  "name": "Historical",
+  "level": 1,
+  "parentId": "23",
+  "isLeaf": false,
+  "path": [
+    "Historical"
+  ],
+  "nodes": [
+    {
+      "id": "7538389011",
+      "name": "Scottish"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "9059884011",
+      "name": "20th Century"
+    },
+    {
+      "id": "13372",
+      "name": "American"
+    },
+    {
+      "id": "7538387011",
+      "name": "Ancient World"
+    },
+    {
+      "id": "119015547011",
+      "name": "Gilded Age"
+    },
+    {
+      "id": "7538388011",
+      "name": "Medieval"
+    },
+    {
+      "id": "746228",
+      "name": "Regency"
+    },
+    {
+      "id": "17745833011",
+      "name": "Renaissance"
+    },
+    {
+      "id": "13922578011",
+      "name": "Tudor"
+    },
+    {
+      "id": "7538390011",
+      "name": "Victorian"
+    },
+    {
+      "id": "7538391011",
+      "name": "Viking"
+    }
+  ]
+}

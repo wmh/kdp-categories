@@ -1,0 +1,31 @@
+{
+  "id": "10368521011",
+  "name": "LGBTQ+",
+  "level": 2,
+  "parentId": "17443",
+  "isLeaf": false,
+  "path": [
+    "28",
+    "Literature & Fiction",
+    "LGBTQ+"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "206206559011",
+      "name": "Bisexual"
+    },
+    {
+      "id": "206206561011",
+      "name": "Gay"
+    },
+    {
+      "id": "206206560011",
+      "name": "Lesbian"
+    },
+    {
+      "id": "206206562011",
+      "name": "Transgender"
+    }
+  ]
+}

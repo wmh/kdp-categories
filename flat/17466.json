@@ -1,0 +1,30 @@
+{
+  "id": "17466",
+  "name": "Science Fiction & Fantasy",
+  "level": 1,
+  "parentId": "28",
+  "isLeaf": false,
+  "path": [
+    "Science Fiction & Fantasy"
+  ],
+  "nodes": [
+    {
+      "id": "17468",
+      "name": "Fantasy"
+    },
+    {
+      "id": "17441",
+      "name": "Horror"
+    },
+    {
+      "id": "17470",
+      "name": "Science Fiction"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "713790011",
+      "name": "General"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "194810011",
+  "name": "Genre Films",
+  "level": 2,
+  "parentId": "4484",
+  "isLeaf": false,
+  "path": [
+    "86",
+    "Movies",
+    "Genre Films"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16926956011",
+      "name": "Action & Adventure"
+    },
+    {
+      "id": "16926957011",
+      "name": "Animated"
+    },
+    {
+      "id": "16926958011",
+      "name": "Comedy"
+    },
+    {
+      "id": "16926959011",
+      "name": "Crime"
+    },
+    {
+      "id": "16926960011",
+      "name": "Historical"
+    },
+    {
+      "id": "16926961011",
+      "name": "Horror"
+    },
+    {
+      "id": "16926962011",
+      "name": "Science Fiction & Fantasy"
+    },
+    {
+      "id": "16926963011",
+      "name": "Westerns"
+    }
+  ]
+}

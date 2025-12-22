@@ -1,0 +1,46 @@
+{
+  "id": "4569",
+  "name": "Television",
+  "level": 1,
+  "parentId": "86",
+  "isLeaf": false,
+  "path": [
+    "Television"
+  ],
+  "nodes": [
+    {
+      "id": "16926964011",
+      "name": "Genres"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "466576",
+      "name": "Direction & Production"
+    },
+    {
+      "id": "4571",
+      "name": "General"
+    },
+    {
+      "id": "4572",
+      "name": "Guides & Reviews"
+    },
+    {
+      "id": "4573",
+      "name": "History & Criticism"
+    },
+    {
+      "id": "4574",
+      "name": "Reference"
+    },
+    {
+      "id": "4500",
+      "name": "Screenwriting"
+    },
+    {
+      "id": "4576",
+      "name": "Shows"
+    }
+  ]
+}

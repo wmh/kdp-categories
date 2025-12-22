@@ -4,30 +4,65 @@ Complete Amazon KDP (Kindle Direct Publishing) category hierarchy in two formats
 
 ## 📊 Dataset Overview
 
-- **450 category files** in flat format
-- **5 root categories** with full hierarchical structure in tree format
-- Covers major KDP categories including:
+- **566 category files** in flat format
+- **31 root categories** with full hierarchical structure
+- Covers all major KDP categories including:
   - Arts & Photography
+  - Biographies & Memoirs
+  - Business & Money
   - Children's Books
+  - Comics & Graphic Novels
+  - Computers & Technology
+  - Cookbooks, Food & Wine
   - Crafts, Hobbies & Home
+  - Education & Teaching
+  - Engineering & Transportation
+  - Health, Fitness & Dieting
+  - History
+  - Humor & Entertainment
+  - LGBTQ+ Books
+  - Law
+  - Literature & Fiction
+  - Medical Books
+  - Mystery, Thriller & Suspense
+  - Parenting & Relationships
+  - Politics & Social Sciences
+  - Reference
   - Religion & Spirituality
+  - Romance
+  - Science & Math
+  - Science Fiction & Fantasy
+  - Self-Help
+  - Sports & Outdoors
+  - Teen & Young Adult
+  - Test Preparation
   - Travel
+  - Non-Classifiable
 
 ## 📁 Directory Structure
 
 ```
 kdp-categories/
-├── flat/           # Flat JSON files (450 files)
+├── flat/           # Flat JSON files (566 files)
 │   ├── 0.json      # Root categories list
 │   ├── 1.json      # Arts & Photography
 │   ├── 4.json      # Children's Books
+│   ├── 23.json     # Romance
+│   ├── 28.json     # Teen & Young Adult
 │   └── ...
-└── tree/           # Hierarchical directory structure (5 root categories)
+└── tree/           # Hierarchical directory structure (31 root categories)
+    ├── 23/                        # Romance
+    ├── 28/                        # Teen & Young Adult
+    ├── 4366/                      # Comics & Graphic Novels
+    ├── 4736/                      # Self-Help
+    ├── 86/                        # Humor & Entertainment
+    ├── 8975347011/                # Education & Teaching
     ├── Arts_&_Photography/
     ├── Children's_Books/
     ├── Crafts,_Hobbies_&_Home/
     ├── Religion_&_Spirituality/
-    └── Travel/
+    ├── Travel/
+    └── ...
 ```
 
 ## 🗂️ Format Specifications
@@ -138,7 +173,7 @@ This dataset was scraped from Amazon KDP using Playwright automation.
 
 ## 📅 Last Updated
 
-December 21, 2025
+December 22, 2025
 
 ## 📄 License
 

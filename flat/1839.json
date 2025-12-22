@@ -1,13 +1,11 @@
 {
   "id": "1839",
-  "name": "Cartooning",
-  "level": 2,
-  "parentId": "1855",
+  "name": "How To Create Comics & Manga",
+  "level": 1,
+  "parentId": "4366",
   "isLeaf": false,
   "path": [
-    "Arts & Photography",
-    "Drawing",
-    "Cartooning"
+    "How To Create Comics & Manga"
   ],
   "nodes": [],
   "leafs": [

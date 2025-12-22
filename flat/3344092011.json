@@ -1,0 +1,50 @@
+{
+  "id": "3344092011",
+  "name": "Education & Reference",
+  "level": 1,
+  "parentId": "28",
+  "isLeaf": false,
+  "path": [
+    "Education & Reference"
+  ],
+  "nodes": [
+    {
+      "id": "17433",
+      "name": "History"
+    },
+    {
+      "id": "3344094011",
+      "name": "Language Arts"
+    },
+    {
+      "id": "10367686011",
+      "name": "Language Study"
+    },
+    {
+      "id": "1099204",
+      "name": "Mathematics"
+    },
+    {
+      "id": "17460",
+      "name": "Reference"
+    },
+    {
+      "id": "1099194",
+      "name": "Science & Technology"
+    },
+    {
+      "id": "3344093011",
+      "name": "Social Science"
+    },
+    {
+      "id": "10367765011",
+      "name": "Study Aids"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10367730011",
+      "name": "School & Education"
+    }
+  ]
+}

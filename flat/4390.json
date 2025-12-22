@@ -1,0 +1,110 @@
+{
+  "id": "4390",
+  "name": "Graphic Novels",
+  "level": 1,
+  "parentId": "4366",
+  "isLeaf": false,
+  "path": [
+    "Graphic Novels"
+  ],
+  "nodes": [
+    {
+      "id": "7422603011",
+      "name": "Biographies & History"
+    },
+    {
+      "id": "3825111",
+      "name": "Fantasy"
+    },
+    {
+      "id": "7421466011",
+      "name": "LGBTQ+ Graphic Novels"
+    },
+    {
+      "id": "4394",
+      "name": "Science Fiction"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10075825011",
+      "name": "Adaptations"
+    },
+    {
+      "id": "7421464011",
+      "name": "Anthologies"
+    },
+    {
+      "id": "7421465011",
+      "name": "Contemporary Women"
+    },
+    {
+      "id": "11764637011",
+      "name": "Dystopian"
+    },
+    {
+      "id": "7421468011",
+      "name": "Educational & Nonfiction"
+    },
+    {
+      "id": "4391",
+      "name": "General"
+    },
+    {
+      "id": "7406071011",
+      "name": "Graphic Novels"
+    },
+    {
+      "id": "7422605011",
+      "name": "Historical & Biographical Fiction"
+    },
+    {
+      "id": "4392",
+      "name": "Horror"
+    },
+    {
+      "id": "17745798011",
+      "name": "Humorous"
+    },
+    {
+      "id": "7421467011",
+      "name": "Literary"
+    },
+    {
+      "id": "7421472011",
+      "name": "Media Tie-In"
+    },
+    {
+      "id": "4393",
+      "name": "Mystery"
+    },
+    {
+      "id": "17745799011",
+      "name": "Reference, Guides & Companions"
+    },
+    {
+      "id": "7421469011",
+      "name": "Religion & Spirituality"
+    },
+    {
+      "id": "7421471011",
+      "name": "Romance"
+    },
+    {
+      "id": "3825121",
+      "name": "Superheroes"
+    },
+    {
+      "id": "17745800011",
+      "name": "Supernatural"
+    },
+    {
+      "id": "17745801011",
+      "name": "Supervillains"
+    },
+    {
+      "id": "7421473011",
+      "name": "Zombies"
+    }
+  ]
+}
