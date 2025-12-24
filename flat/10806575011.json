@@ -1,0 +1,32 @@
+{
+  "id": "10806575011",
+  "name": "Software",
+  "level": 2,
+  "parentId": "549726",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Business Technology",
+    "Software"
+  ],
+  "nodes": [
+    {
+      "id": "10806628011",
+      "name": "Enterprise Applications"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10806632011",
+      "name": "Presentation Software"
+    },
+    {
+      "id": "10806633011",
+      "name": "Project Management Software"
+    },
+    {
+      "id": "10806634011",
+      "name": "Spreadsheets"
+    }
+  ]
+}

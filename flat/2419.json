@@ -1,0 +1,70 @@
+{
+  "id": "2419",
+  "name": "Professionals & Academics",
+  "level": 1,
+  "parentId": "2",
+  "isLeaf": false,
+  "path": [
+    "Biographies & Memoirs",
+    "Professionals & Academics"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17745783011",
+      "name": "Aviation & Nautical"
+    },
+    {
+      "id": "2420",
+      "name": "Business & Industry"
+    },
+    {
+      "id": "3568",
+      "name": "Computers & Technology"
+    },
+    {
+      "id": "7538384011",
+      "name": "Culinary"
+    },
+    {
+      "id": "2421",
+      "name": "Educators"
+    },
+    {
+      "id": "9681288011",
+      "name": "Environmentalists & Naturalists"
+    },
+    {
+      "id": "17745784011",
+      "name": "Fire & Emergency Services"
+    },
+    {
+      "id": "172763",
+      "name": "Journalists"
+    },
+    {
+      "id": "9681290011",
+      "name": "Law Enforcement"
+    },
+    {
+      "id": "2422",
+      "name": "Lawyers & Judges"
+    },
+    {
+      "id": "2423",
+      "name": "Medical"
+    },
+    {
+      "id": "2425",
+      "name": "Philosophers"
+    },
+    {
+      "id": "2426",
+      "name": "Scientists"
+    },
+    {
+      "id": "2427",
+      "name": "Social Scientists & Psychologists"
+    }
+  ]
+}

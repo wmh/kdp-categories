@@ -1,0 +1,78 @@
+{
+  "id": "69766",
+  "name": "Internet & Social Media",
+  "level": 1,
+  "parentId": "5",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Internet & Social Media"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "15375281",
+      "name": "Blogging & Blogs"
+    },
+    {
+      "id": "379367011",
+      "name": "E-Commerce"
+    },
+    {
+      "id": "713178011",
+      "name": "General"
+    },
+    {
+      "id": "3648",
+      "name": "Hacking"
+    },
+    {
+      "id": "202438631011",
+      "name": "Home Pages"
+    },
+    {
+      "id": "202438630011",
+      "name": "Introduction to the Internet"
+    },
+    {
+      "id": "202438632011",
+      "name": "Online Auctions"
+    },
+    {
+      "id": "202438633011",
+      "name": "Online Dating"
+    },
+    {
+      "id": "69771",
+      "name": "Online Searching"
+    },
+    {
+      "id": "202438634011",
+      "name": "Online Shopping"
+    },
+    {
+      "id": "11006481011",
+      "name": "Podcasts & Webcasts"
+    },
+    {
+      "id": "6133991011",
+      "name": "Search Engine Optimization"
+    },
+    {
+      "id": "6133992011",
+      "name": "Social Media"
+    },
+    {
+      "id": "6133993011",
+      "name": "Social Media for Business"
+    },
+    {
+      "id": "69769",
+      "name": "Web Browsers"
+    },
+    {
+      "id": "3563",
+      "name": "Web Marketing"
+    }
+  ]
+}

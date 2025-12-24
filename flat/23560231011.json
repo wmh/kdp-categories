@@ -1,0 +1,31 @@
+{
+  "id": "23560231011",
+  "name": "Indigenous",
+  "level": 2,
+  "parentId": "2365",
+  "isLeaf": false,
+  "path": [
+    "Biographies & Memoirs",
+    "Community & Culture",
+    "Indigenous"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2367",
+      "name": "Australian & New Zealand Indigenous"
+    },
+    {
+      "id": "206206543011",
+      "name": "Indigenous Peoples of Turtle Island"
+    },
+    {
+      "id": "2373",
+      "name": "Native American"
+    },
+    {
+      "id": "1043838",
+      "name": "Native Canadian"
+    }
+  ]
+}

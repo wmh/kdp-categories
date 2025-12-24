@@ -1,0 +1,46 @@
+[
+  {
+    "id": "3742",
+    "name": "COM & DCOM"
+  },
+  {
+    "id": "3743",
+    "name": "CORBA"
+  },
+  {
+    "id": "495380",
+    "name": "General"
+  },
+  {
+    "id": "3744",
+    "name": "ISDN"
+  },
+  {
+    "id": "3745",
+    "name": "LAN"
+  },
+  {
+    "id": "69960",
+    "name": "LDAP"
+  },
+  {
+    "id": "3747",
+    "name": "Networks"
+  },
+  {
+    "id": "3749",
+    "name": "ODBC"
+  },
+  {
+    "id": "170900",
+    "name": "SNMP"
+  },
+  {
+    "id": "3624",
+    "name": "TCP-IP"
+  },
+  {
+    "id": "132568011",
+    "name": "WAN"
+  }
+]

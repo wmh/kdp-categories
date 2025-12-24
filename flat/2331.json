@@ -1,13 +1,13 @@
 {
   "id": "2331",
-  "name": "Biographies",
+  "name": "Composers & Musicians",
   "level": 2,
-  "parentId": "4507",
+  "parentId": "2327",
   "isLeaf": false,
   "path": [
-    "Arts & Photography",
-    "Music",
-    "Biographies"
+    "Biographies & Memoirs",
+    "Arts & Literature",
+    "Composers & Musicians"
   ],
   "nodes": [
     {

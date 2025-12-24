@@ -1,0 +1,59 @@
+{
+  "id": "2741",
+  "name": "Business Development & Entrepreneurship",
+  "level": 1,
+  "parentId": "3",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Business Development & Entrepreneurship"
+  ],
+  "nodes": [
+    {
+      "id": "2702",
+      "name": "Marketing"
+    },
+    {
+      "id": "23696030011",
+      "name": "Small Business"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2745",
+      "name": "Entrepreneurship"
+    },
+    {
+      "id": "2746",
+      "name": "Franchises"
+    },
+    {
+      "id": "2747",
+      "name": "General"
+    },
+    {
+      "id": "2749",
+      "name": "Legal Guides"
+    },
+    {
+      "id": "2750",
+      "name": "Mail Order"
+    },
+    {
+      "id": "2649",
+      "name": "Nonprofit Organizations & Charities"
+    },
+    {
+      "id": "355575011",
+      "name": "Online Auctions"
+    },
+    {
+      "id": "2744",
+      "name": "Raising Capital"
+    },
+    {
+      "id": "2751",
+      "name": "Starting a Business"
+    }
+  ]
+}

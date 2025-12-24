@@ -1,0 +1,51 @@
+{
+  "id": "2327",
+  "name": "Arts & Literature",
+  "level": 1,
+  "parentId": "2",
+  "isLeaf": false,
+  "path": [
+    "Biographies & Memoirs",
+    "Arts & Literature"
+  ],
+  "nodes": [
+    {
+      "id": "2331",
+      "name": "Composers & Musicians"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2328",
+      "name": "Actors & Entertainers"
+    },
+    {
+      "id": "2329",
+      "name": "Artists, Architects & Photographers"
+    },
+    {
+      "id": "2330",
+      "name": "Authors"
+    },
+    {
+      "id": "2343",
+      "name": "Dancers"
+    },
+    {
+      "id": "17745781011",
+      "name": "Fashion"
+    },
+    {
+      "id": "2345",
+      "name": "Movie Directors"
+    },
+    {
+      "id": "2347",
+      "name": "Television Performers"
+    },
+    {
+      "id": "2348",
+      "name": "Theatre"
+    }
+  ]
+}

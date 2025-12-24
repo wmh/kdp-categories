@@ -1,0 +1,55 @@
+{
+  "id": "4134",
+  "name": "Graphics & Design",
+  "level": 1,
+  "parentId": "5",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Graphics & Design"
+  ],
+  "nodes": [
+    {
+      "id": "6133990011",
+      "name": "Adobe"
+    },
+    {
+      "id": "4075",
+      "name": "CAD"
+    },
+    {
+      "id": "227543",
+      "name": "Computer Modelling"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "4135",
+      "name": "3D Graphics"
+    },
+    {
+      "id": "10806600011",
+      "name": "3D Printing"
+    },
+    {
+      "id": "4094",
+      "name": "Desktop Publishing"
+    },
+    {
+      "id": "4097",
+      "name": "Electronic Documents"
+    },
+    {
+      "id": "3564982011",
+      "name": "General"
+    },
+    {
+      "id": "3937",
+      "name": "Rendering & Ray Tracing"
+    },
+    {
+      "id": "4033",
+      "name": "User Experience & Usability"
+    }
+  ]
+}

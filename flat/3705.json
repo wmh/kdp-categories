@@ -1,0 +1,27 @@
+{
+  "id": "3705",
+  "name": "Internet, Groupware, & Telecommunications",
+  "level": 2,
+  "parentId": "3652",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Networking & Cloud Computing",
+    "Internet, Groupware, & Telecommunications"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883939011",
+      "name": "Groupware"
+    },
+    {
+      "id": "8883940011",
+      "name": "Internet App Development"
+    },
+    {
+      "id": "8883941011",
+      "name": "Telecommunications"
+    }
+  ]
+}

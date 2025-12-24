@@ -1,0 +1,27 @@
+{
+  "id": "16233461",
+  "name": "Sports & Entertainment",
+  "level": 2,
+  "parentId": "2624",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Industries",
+    "Sports & Entertainment"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298058011",
+      "name": "Entertainment"
+    },
+    {
+      "id": "10020702011",
+      "name": "Park & Recreation"
+    },
+    {
+      "id": "8298059011",
+      "name": "Sports"
+    }
+  ]
+}

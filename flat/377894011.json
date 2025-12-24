@@ -1,0 +1,39 @@
+{
+  "id": "377894011",
+  "name": "Network Administration",
+  "level": 2,
+  "parentId": "3652",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Networking & Cloud Computing",
+    "Network Administration"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10806613011",
+      "name": "Disaster & Recovery"
+    },
+    {
+      "id": "10806614011",
+      "name": "Email Administration"
+    },
+    {
+      "id": "10806615011",
+      "name": "General"
+    },
+    {
+      "id": "10806616011",
+      "name": "Linux & UNIX Administration"
+    },
+    {
+      "id": "10806617011",
+      "name": "Storage & Retrieval"
+    },
+    {
+      "id": "10806618011",
+      "name": "Windows Administration"
+    }
+  ]
+}

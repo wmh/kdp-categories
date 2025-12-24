@@ -1,0 +1,59 @@
+{
+  "id": "355562011",
+  "name": "Skills",
+  "level": 1,
+  "parentId": "3",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Skills"
+  ],
+  "nodes": [
+    {
+      "id": "271578011",
+      "name": "Project Management"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2742",
+      "name": "Bookkeeping"
+    },
+    {
+      "id": "271577011",
+      "name": "Business Mathematics"
+    },
+    {
+      "id": "660626",
+      "name": "Business Writing"
+    },
+    {
+      "id": "2560",
+      "name": "Communications"
+    },
+    {
+      "id": "10020716011",
+      "name": "Decision Making"
+    },
+    {
+      "id": "2686",
+      "name": "Negotiating"
+    },
+    {
+      "id": "660628",
+      "name": "Running Meetings & Presentations"
+    },
+    {
+      "id": "355571011",
+      "name": "Secretarial Aids & Training"
+    },
+    {
+      "id": "2569",
+      "name": "Time Management"
+    },
+    {
+      "id": "2697",
+      "name": "Training"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "465244",
+  "name": "Military",
+  "level": 2,
+  "parentId": "2396",
+  "isLeaf": false,
+  "path": [
+    "Biographies & Memoirs",
+    "Leaders & Notable People",
+    "Military"
+  ],
+  "nodes": [
+    {
+      "id": "9681304011",
+      "name": "Afghan & Iraq Wars"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "465246",
+      "name": "American Civil War"
+    },
+    {
+      "id": "9681303011",
+      "name": "American Revolution"
+    },
+    {
+      "id": "886496",
+      "name": "General"
+    },
+    {
+      "id": "9681300011",
+      "name": "Vietnam War"
+    },
+    {
+      "id": "9681301011",
+      "name": "World War I"
+    },
+    {
+      "id": "9681302011",
+      "name": "World War II"
+    }
+  ]
+}

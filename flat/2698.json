@@ -1,0 +1,43 @@
+{
+  "id": "2698",
+  "name": "Marketing & Sales",
+  "level": 1,
+  "parentId": "3",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Marketing & Sales"
+  ],
+  "nodes": [
+    {
+      "id": "2702",
+      "name": "Marketing"
+    },
+    {
+      "id": "2712",
+      "name": "Sales & Selling"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2699",
+      "name": "Advertising"
+    },
+    {
+      "id": "2700",
+      "name": "Consumer Behavior"
+    },
+    {
+      "id": "2635",
+      "name": "Customer Service"
+    },
+    {
+      "id": "2711",
+      "name": "Public Relations"
+    },
+    {
+      "id": "6133991011",
+      "name": "Search Engine Optimization"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "5",
+  "name": "5",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "549726",
+      "name": "Business Technology"
+    },
+    {
+      "id": "3448",
+      "name": "Certification"
+    },
+    {
+      "id": "3508",
+      "name": "Computer Science"
+    },
+    {
+      "id": "549646",
+      "name": "Databases & Big Data"
+    },
+    {
+      "id": "6133988011",
+      "name": "Digital Audio, Video & Photography"
+    },
+    {
+      "id": "87",
+      "name": "Games & Strategy Guides"
+    },
+    {
+      "id": "4134",
+      "name": "Graphics & Design"
+    },
+    {
+      "id": "549652",
+      "name": "Hardware & DIY"
+    },
+    {
+      "id": "10806606011",
+      "name": "History & Culture"
+    },
+    {
+      "id": "69766",
+      "name": "Internet & Social Media"
+    },
+    {
+      "id": "377557011",
+      "name": "Mobile Phones, Tablets & E-Readers"
+    },
+    {
+      "id": "3652",
+      "name": "Networking & Cloud Computing"
+    },
+    {
+      "id": "3756",
+      "name": "Operating Systems"
+    },
+    {
+      "id": "3839",
+      "name": "Programming"
+    },
+    {
+      "id": "3952",
+      "name": "Programming Languages"
+    },
+    {
+      "id": "377560011",
+      "name": "Security & Encryption"
+    },
+    {
+      "id": "4053",
+      "name": "Software"
+    },
+    {
+      "id": "3510",
+      "name": "Web Development & Design"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "657762",
+      "name": "General"
+    }
+  ]
+}

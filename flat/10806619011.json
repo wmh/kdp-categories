@@ -1,0 +1,29 @@
+{
+  "id": "10806619011",
+  "name": "Microsoft Windows",
+  "level": 3,
+  "parentId": "10806637011",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Software",
+    "Microsoft",
+    "Microsoft Windows"
+  ],
+  "nodes": [
+    {
+      "id": "285847",
+      "name": "Windows Desktop"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "14045483011",
+      "name": "Windows 10"
+    },
+    {
+      "id": "6133984011",
+      "name": "Windows Server"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "3840",
+  "name": "APIs & Operating Environments",
+  "level": 2,
+  "parentId": "3839",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Programming",
+    "APIs & Operating Environments"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "170901",
+      "name": "COM, DCOM & ATL"
+    },
+    {
+      "id": "3845",
+      "name": "Device Drivers"
+    },
+    {
+      "id": "285842",
+      "name": "EPOC-Symbian"
+    },
+    {
+      "id": "3852",
+      "name": "Microsoft Windows Registry"
+    },
+    {
+      "id": "3856",
+      "name": "Novell Netware"
+    },
+    {
+      "id": "3863",
+      "name": "Operating Systems Theory"
+    },
+    {
+      "id": "3941",
+      "name": "Unicode"
+    },
+    {
+      "id": "3866",
+      "name": "Unix"
+    },
+    {
+      "id": "3868",
+      "name": "Win32 API"
+    }
+  ]
+}

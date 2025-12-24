@@ -1,0 +1,51 @@
+{
+  "id": "3652",
+  "name": "Networking & Cloud Computing",
+  "level": 1,
+  "parentId": "5",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Networking & Cloud Computing"
+  ],
+  "nodes": [
+    {
+      "id": "3666",
+      "name": "Data in the Enterprise"
+    },
+    {
+      "id": "3705",
+      "name": "Internet, Groupware, & Telecommunications"
+    },
+    {
+      "id": "377894011",
+      "name": "Network Administration"
+    },
+    {
+      "id": "3740",
+      "name": "Networks, Protocols & APIs"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10806612011",
+      "name": "Cloud Computing"
+    },
+    {
+      "id": "377893011",
+      "name": "Home Networks"
+    },
+    {
+      "id": "3711",
+      "name": "Intranets & Extranets"
+    },
+    {
+      "id": "3746",
+      "name": "Network Security"
+    },
+    {
+      "id": "3722",
+      "name": "Wireless Networks"
+    }
+  ]
+}

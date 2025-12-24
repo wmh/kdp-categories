@@ -1,0 +1,52 @@
+{
+  "id": "10806637011",
+  "name": "Microsoft",
+  "level": 2,
+  "parentId": "4053",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Software",
+    "Microsoft"
+  ],
+  "nodes": [
+    {
+      "id": "10806619011",
+      "name": "Microsoft Windows"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "6133985011",
+      "name": "Microsoft Access"
+    },
+    {
+      "id": "4179",
+      "name": "Microsoft Excel"
+    },
+    {
+      "id": "4127",
+      "name": "Microsoft Office"
+    },
+    {
+      "id": "4167",
+      "name": "Microsoft Outlook"
+    },
+    {
+      "id": "4063",
+      "name": "Microsoft Powerpoint"
+    },
+    {
+      "id": "4064",
+      "name": "Microsoft Project"
+    },
+    {
+      "id": "6133983011",
+      "name": "Microsoft Sharepoint"
+    },
+    {
+      "id": "4192",
+      "name": "Microsoft Word"
+    }
+  ]
+}

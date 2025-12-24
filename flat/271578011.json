@@ -1,0 +1,27 @@
+{
+  "id": "271578011",
+  "name": "Project Management",
+  "level": 2,
+  "parentId": "355562011",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Skills",
+    "Project Management"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298060011",
+      "name": "Business"
+    },
+    {
+      "id": "377568011",
+      "name": "PMP Exam"
+    },
+    {
+      "id": "8298061011",
+      "name": "Technical"
+    }
+  ]
+}

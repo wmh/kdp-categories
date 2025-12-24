@@ -1,0 +1,43 @@
+{
+  "id": "3723",
+  "name": "Microprocessors & System Design",
+  "level": 2,
+  "parentId": "549652",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Hardware & DIY",
+    "Microprocessors & System Design"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3726",
+      "name": "Computer Design"
+    },
+    {
+      "id": "3727",
+      "name": "Control Systems"
+    },
+    {
+      "id": "3728",
+      "name": "DSPs"
+    },
+    {
+      "id": "3730",
+      "name": "Embedded Systems"
+    },
+    {
+      "id": "3731",
+      "name": "General"
+    },
+    {
+      "id": "3733",
+      "name": "Microprocessor Design"
+    },
+    {
+      "id": "3738",
+      "name": "PIC Microcontroller"
+    }
+  ]
+}

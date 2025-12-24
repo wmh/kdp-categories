@@ -1,0 +1,82 @@
+[
+  {
+    "id": "52071011",
+    "name": "Agriculture"
+  },
+  {
+    "id": "10020695011",
+    "name": "Automotive"
+  },
+  {
+    "id": "886498",
+    "name": "Computers & Technology"
+  },
+  {
+    "id": "13922570011",
+    "name": "Construction"
+  },
+  {
+    "id": "23696029011",
+    "name": "Consulting"
+  },
+  {
+    "id": "3568199011",
+    "name": "Fashion & Textile"
+  },
+  {
+    "id": "10020696011",
+    "name": "Financial Services"
+  },
+  {
+    "id": "745506",
+    "name": "General"
+  },
+  {
+    "id": "18882659011",
+    "name": "Healthcare"
+  },
+  {
+    "id": "2636",
+    "name": "Hospitality, Travel & Tourism"
+  },
+  {
+    "id": "16233431",
+    "name": "Industrial Relations"
+  },
+  {
+    "id": "10020697011",
+    "name": "Manufacturing"
+  },
+  {
+    "id": "10020698011",
+    "name": "Media & Communications"
+  },
+  {
+    "id": "10020699011",
+    "name": "Museums"
+  },
+  {
+    "id": "271615011",
+    "name": "Performing Arts"
+  },
+  {
+    "id": "3568201011",
+    "name": "Pharmaceutical & Biotechnology"
+  },
+  {
+    "id": "3568202011",
+    "name": "Restaurant & Food"
+  },
+  {
+    "id": "2656",
+    "name": "Retailing"
+  },
+  {
+    "id": "16233451",
+    "name": "Service"
+  },
+  {
+    "id": "271576011",
+    "name": "Transportation"
+  }
+]

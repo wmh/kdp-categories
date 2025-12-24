@@ -1,0 +1,39 @@
+{
+  "id": "6133988011",
+  "name": "Digital Audio, Video & Photography",
+  "level": 1,
+  "parentId": "5",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Digital Audio, Video & Photography"
+  ],
+  "nodes": [
+    {
+      "id": "6133990011",
+      "name": "Adobe"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10806589011",
+      "name": "Digital Audio Production"
+    },
+    {
+      "id": "3825141",
+      "name": "Digital Photography"
+    },
+    {
+      "id": "10806590011",
+      "name": "General"
+    },
+    {
+      "id": "10806591011",
+      "name": "Speech & Audio Processing"
+    },
+    {
+      "id": "377548011",
+      "name": "Video Production"
+    }
+  ]
+}

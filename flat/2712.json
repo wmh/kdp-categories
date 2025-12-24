@@ -1,0 +1,27 @@
+{
+  "id": "2712",
+  "name": "Sales & Selling",
+  "level": 2,
+  "parentId": "2698",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Marketing & Sales",
+    "Sales & Selling"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2713",
+      "name": "General"
+    },
+    {
+      "id": "2714",
+      "name": "Management"
+    },
+    {
+      "id": "2715",
+      "name": "Techniques"
+    }
+  ]
+}

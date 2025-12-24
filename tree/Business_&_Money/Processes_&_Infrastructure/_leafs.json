@@ -1,0 +1,66 @@
+[
+  {
+    "id": "2635",
+    "name": "Customer Relations"
+  },
+  {
+    "id": "10020718011",
+    "name": "Facility Management"
+  },
+  {
+    "id": "10020719011",
+    "name": "Government & Business"
+  },
+  {
+    "id": "3568198011",
+    "name": "Green Business"
+  },
+  {
+    "id": "2648",
+    "name": "Information Management"
+  },
+  {
+    "id": "10020720011",
+    "name": "Infrastructure"
+  },
+  {
+    "id": "355569011",
+    "name": "Office Automation"
+  },
+  {
+    "id": "10020721011",
+    "name": "Office Equipment & Supplies"
+  },
+  {
+    "id": "10020722011",
+    "name": "Office Management"
+  },
+  {
+    "id": "2687",
+    "name": "Operations Research"
+  },
+  {
+    "id": "2688",
+    "name": "Organizational Change"
+  },
+  {
+    "id": "171127",
+    "name": "Organizational Learning"
+  },
+  {
+    "id": "266106",
+    "name": "Purchasing & Buying"
+  },
+  {
+    "id": "10020723011",
+    "name": "Research & Development"
+  },
+  {
+    "id": "10020724011",
+    "name": "Strategic Planning"
+  },
+  {
+    "id": "10020725011",
+    "name": "Structural Adjustment"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "10806606011",
+  "name": "History & Culture",
+  "level": 1,
+  "parentId": "5",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "History & Culture"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3568",
+      "name": "Biographies"
+    },
+    {
+      "id": "203569026011",
+      "name": "Bitcoin & Cryptocurrencies"
+    },
+    {
+      "id": "3570",
+      "name": "Computer & Internet Law"
+    },
+    {
+      "id": "3573",
+      "name": "History"
+    }
+  ]
+}

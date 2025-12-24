@@ -1,0 +1,23 @@
+{
+  "id": "541256",
+  "name": "E-Commerce",
+  "level": 2,
+  "parentId": "355561011",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Processes & Infrastructure",
+    "E-Commerce"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "886500",
+      "name": "General"
+    },
+    {
+      "id": "886502",
+      "name": "Online Banking"
+    }
+  ]
+}

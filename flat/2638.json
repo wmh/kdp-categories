@@ -1,0 +1,50 @@
+{
+  "id": "2638",
+  "name": "Insurance",
+  "level": 1,
+  "parentId": "3",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Insurance"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10516",
+      "name": "Automobile"
+    },
+    {
+      "id": "2640",
+      "name": "Business"
+    },
+    {
+      "id": "2641",
+      "name": "Casualty"
+    },
+    {
+      "id": "2642",
+      "name": "General"
+    },
+    {
+      "id": "2644",
+      "name": "Health"
+    },
+    {
+      "id": "2645",
+      "name": "Liability"
+    },
+    {
+      "id": "2646",
+      "name": "Life"
+    },
+    {
+      "id": "3568200011",
+      "name": "Property"
+    },
+    {
+      "id": "2647",
+      "name": "Risk Management"
+    }
+  ]
+}

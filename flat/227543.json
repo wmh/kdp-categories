@@ -1,0 +1,44 @@
+{
+  "id": "227543",
+  "name": "Computer Modelling",
+  "level": 2,
+  "parentId": "4134",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Graphics & Design",
+    "Computer Modelling"
+  ],
+  "nodes": [
+    {
+      "id": "4075",
+      "name": "CAD & CAM"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "52171011",
+      "name": "AutoCAD"
+    },
+    {
+      "id": "52169011",
+      "name": "General"
+    },
+    {
+      "id": "13680",
+      "name": "Holography"
+    },
+    {
+      "id": "13682",
+      "name": "Imaging Systems"
+    },
+    {
+      "id": "13684",
+      "name": "Remote Sensing & GIS"
+    },
+    {
+      "id": "13689",
+      "name": "Scanning Systems"
+    }
+  ]
+}

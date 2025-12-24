@@ -1,0 +1,27 @@
+{
+  "id": "2667",
+  "name": "Commodities",
+  "level": 2,
+  "parentId": "2665",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Investing",
+    "Commodities"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10020704011",
+      "name": "Energy"
+    },
+    {
+      "id": "10020705011",
+      "name": "General"
+    },
+    {
+      "id": "10020706011",
+      "name": "Metals"
+    }
+  ]
+}

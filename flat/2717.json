@@ -1,0 +1,35 @@
+{
+  "id": "2717",
+  "name": "Personal Finance",
+  "level": 1,
+  "parentId": "3",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Personal Finance"
+  ],
+  "nodes": [
+    {
+      "id": "2719",
+      "name": "Budgeting & Money Management"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "355563011",
+      "name": "College & Education Costs"
+    },
+    {
+      "id": "2720",
+      "name": "Credit Ratings & Repair"
+    },
+    {
+      "id": "2722",
+      "name": "General"
+    },
+    {
+      "id": "2731",
+      "name": "Retirement Planning"
+    }
+  ]
+}

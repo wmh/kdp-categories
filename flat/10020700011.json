@@ -1,0 +1,23 @@
+{
+  "id": "10020700011",
+  "name": "Energy & Mining",
+  "level": 2,
+  "parentId": "2624",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Industries",
+    "Energy & Mining"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10020701011",
+      "name": "Natural Resource Extraction"
+    },
+    {
+      "id": "16233441",
+      "name": "Oil & Energy"
+    }
+  ]
+}

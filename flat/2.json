@@ -1,0 +1,66 @@
+{
+  "id": "2",
+  "name": "Biographies & Memoirs",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "2327",
+      "name": "Arts & Literature"
+    },
+    {
+      "id": "2365",
+      "name": "Community & Culture"
+    },
+    {
+      "id": "2376",
+      "name": "Historical"
+    },
+    {
+      "id": "2396",
+      "name": "Leaders & Notable People"
+    },
+    {
+      "id": "2419",
+      "name": "Professionals & Academics"
+    },
+    {
+      "id": "2430",
+      "name": "Regional U.S."
+    },
+    {
+      "id": "2446",
+      "name": "Sports & Outdoors"
+    },
+    {
+      "id": "11314",
+      "name": "True Crime"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2375",
+      "name": "General"
+    },
+    {
+      "id": "3048891",
+      "name": "Memoirs"
+    },
+    {
+      "id": "2429",
+      "name": "Reference & Collections"
+    },
+    {
+      "id": "1043842",
+      "name": "Regional Canada"
+    },
+    {
+      "id": "17745785011",
+      "name": "Survival"
+    },
+    {
+      "id": "300961",
+      "name": "Travelers & Explorers"
+    }
+  ]
+}

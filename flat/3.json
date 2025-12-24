@@ -1,0 +1,102 @@
+{
+  "id": "3",
+  "name": "Business & Money",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "266117",
+      "name": "Accounting"
+    },
+    {
+      "id": "2538",
+      "name": "Biography & History"
+    },
+    {
+      "id": "2558",
+      "name": "Business Culture"
+    },
+    {
+      "id": "2741",
+      "name": "Business Development & Entrepreneurship"
+    },
+    {
+      "id": "2581",
+      "name": "Economics"
+    },
+    {
+      "id": "2732",
+      "name": "Education & Reference"
+    },
+    {
+      "id": "2604",
+      "name": "Finance"
+    },
+    {
+      "id": "10020683011",
+      "name": "Human Resources"
+    },
+    {
+      "id": "2624",
+      "name": "Industries"
+    },
+    {
+      "id": "2638",
+      "name": "Insurance"
+    },
+    {
+      "id": "2657",
+      "name": "International"
+    },
+    {
+      "id": "2665",
+      "name": "Investing"
+    },
+    {
+      "id": "2572",
+      "name": "Job Hunting & Careers"
+    },
+    {
+      "id": "2675",
+      "name": "Management & Leadership"
+    },
+    {
+      "id": "2698",
+      "name": "Marketing & Sales"
+    },
+    {
+      "id": "2717",
+      "name": "Personal Finance"
+    },
+    {
+      "id": "355561011",
+      "name": "Processes & Infrastructure"
+    },
+    {
+      "id": "2650",
+      "name": "Real Estate"
+    },
+    {
+      "id": "355562011",
+      "name": "Skills"
+    },
+    {
+      "id": "7743000011",
+      "name": "Taxation"
+    },
+    {
+      "id": "355578011",
+      "name": "Women & Business"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "203569026011",
+      "name": "Bitcoin & Cryptocurrencies"
+    },
+    {
+      "id": "2612",
+      "name": "General"
+    }
+  ]
+}

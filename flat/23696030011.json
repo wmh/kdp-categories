@@ -1,0 +1,27 @@
+{
+  "id": "23696030011",
+  "name": "Small Business",
+  "level": 2,
+  "parentId": "2741",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Business Development & Entrepreneurship",
+    "Small Business"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2748",
+      "name": "Home-Based"
+    },
+    {
+      "id": "23696031011",
+      "name": "Self-Employment"
+    },
+    {
+      "id": "7743005011",
+      "name": "Taxation"
+    }
+  ]
+}

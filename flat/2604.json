@@ -1,0 +1,39 @@
+{
+  "id": "2604",
+  "name": "Finance",
+  "level": 1,
+  "parentId": "3",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Finance"
+  ],
+  "nodes": [
+    {
+      "id": "2607",
+      "name": "Corporate Finance"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10020672011",
+      "name": "Crowdfunding"
+    },
+    {
+      "id": "10020673011",
+      "name": "Financial Engineering"
+    },
+    {
+      "id": "10020674011",
+      "name": "Financial Risk Management"
+    },
+    {
+      "id": "713052011",
+      "name": "General"
+    },
+    {
+      "id": "10020675011",
+      "name": "Wealth Management"
+    }
+  ]
+}

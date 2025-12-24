@@ -1,0 +1,35 @@
+{
+  "id": "3778",
+  "name": "Unix",
+  "level": 2,
+  "parentId": "3756",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Operating Systems",
+    "Unix"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3779",
+      "name": "AIX"
+    },
+    {
+      "id": "3780",
+      "name": "Administration"
+    },
+    {
+      "id": "3782",
+      "name": "DNS & Bind"
+    },
+    {
+      "id": "3783",
+      "name": "General"
+    },
+    {
+      "id": "3787",
+      "name": "Shell"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "355578011",
+  "name": "Women & Business",
+  "level": 1,
+  "parentId": "3",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Women & Business"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2556",
+      "name": "General"
+    }
+  ]
+}

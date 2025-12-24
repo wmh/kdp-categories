@@ -1,0 +1,31 @@
+{
+  "id": "3870",
+  "name": "Algorithms",
+  "level": 2,
+  "parentId": "3839",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Programming",
+    "Algorithms"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "132570011",
+      "name": "Data Structures"
+    },
+    {
+      "id": "3879",
+      "name": "General"
+    },
+    {
+      "id": "3880",
+      "name": "Genetic"
+    },
+    {
+      "id": "3882",
+      "name": "Memory Management"
+    }
+  ]
+}

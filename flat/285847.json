@@ -1,0 +1,37 @@
+{
+  "id": "285847",
+  "name": "Windows Desktop",
+  "level": 4,
+  "parentId": "10806619011",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Software",
+    "Microsoft",
+    "Microsoft Windows",
+    "Windows Desktop"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "14045483011",
+      "name": "Windows 10"
+    },
+    {
+      "id": "6134001011",
+      "name": "Windows 7"
+    },
+    {
+      "id": "6134004011",
+      "name": "Windows 8"
+    },
+    {
+      "id": "6134003011",
+      "name": "Windows Vista"
+    },
+    {
+      "id": "6134002011",
+      "name": "Windows XP"
+    }
+  ]
+}

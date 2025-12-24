@@ -1,0 +1,51 @@
+{
+  "id": "3508",
+  "name": "Computer Science",
+  "level": 1,
+  "parentId": "5",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Computer Science"
+  ],
+  "nodes": [
+    {
+      "id": "3887",
+      "name": "AI & Machine Learning"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "760204",
+      "name": "Bioinformatics"
+    },
+    {
+      "id": "132559011",
+      "name": "Computer Simulation"
+    },
+    {
+      "id": "107196011",
+      "name": "Cybernetics"
+    },
+    {
+      "id": "107188011",
+      "name": "General"
+    },
+    {
+      "id": "132574011",
+      "name": "Human-Computer Interaction"
+    },
+    {
+      "id": "107197011",
+      "name": "Information Theory"
+    },
+    {
+      "id": "3897",
+      "name": "Robotics"
+    },
+    {
+      "id": "602672",
+      "name": "Systems Analysis & Design"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "10020711011",
+  "name": "Quality Control & Management",
+  "level": 2,
+  "parentId": "2675",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Management & Leadership",
+    "Quality Control & Management"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "379406011",
+      "name": "Agile"
+    },
+    {
+      "id": "10020713011",
+      "name": "Lean"
+    },
+    {
+      "id": "2692",
+      "name": "Quality Control"
+    },
+    {
+      "id": "10020712011",
+      "name": "Six Sigma"
+    },
+    {
+      "id": "2696",
+      "name": "Total Quality Management"
+    }
+  ]
+}

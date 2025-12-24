@@ -1,0 +1,27 @@
+{
+  "id": "202438616011",
+  "name": "Specialties",
+  "level": 2,
+  "parentId": "266117",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Accounting",
+    "Specialties"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "202438620011",
+      "name": "Budgetary & Cost"
+    },
+    {
+      "id": "202438619011",
+      "name": "Public"
+    },
+    {
+      "id": "202438621011",
+      "name": "Tax"
+    }
+  ]
+}

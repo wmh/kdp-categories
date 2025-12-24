@@ -1,0 +1,38 @@
+[
+  {
+    "id": "10806600011",
+    "name": "3D Printing"
+  },
+  {
+    "id": "132555011",
+    "name": "Design & Architecture"
+  },
+  {
+    "id": "720028",
+    "name": "General"
+  },
+  {
+    "id": "379365011",
+    "name": "Internet & Networking"
+  },
+  {
+    "id": "3829",
+    "name": "Mainframes & Minicomputers"
+  },
+  {
+    "id": "3830",
+    "name": "Maintenance, Repair & Upgrading"
+  },
+  {
+    "id": "541652",
+    "name": "Peripherals"
+  },
+  {
+    "id": "3897",
+    "name": "Robotics"
+  },
+  {
+    "id": "10806604011",
+    "name": "Single Board Computers"
+  }
+]

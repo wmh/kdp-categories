@@ -1,0 +1,27 @@
+{
+  "id": "10806628011",
+  "name": "Enterprise Applications",
+  "level": 2,
+  "parentId": "4053",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Software",
+    "Enterprise Applications"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10806629011",
+      "name": "Business Intelligence Tools"
+    },
+    {
+      "id": "10806630011",
+      "name": "Collaboration Software"
+    },
+    {
+      "id": "10806631011",
+      "name": "General"
+    }
+  ]
+}

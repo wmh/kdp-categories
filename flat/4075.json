@@ -1,0 +1,24 @@
+{
+  "id": "4075",
+  "name": "CAD & CAM",
+  "level": 3,
+  "parentId": "227543",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Graphics & Design",
+    "Computer Modelling",
+    "CAD & CAM"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10806598011",
+      "name": "AutoCAD"
+    },
+    {
+      "id": "3939",
+      "name": "Solidworks"
+    }
+  ]
+}

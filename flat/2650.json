@@ -1,0 +1,38 @@
+{
+  "id": "2650",
+  "name": "Real Estate",
+  "level": 1,
+  "parentId": "3",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Real Estate"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2651",
+      "name": "Buying & Selling Homes"
+    },
+    {
+      "id": "2652",
+      "name": "General"
+    },
+    {
+      "id": "2653",
+      "name": "Investments"
+    },
+    {
+      "id": "10973",
+      "name": "Law"
+    },
+    {
+      "id": "2654",
+      "name": "Mortgages"
+    },
+    {
+      "id": "2655",
+      "name": "Sales"
+    }
+  ]
+}

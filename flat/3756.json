@@ -1,0 +1,47 @@
+{
+  "id": "3756",
+  "name": "Operating Systems",
+  "level": 1,
+  "parentId": "5",
+  "isLeaf": false,
+  "path": [
+    "5",
+    "Operating Systems"
+  ],
+  "nodes": [
+    {
+      "id": "3849",
+      "name": "Linux"
+    },
+    {
+      "id": "3778",
+      "name": "Unix"
+    },
+    {
+      "id": "10806619011",
+      "name": "Windows"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16926917011",
+      "name": "Android"
+    },
+    {
+      "id": "3781",
+      "name": "BSD"
+    },
+    {
+      "id": "720026",
+      "name": "General"
+    },
+    {
+      "id": "377537011",
+      "name": "Macintosh"
+    },
+    {
+      "id": "3788",
+      "name": "Solaris"
+    }
+  ]
+}

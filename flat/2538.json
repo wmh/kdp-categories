@@ -1,0 +1,26 @@
+{
+  "id": "2538",
+  "name": "Biography & History",
+  "level": 1,
+  "parentId": "3",
+  "isLeaf": false,
+  "path": [
+    "Business & Money",
+    "Biography & History"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2420",
+      "name": "Biographies"
+    },
+    {
+      "id": "2542",
+      "name": "Company Profiles"
+    },
+    {
+      "id": "2589",
+      "name": "Economic History"
+    }
+  ]
+}

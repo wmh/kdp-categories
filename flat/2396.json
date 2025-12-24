@@ -1,0 +1,43 @@
+{
+  "id": "2396",
+  "name": "Leaders & Notable People",
+  "level": 1,
+  "parentId": "2",
+  "isLeaf": false,
+  "path": [
+    "Biographies & Memoirs",
+    "Leaders & Notable People"
+  ],
+  "nodes": [
+    {
+      "id": "465244",
+      "name": "Military"
+    },
+    {
+      "id": "2418",
+      "name": "Presidents & Heads of State"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2397",
+      "name": "Political"
+    },
+    {
+      "id": "2398",
+      "name": "Religious"
+    },
+    {
+      "id": "886494",
+      "name": "Rich & Famous"
+    },
+    {
+      "id": "2399",
+      "name": "Royalty"
+    },
+    {
+      "id": "9681289011",
+      "name": "Social Activists"
+    }
+  ]
+}

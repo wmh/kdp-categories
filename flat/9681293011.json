@@ -1,0 +1,27 @@
+{
+  "id": "9681293011",
+  "name": "Boxing, Wrestling & MMA",
+  "level": 2,
+  "parentId": "2446",
+  "isLeaf": false,
+  "path": [
+    "Biographies & Memoirs",
+    "Sports & Outdoors",
+    "Boxing, Wrestling & MMA"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "9681294011",
+      "name": "Boxing"
+    },
+    {
+      "id": "9681295011",
+      "name": "Martial Arts"
+    },
+    {
+      "id": "9681296011",
+      "name": "Wrestling"
+    }
+  ]
+}
