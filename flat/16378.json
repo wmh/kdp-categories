@@ -1,0 +1,30 @@
+{
+  "id": "16378",
+  "name": "Football (American)",
+  "level": 1,
+  "parentId": "26",
+  "isLeaf": false,
+  "path": [
+    "Sports & Outdoors",
+    "Football (American)"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "193917",
+      "name": "College & University"
+    },
+    {
+      "id": "193916",
+      "name": "General"
+    },
+    {
+      "id": "193918",
+      "name": "Professional"
+    },
+    {
+      "id": "281383",
+      "name": "Super Bowl"
+    }
+  ]
+}

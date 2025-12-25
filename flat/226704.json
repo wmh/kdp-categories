@@ -1,0 +1,68 @@
+{
+  "id": "226704",
+  "name": "Materials & Material Science",
+  "level": 2,
+  "parentId": "173515",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Materials & Material Science"
+  ],
+  "nodes": [
+    {
+      "id": "713557011",
+      "name": "Materials Science"
+    },
+    {
+      "id": "226709",
+      "name": "Polymers & Textiles"
+    },
+    {
+      "id": "52175011",
+      "name": "Properties"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "52185011",
+      "name": "Composites"
+    },
+    {
+      "id": "52184011",
+      "name": "Concrete"
+    },
+    {
+      "id": "52186011",
+      "name": "Deterioration"
+    },
+    {
+      "id": "226707",
+      "name": "Extraction & Processing"
+    },
+    {
+      "id": "13785",
+      "name": "Fracture Mechanics"
+    },
+    {
+      "id": "226708",
+      "name": "Mechanical Properties of Solids"
+    },
+    {
+      "id": "13771",
+      "name": "Metallurgy"
+    },
+    {
+      "id": "194819011",
+      "name": "Paper & Woodpulp"
+    },
+    {
+      "id": "52176011",
+      "name": "Strength of Materials"
+    },
+    {
+      "id": "52183011",
+      "name": "Testing"
+    }
+  ]
+}

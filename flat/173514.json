@@ -1,0 +1,62 @@
+{
+  "id": "173514",
+  "name": "Medical Books",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "227560",
+      "name": "Administration & Medicine Economics"
+    },
+    {
+      "id": "227571",
+      "name": "Allied Health Professions"
+    },
+    {
+      "id": "227191",
+      "name": "Basic Sciences"
+    },
+    {
+      "id": "227604",
+      "name": "Dentistry"
+    },
+    {
+      "id": "265542",
+      "name": "Medicine"
+    },
+    {
+      "id": "227640",
+      "name": "Nursing"
+    },
+    {
+      "id": "265544",
+      "name": "Pharmacology"
+    },
+    {
+      "id": "6511980011",
+      "name": "Psychology"
+    },
+    {
+      "id": "227719",
+      "name": "Veterinary Medicine"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16311161",
+      "name": "General"
+    },
+    {
+      "id": "3559244011",
+      "name": "History"
+    },
+    {
+      "id": "266181",
+      "name": "Medical Informatics"
+    },
+    {
+      "id": "227677",
+      "name": "Research"
+    }
+  ]
+}

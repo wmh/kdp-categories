@@ -1,0 +1,23 @@
+{
+  "id": "13647",
+  "name": "Automotive",
+  "level": 2,
+  "parentId": "173515",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Automotive"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "52227011",
+      "name": "General"
+    },
+    {
+      "id": "52229011",
+      "name": "Safety Engineering"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "14545",
+  "name": "Physics",
+  "level": 1,
+  "parentId": "75",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Physics"
+  ],
+  "nodes": [
+    {
+      "id": "13445",
+      "name": "Astrophysics"
+    },
+    {
+      "id": "14554",
+      "name": "Dynamics"
+    },
+    {
+      "id": "226697",
+      "name": "Electromagnetism"
+    },
+    {
+      "id": "52215011",
+      "name": "Energy"
+    },
+    {
+      "id": "14563",
+      "name": "Light"
+    },
+    {
+      "id": "14576",
+      "name": "Nuclear Physics"
+    },
+    {
+      "id": "14585",
+      "name": "Solid-State Physics"
+    },
+    {
+      "id": "16052411",
+      "name": "Spectroscopy"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "14547",
+      "name": "Acoustics & Sound"
+    },
+    {
+      "id": "16052391",
+      "name": "Applied"
+    },
+    {
+      "id": "13514",
+      "name": "Biophysics"
+    },
+    {
+      "id": "13567",
+      "name": "Chaos Theory"
+    },
+    {
+      "id": "16052341",
+      "name": "Chemical Physics"
+    },
+    {
+      "id": "13449",
+      "name": "Cosmology"
+    },
+    {
+      "id": "13839",
+      "name": "Electron Microscopy"
+    },
+    {
+      "id": "52164011",
+      "name": "Engineering"
+    },
+    {
+      "id": "16052121",
+      "name": "Entropy"
+    },
+    {
+      "id": "226502",
+      "name": "Gas Mechanics"
+    },
+    {
+      "id": "14560",
+      "name": "General"
+    },
+    {
+      "id": "13605",
+      "name": "Geophysics"
+    },
+    {
+      "id": "14561",
+      "name": "Gravity"
+    },
+    {
+      "id": "14567",
+      "name": "Mathematical Physics"
+    },
+    {
+      "id": "14569",
+      "name": "Mechanics"
+    },
+    {
+      "id": "13850",
+      "name": "Microscopy"
+    },
+    {
+      "id": "14570",
+      "name": "Molecular Physics"
+    },
+    {
+      "id": "14573",
+      "name": "Nanostructures"
+    },
+    {
+      "id": "14589",
+      "name": "Optics"
+    },
+    {
+      "id": "16052671",
+      "name": "Quantum Chemistry"
+    },
+    {
+      "id": "14581",
+      "name": "Quantum Theory"
+    },
+    {
+      "id": "14592",
+      "name": "Relativity"
+    },
+    {
+      "id": "14594",
+      "name": "Statics"
+    },
+    {
+      "id": "16052351",
+      "name": "Surface Physics"
+    },
+    {
+      "id": "14596",
+      "name": "System Theory"
+    },
+    {
+      "id": "14598",
+      "name": "Time"
+    },
+    {
+      "id": "14601",
+      "name": "Waves & Wave Mechanics"
+    }
+  ]
+}

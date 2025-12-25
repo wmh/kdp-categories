@@ -1,0 +1,23 @@
+{
+  "id": "4992",
+  "name": "Jewish",
+  "level": 2,
+  "parentId": "5035",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "World",
+    "Jewish"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4993",
+      "name": "General"
+    },
+    {
+      "id": "4994",
+      "name": "Holocaust"
+    }
+  ]
+}

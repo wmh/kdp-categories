@@ -1,0 +1,34 @@
+{
+  "id": "173489",
+  "name": "Criminal Law",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Criminal Law"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10836",
+      "name": "Criminal Procedure"
+    },
+    {
+      "id": "10873",
+      "name": "Evidence"
+    },
+    {
+      "id": "11007",
+      "name": "Forensic Science"
+    },
+    {
+      "id": "10834",
+      "name": "General"
+    },
+    {
+      "id": "10907",
+      "name": "Law Enforcement"
+    }
+  ]
+}

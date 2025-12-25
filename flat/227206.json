@@ -1,0 +1,28 @@
+{
+  "id": "227206",
+  "name": "Infectious Disease",
+  "level": 3,
+  "parentId": "227203",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine",
+    "Internal Medicine",
+    "Infectious Disease"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "227207",
+      "name": "Communicable Diseases"
+    },
+    {
+      "id": "227209",
+      "name": "Parasitology"
+    },
+    {
+      "id": "227633",
+      "name": "Tropical Medicine"
+    }
+  ]
+}

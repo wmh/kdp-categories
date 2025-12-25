@@ -1,0 +1,30 @@
+{
+  "id": "301806",
+  "name": "Mysteries & Thrillers",
+  "level": 1,
+  "parentId": "301889",
+  "isLeaf": false,
+  "path": [
+    "LGBTQ+ Books",
+    "Mysteries & Thrillers"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "301807",
+      "name": "Gay"
+    },
+    {
+      "id": "301808",
+      "name": "Lesbian"
+    },
+    {
+      "id": "17861276011",
+      "name": "Mystery"
+    },
+    {
+      "id": "17861277011",
+      "name": "Thrillers"
+    }
+  ]
+}

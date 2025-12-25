@@ -1,0 +1,57 @@
+{
+  "id": "10534",
+  "name": "Repair & Maintenance",
+  "level": 3,
+  "parentId": "10503",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Transportation",
+    "Automotive",
+    "Repair & Maintenance"
+  ],
+  "nodes": [
+    {
+      "id": "107141011",
+      "name": "Engines & Transmissions"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "107140011",
+      "name": "Air Conditioning & Heating"
+    },
+    {
+      "id": "107146011",
+      "name": "Body & Fenders"
+    },
+    {
+      "id": "107142011",
+      "name": "Electrical Systems"
+    },
+    {
+      "id": "107144011",
+      "name": "Emissions Control"
+    },
+    {
+      "id": "107143011",
+      "name": "Fuel Systems"
+    },
+    {
+      "id": "107147011",
+      "name": "General"
+    },
+    {
+      "id": "107145011",
+      "name": "Suspension & Chassis"
+    },
+    {
+      "id": "7976023011",
+      "name": "Testing & Certification"
+    },
+    {
+      "id": "52228011",
+      "name": "Vehicle Design & Construction"
+    }
+  ]
+}

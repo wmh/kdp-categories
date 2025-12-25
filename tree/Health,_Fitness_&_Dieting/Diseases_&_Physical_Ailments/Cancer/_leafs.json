@@ -1,0 +1,42 @@
+[
+  {
+    "id": "282801",
+    "name": "Bone Cancer"
+  },
+  {
+    "id": "282802",
+    "name": "Brain Cancer"
+  },
+  {
+    "id": "4673",
+    "name": "Breast Cancer"
+  },
+  {
+    "id": "282803",
+    "name": "Colorectal"
+  },
+  {
+    "id": "465674",
+    "name": "General"
+  },
+  {
+    "id": "282806",
+    "name": "Leukemia"
+  },
+  {
+    "id": "282804",
+    "name": "Lung Cancer"
+  },
+  {
+    "id": "282805",
+    "name": "Lymphatic"
+  },
+  {
+    "id": "4671",
+    "name": "Prostate Disease"
+  },
+  {
+    "id": "282808",
+    "name": "Skin Cancer"
+  }
+]

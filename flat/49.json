@@ -1,0 +1,71 @@
+{
+  "id": "49",
+  "name": "Horror",
+  "level": 2,
+  "parentId": "10134",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Genre Fiction",
+    "Horror"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "9805",
+      "name": "British & Irish"
+    },
+    {
+      "id": "5434",
+      "name": "Collections & Anthologies"
+    },
+    {
+      "id": "211758954011",
+      "name": "Cosmic & Eldritch"
+    },
+    {
+      "id": "9803",
+      "name": "Dark Fantasy"
+    },
+    {
+      "id": "9807",
+      "name": "Erotic Horror"
+    },
+    {
+      "id": "9808",
+      "name": "General"
+    },
+    {
+      "id": "9810",
+      "name": "Ghosts"
+    },
+    {
+      "id": "211758957011",
+      "name": "Monsters & Creatures"
+    },
+    {
+      "id": "9814",
+      "name": "Occult & Supernatural"
+    },
+    {
+      "id": "211758955011",
+      "name": "Psychological"
+    },
+    {
+      "id": "9815",
+      "name": "Reference"
+    },
+    {
+      "id": "211758956011",
+      "name": "Slasher"
+    },
+    {
+      "id": "5432",
+      "name": "United States"
+    },
+    {
+      "id": "9817",
+      "name": "Vampires"
+    }
+  ]
+}

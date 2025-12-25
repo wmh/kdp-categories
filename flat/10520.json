@@ -1,0 +1,32 @@
+{
+  "id": "10520",
+  "name": "Motorcycles",
+  "level": 3,
+  "parentId": "10503",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Transportation",
+    "Automotive",
+    "Motorcycles"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10521",
+      "name": "General"
+    },
+    {
+      "id": "10522",
+      "name": "History"
+    },
+    {
+      "id": "10524",
+      "name": "Pictorial"
+    },
+    {
+      "id": "10525",
+      "name": "Repair & Performance"
+    }
+  ]
+}

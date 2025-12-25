@@ -1,0 +1,27 @@
+{
+  "id": "16053231",
+  "name": "Climatology",
+  "level": 2,
+  "parentId": "13592",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Earth Sciences",
+    "Climatology"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16053251",
+      "name": "Climate Changes"
+    },
+    {
+      "id": "16053241",
+      "name": "General"
+    },
+    {
+      "id": "16053261",
+      "name": "Paleoclimatology"
+    }
+  ]
+}

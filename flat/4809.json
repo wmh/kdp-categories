@@ -1,0 +1,51 @@
+{
+  "id": "4809",
+  "name": "Canada",
+  "level": 2,
+  "parentId": "4808",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "Americas",
+    "Canada"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "1043878",
+      "name": "19th Century"
+    },
+    {
+      "id": "1043880",
+      "name": "20th Century"
+    },
+    {
+      "id": "1043876",
+      "name": "Exploration"
+    },
+    {
+      "id": "1043882",
+      "name": "First Nations"
+    },
+    {
+      "id": "1043884",
+      "name": "Founding"
+    },
+    {
+      "id": "1043874",
+      "name": "General"
+    },
+    {
+      "id": "1043886",
+      "name": "Pre-Confederation"
+    },
+    {
+      "id": "1043888",
+      "name": "Province & Local"
+    },
+    {
+      "id": "1043890",
+      "name": "War of 1812"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "290089",
+  "name": "United States",
+  "level": 4,
+  "parentId": "290082",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Field Guides",
+    "Regional",
+    "United States"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "290090",
+      "name": "California"
+    },
+    {
+      "id": "290091",
+      "name": "Midwest"
+    },
+    {
+      "id": "290092",
+      "name": "Northeast"
+    },
+    {
+      "id": "290093",
+      "name": "Northwest"
+    },
+    {
+      "id": "290094",
+      "name": "Rocky Mountains"
+    },
+    {
+      "id": "290096",
+      "name": "Southwest"
+    },
+    {
+      "id": "290097",
+      "name": "Texas"
+    }
+  ]
+}

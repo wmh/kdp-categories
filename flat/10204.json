@@ -1,0 +1,51 @@
+{
+  "id": "10204",
+  "name": "History & Criticism",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "History & Criticism"
+  ],
+  "nodes": [
+    {
+      "id": "9988",
+      "name": "Books & Reading"
+    },
+    {
+      "id": "10159334011",
+      "name": "Genres & Styles"
+    },
+    {
+      "id": "10225",
+      "name": "Movements & Periods"
+    },
+    {
+      "id": "10159358011",
+      "name": "Regional & Cultural"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10159333011",
+      "name": "Comparative Literature"
+    },
+    {
+      "id": "10207",
+      "name": "Criticism & Theory"
+    },
+    {
+      "id": "275767011",
+      "name": "General"
+    },
+    {
+      "id": "10159357011",
+      "name": "Reference"
+    },
+    {
+      "id": "10159380011",
+      "name": "Women Authors"
+    }
+  ]
+}

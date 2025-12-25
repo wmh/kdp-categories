@@ -1,0 +1,32 @@
+{
+  "id": "11891",
+  "name": "Publishing & Books",
+  "level": 2,
+  "parentId": "5267707011",
+  "isLeaf": false,
+  "path": [
+    "Reference",
+    "Writing, Research & Publishing Guides",
+    "Publishing & Books"
+  ],
+  "nodes": [
+    {
+      "id": "14282421",
+      "name": "Bibliographies & Indexes"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "11892",
+      "name": "Authorship"
+    },
+    {
+      "id": "9996",
+      "name": "Book Industry"
+    },
+    {
+      "id": "11897",
+      "name": "General"
+    }
+  ]
+}

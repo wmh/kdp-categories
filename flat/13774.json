@@ -1,0 +1,34 @@
+{
+  "id": "13774",
+  "name": "Petroleum",
+  "level": 5,
+  "parentId": "7921651011",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Conservation",
+    "Energy",
+    "Fossil Fuels",
+    "Petroleum"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "194821011",
+      "name": "Exploration"
+    },
+    {
+      "id": "226712",
+      "name": "Geology"
+    },
+    {
+      "id": "194822011",
+      "name": "Refining"
+    },
+    {
+      "id": "226714",
+      "name": "Reservoir Engineering"
+    }
+  ]
+}

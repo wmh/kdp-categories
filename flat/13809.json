@@ -1,0 +1,71 @@
+{
+  "id": "13809",
+  "name": "Telecommunications & Sensors",
+  "level": 2,
+  "parentId": "173515",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Telecommunications & Sensors"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "107172011",
+      "name": "Antennas"
+    },
+    {
+      "id": "107173011",
+      "name": "Digital"
+    },
+    {
+      "id": "13813",
+      "name": "General"
+    },
+    {
+      "id": "13816",
+      "name": "Microwaves"
+    },
+    {
+      "id": "7976022011",
+      "name": "Mobile & Wireless"
+    },
+    {
+      "id": "3747",
+      "name": "Networks"
+    },
+    {
+      "id": "107176011",
+      "name": "Optical Communication Engineering"
+    },
+    {
+      "id": "13801",
+      "name": "Radar"
+    },
+    {
+      "id": "13818",
+      "name": "Radio"
+    },
+    {
+      "id": "13684",
+      "name": "Remote Sensing & GIS"
+    },
+    {
+      "id": "107177011",
+      "name": "Satellite"
+    },
+    {
+      "id": "7921655011",
+      "name": "Signal Processing"
+    },
+    {
+      "id": "13820",
+      "name": "Telephone Systems"
+    },
+    {
+      "id": "13822",
+      "name": "Television & Video"
+    }
+  ]
+}

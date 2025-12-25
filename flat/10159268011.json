@@ -1,0 +1,27 @@
+{
+  "id": "10159268011",
+  "name": "Mystery, Thriller & Suspense",
+  "level": 2,
+  "parentId": "720360",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Action & Adventure",
+    "Mystery, Thriller & Suspense"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10159269011",
+      "name": "Crime"
+    },
+    {
+      "id": "10159270011",
+      "name": "Mystery"
+    },
+    {
+      "id": "10159271011",
+      "name": "Thriller & Suspense"
+    }
+  ]
+}

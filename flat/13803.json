@@ -1,0 +1,40 @@
+{
+  "id": "13803",
+  "name": "Reference",
+  "level": 2,
+  "parentId": "173515",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Reference"
+  ],
+  "nodes": [
+    {
+      "id": "1061",
+      "name": "Architecture"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "21389049011",
+      "name": "American National Standards Institute (ANSI) Publications"
+    },
+    {
+      "id": "7976021011",
+      "name": "History"
+    },
+    {
+      "id": "13843",
+      "name": "Measurements"
+    },
+    {
+      "id": "52156011",
+      "name": "Patents & Inventions"
+    },
+    {
+      "id": "7921654011",
+      "name": "Research"
+    }
+  ]
+}

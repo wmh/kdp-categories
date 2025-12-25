@@ -1,0 +1,35 @@
+{
+  "id": "10719",
+  "name": "Literature & Fiction",
+  "level": 1,
+  "parentId": "301889",
+  "isLeaf": false,
+  "path": [
+    "LGBTQ+ Books",
+    "Literature & Fiction"
+  ],
+  "nodes": [
+    {
+      "id": "2165",
+      "name": "Drama & Plays"
+    },
+    {
+      "id": "10159300011",
+      "name": "Erotica"
+    },
+    {
+      "id": "10165",
+      "name": "Genre Fiction"
+    },
+    {
+      "id": "10732",
+      "name": "Poetry"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10175",
+      "name": "Literary Criticism"
+    }
+  ]
+}

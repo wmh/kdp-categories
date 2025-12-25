@@ -1,0 +1,27 @@
+{
+  "id": "14554",
+  "name": "Dynamics",
+  "level": 2,
+  "parentId": "14545",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Physics",
+    "Dynamics"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3074641",
+      "name": "Fluid Dynamics"
+    },
+    {
+      "id": "3074621",
+      "name": "General"
+    },
+    {
+      "id": "14587",
+      "name": "Thermodynamics"
+    }
+  ]
+}

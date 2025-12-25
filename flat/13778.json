@@ -1,0 +1,72 @@
+{
+  "id": "13778",
+  "name": "Mechanical",
+  "level": 2,
+  "parentId": "173515",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Mechanical"
+  ],
+  "nodes": [
+    {
+      "id": "52206011",
+      "name": "Control Engineering"
+    },
+    {
+      "id": "52222011",
+      "name": "Engines"
+    },
+    {
+      "id": "13687",
+      "name": "Robotics & Automation"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "13781",
+      "name": "Drafting & Mechanical Drawing"
+    },
+    {
+      "id": "3074641",
+      "name": "Fluid Dynamics"
+    },
+    {
+      "id": "13785",
+      "name": "Fracture Mechanics"
+    },
+    {
+      "id": "13788",
+      "name": "General"
+    },
+    {
+      "id": "13790",
+      "name": "Hydraulics"
+    },
+    {
+      "id": "13792",
+      "name": "Machinery"
+    },
+    {
+      "id": "52214011",
+      "name": "Pressure Vessels"
+    },
+    {
+      "id": "52213011",
+      "name": "Tribology"
+    },
+    {
+      "id": "52225011",
+      "name": "Turbines"
+    },
+    {
+      "id": "52165011",
+      "name": "Vibration"
+    },
+    {
+      "id": "16244091",
+      "name": "Welding"
+    }
+  ]
+}

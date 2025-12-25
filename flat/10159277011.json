@@ -1,0 +1,52 @@
+{
+  "id": "10159277011",
+  "name": "Regional & Cultural",
+  "level": 2,
+  "parentId": "2159",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Dramas & Plays",
+    "Regional & Cultural"
+  ],
+  "nodes": [
+    {
+      "id": "10159279011",
+      "name": "Asian"
+    },
+    {
+      "id": "2163",
+      "name": "European"
+    },
+    {
+      "id": "2160",
+      "name": "United States"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10159278011",
+      "name": "African"
+    },
+    {
+      "id": "3558828011",
+      "name": "Australia & Oceania"
+    },
+    {
+      "id": "10159282011",
+      "name": "Canadian"
+    },
+    {
+      "id": "10159283011",
+      "name": "Caribbean & Latin American"
+    },
+    {
+      "id": "10159284011",
+      "name": "Middle Eastern"
+    },
+    {
+      "id": "3558829011",
+      "name": "Russian & Soviet"
+    }
+  ]
+}

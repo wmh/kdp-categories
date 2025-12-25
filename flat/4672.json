@@ -1,0 +1,58 @@
+{
+  "id": "4672",
+  "name": "Women's Health",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Women's Health"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4673",
+      "name": "Breast Cancer"
+    },
+    {
+      "id": "282821",
+      "name": "Candida"
+    },
+    {
+      "id": "282823",
+      "name": "Chronic Fatigue Syndrome & Fibromyalgia"
+    },
+    {
+      "id": "282822",
+      "name": "Endometriosis"
+    },
+    {
+      "id": "4674",
+      "name": "General"
+    },
+    {
+      "id": "282820",
+      "name": "Lupus"
+    },
+    {
+      "id": "4675",
+      "name": "Menopause"
+    },
+    {
+      "id": "282838",
+      "name": "Menstruation"
+    },
+    {
+      "id": "282839",
+      "name": "Postpartum Depression"
+    },
+    {
+      "id": "4676",
+      "name": "Pregnancy & Childbirth"
+    },
+    {
+      "id": "6511979011",
+      "name": "Sexual Health"
+    }
+  ]
+}

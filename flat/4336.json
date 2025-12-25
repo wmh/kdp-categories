@@ -1,0 +1,26 @@
+{
+  "id": "4336",
+  "name": "Vegetarian & Vegan",
+  "level": 1,
+  "parentId": "6",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Vegetarian & Vegan"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4338",
+      "name": "General"
+    },
+    {
+      "id": "7661760011",
+      "name": "Non-Vegan Vegetarian"
+    },
+    {
+      "id": "7661761011",
+      "name": "Vegan"
+    }
+  ]
+}

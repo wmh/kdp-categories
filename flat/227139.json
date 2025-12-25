@@ -1,0 +1,38 @@
+{
+  "id": "227139",
+  "name": "Family Law",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Family Law"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10801",
+      "name": "Child Advocacy"
+    },
+    {
+      "id": "10855",
+      "name": "Divorce & Separation"
+    },
+    {
+      "id": "10857",
+      "name": "Domestic Relations"
+    },
+    {
+      "id": "3568217011",
+      "name": "Elder Law"
+    },
+    {
+      "id": "10859",
+      "name": "Marriage"
+    },
+    {
+      "id": "10853",
+      "name": "Parental & Juvenile"
+    }
+  ]
+}

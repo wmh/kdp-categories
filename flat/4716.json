@@ -1,0 +1,58 @@
+{
+  "id": "4716",
+  "name": "Addiction & Recovery",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Addiction & Recovery"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4718",
+      "name": "Adult Children of Alcoholics"
+    },
+    {
+      "id": "4719",
+      "name": "Alcoholism"
+    },
+    {
+      "id": "4720",
+      "name": "Drug Dependency"
+    },
+    {
+      "id": "9352385011",
+      "name": "Gambling"
+    },
+    {
+      "id": "4722",
+      "name": "General"
+    },
+    {
+      "id": "9352386011",
+      "name": "Hoarding"
+    },
+    {
+      "id": "9352387011",
+      "name": "Obsessive Compulsive Disorder (OCD)"
+    },
+    {
+      "id": "4723",
+      "name": "Sexual"
+    },
+    {
+      "id": "4724",
+      "name": "Smoking"
+    },
+    {
+      "id": "4725",
+      "name": "Substance Abuse"
+    },
+    {
+      "id": "4727",
+      "name": "Twelve-Step Programs"
+    }
+  ]
+}

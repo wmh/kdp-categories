@@ -1,0 +1,27 @@
+{
+  "id": "227701",
+  "name": "Psychiatry",
+  "level": 2,
+  "parentId": "6511980011",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Psychology",
+    "Psychiatry"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "227703",
+      "name": "Adolescent"
+    },
+    {
+      "id": "227704",
+      "name": "Child"
+    },
+    {
+      "id": "227702",
+      "name": "General"
+    }
+  ]
+}

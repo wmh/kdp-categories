@@ -1,0 +1,36 @@
+{
+  "id": "227708",
+  "name": "Radiology",
+  "level": 3,
+  "parentId": "227203",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine",
+    "Internal Medicine",
+    "Radiology"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "227710",
+      "name": "Diagnostic Imaging"
+    },
+    {
+      "id": "227709",
+      "name": "General"
+    },
+    {
+      "id": "16244591",
+      "name": "Nuclear Medicine"
+    },
+    {
+      "id": "11764683011",
+      "name": "Radiography"
+    },
+    {
+      "id": "227711",
+      "name": "Ultrasonography"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "4234",
+  "name": "Main Courses & Side Dishes",
+  "level": 1,
+  "parentId": "6",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Main Courses & Side Dishes"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4235",
+      "name": "Appetizers"
+    },
+    {
+      "id": "4236",
+      "name": "Breakfast"
+    },
+    {
+      "id": "4328",
+      "name": "Brunch"
+    },
+    {
+      "id": "7661762011",
+      "name": "Burgers & Sandwiches"
+    },
+    {
+      "id": "7696137011",
+      "name": "Casseroles"
+    },
+    {
+      "id": "7696136011",
+      "name": "Garnishes"
+    },
+    {
+      "id": "4206",
+      "name": "Pizza"
+    },
+    {
+      "id": "4342",
+      "name": "Salads"
+    },
+    {
+      "id": "4218",
+      "name": "Sauces & Toppings"
+    },
+    {
+      "id": "206206479011",
+      "name": "Snacks"
+    },
+    {
+      "id": "4238",
+      "name": "Soups & Stews"
+    },
+    {
+      "id": "206206480011",
+      "name": "Tea Time"
+    }
+  ]
+}

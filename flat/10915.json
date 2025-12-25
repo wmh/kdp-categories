@@ -1,0 +1,39 @@
+{
+  "id": "10915",
+  "name": "Legal Education",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Legal Education"
+  ],
+  "nodes": [
+    {
+      "id": "5744307011",
+      "name": "Test Preparation"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "227140",
+      "name": "Annotations & Citations"
+    },
+    {
+      "id": "10916",
+      "name": "General"
+    },
+    {
+      "id": "11647",
+      "name": "Law School Guides"
+    },
+    {
+      "id": "10925",
+      "name": "Legal Profession"
+    },
+    {
+      "id": "10929",
+      "name": "Legal Writing"
+    }
+  ]
+}

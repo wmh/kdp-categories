@@ -1,0 +1,26 @@
+{
+  "id": "11773",
+  "name": "Language Study & Reference",
+  "level": 1,
+  "parentId": "21",
+  "isLeaf": false,
+  "path": [
+    "Reference",
+    "Language Study & Reference"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11495",
+      "name": "Foreign Language Dictionaries & Thesauruses"
+    },
+    {
+      "id": "725798",
+      "name": "General"
+    },
+    {
+      "id": "11811",
+      "name": "Instruction"
+    }
+  ]
+}

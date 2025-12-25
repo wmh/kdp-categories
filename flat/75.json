@@ -1,0 +1,94 @@
+{
+  "id": "75",
+  "name": "Science & Math",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "226680",
+      "name": "Agricultural Sciences"
+    },
+    {
+      "id": "13439",
+      "name": "Astronomy & Space Science"
+    },
+    {
+      "id": "226685",
+      "name": "Behavioral Sciences"
+    },
+    {
+      "id": "13469",
+      "name": "Biological Sciences"
+    },
+    {
+      "id": "13570",
+      "name": "Chemistry"
+    },
+    {
+      "id": "13592",
+      "name": "Earth Sciences"
+    },
+    {
+      "id": "14459",
+      "name": "Environment"
+    },
+    {
+      "id": "13824",
+      "name": "Evolution"
+    },
+    {
+      "id": "13837",
+      "name": "Experiments, Instruments & Measurement"
+    },
+    {
+      "id": "13871",
+      "name": "History & Philosophy"
+    },
+    {
+      "id": "13884",
+      "name": "Mathematics"
+    },
+    {
+      "id": "14452",
+      "name": "Nature & Ecology"
+    },
+    {
+      "id": "14545",
+      "name": "Physics"
+    },
+    {
+      "id": "14603",
+      "name": "Reference"
+    },
+    {
+      "id": "14631",
+      "name": "Technology"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "11242",
+      "name": "Archaeology"
+    },
+    {
+      "id": "3045861",
+      "name": "Essays & Commentary"
+    },
+    {
+      "id": "17745838011",
+      "name": "Ethics"
+    },
+    {
+      "id": "13857",
+      "name": "General"
+    },
+    {
+      "id": "13640",
+      "name": "Research"
+    },
+    {
+      "id": "13642",
+      "name": "Science for Kids"
+    }
+  ]
+}

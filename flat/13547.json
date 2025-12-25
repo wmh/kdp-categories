@@ -1,0 +1,56 @@
+{
+  "id": "13547",
+  "name": "Plants",
+  "level": 2,
+  "parentId": "14452",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Plants"
+  ],
+  "nodes": [
+    {
+      "id": "13559",
+      "name": "Trees"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16310921",
+      "name": "Algae"
+    },
+    {
+      "id": "13548",
+      "name": "Cacti & Succulents"
+    },
+    {
+      "id": "16310931",
+      "name": "Ferns"
+    },
+    {
+      "id": "13550",
+      "name": "Flowers"
+    },
+    {
+      "id": "13552",
+      "name": "General"
+    },
+    {
+      "id": "13555",
+      "name": "Grasses"
+    },
+    {
+      "id": "290068",
+      "name": "Mosses & Lichens"
+    },
+    {
+      "id": "13557",
+      "name": "Mushrooms"
+    },
+    {
+      "id": "16244341",
+      "name": "Reproduction"
+    }
+  ]
+}

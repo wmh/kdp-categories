@@ -1,0 +1,23 @@
+{
+  "id": "2165",
+  "name": "Drama & Plays",
+  "level": 2,
+  "parentId": "10719",
+  "isLeaf": false,
+  "path": [
+    "LGBTQ+ Books",
+    "Literature & Fiction",
+    "Drama & Plays"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "2166",
+      "name": "Gay"
+    },
+    {
+      "id": "2167",
+      "name": "Lesbian"
+    }
+  ]
+}

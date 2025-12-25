@@ -1,0 +1,99 @@
+{
+  "id": "265542",
+  "name": "Medicine",
+  "level": 1,
+  "parentId": "173514",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine"
+  ],
+  "nodes": [
+    {
+      "id": "227203",
+      "name": "Internal Medicine"
+    },
+    {
+      "id": "227670",
+      "name": "Reference"
+    },
+    {
+      "id": "227199",
+      "name": "Surgery"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16311231",
+      "name": "Computer Applications"
+    },
+    {
+      "id": "14249",
+      "name": "Diagnosis"
+    },
+    {
+      "id": "227666",
+      "name": "Doctor-Patient Relations"
+    },
+    {
+      "id": "18882712011",
+      "name": "Environmental Health"
+    },
+    {
+      "id": "16311241",
+      "name": "Euthanasia"
+    },
+    {
+      "id": "14257",
+      "name": "Home Care"
+    },
+    {
+      "id": "14258",
+      "name": "Hospice Care"
+    },
+    {
+      "id": "14187",
+      "name": "Lasers in Medicine"
+    },
+    {
+      "id": "227668",
+      "name": "Medical Ethics"
+    },
+    {
+      "id": "14262",
+      "name": "Medical Procedure"
+    },
+    {
+      "id": "16244601",
+      "name": "Midwifery"
+    },
+    {
+      "id": "18882719011",
+      "name": "Military"
+    },
+    {
+      "id": "3559287011",
+      "name": "Preventive Medicine"
+    },
+    {
+      "id": "14269",
+      "name": "Prosthesis"
+    },
+    {
+      "id": "18882720011",
+      "name": "Sleep"
+    },
+    {
+      "id": "14411",
+      "name": "Sports Medicine"
+    },
+    {
+      "id": "227627",
+      "name": "Test Preparation & Review"
+    },
+    {
+      "id": "14437",
+      "name": "Transportation"
+    }
+  ]
+}

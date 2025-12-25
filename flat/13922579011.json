@@ -1,11 +1,12 @@
 {
   "id": "13922579011",
-  "name": "LGBTQ+ Romance",
+  "name": "Romance",
   "level": 1,
-  "parentId": "23",
+  "parentId": "301889",
   "isLeaf": false,
   "path": [
-    "LGBTQ+ Romance"
+    "LGBTQ+ Books",
+    "Romance"
   ],
   "nodes": [],
   "leafs": [

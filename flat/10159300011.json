@@ -1,13 +1,13 @@
 {
   "id": "10159300011",
-  "name": "LGBTQ+ Erotica",
+  "name": "Erotica",
   "level": 2,
-  "parentId": "10141",
+  "parentId": "10719",
   "isLeaf": false,
   "path": [
-    "23",
-    "Erotica",
-    "LGBTQ+ Erotica"
+    "LGBTQ+ Books",
+    "Literature & Fiction",
+    "Erotica"
   ],
   "nodes": [],
   "leafs": [

@@ -1,0 +1,39 @@
+{
+  "id": "9536081011",
+  "name": "Supernatural",
+  "level": 2,
+  "parentId": "10457",
+  "isLeaf": false,
+  "path": [
+    "Mystery, Thriller & Suspense",
+    "Mystery",
+    "Supernatural"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "9536082011",
+      "name": "General"
+    },
+    {
+      "id": "9536083011",
+      "name": "Ghosts"
+    },
+    {
+      "id": "9536084011",
+      "name": "Psychics"
+    },
+    {
+      "id": "9536085011",
+      "name": "Vampires"
+    },
+    {
+      "id": "9536086011",
+      "name": "Werewolves & Shifters"
+    },
+    {
+      "id": "9536087011",
+      "name": "Witches & Wizards"
+    }
+  ]
+}

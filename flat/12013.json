@@ -1,0 +1,27 @@
+{
+  "id": "12013",
+  "name": "Vocabulary, Slang & Word Lists",
+  "level": 2,
+  "parentId": "11970",
+  "isLeaf": false,
+  "path": [
+    "Reference",
+    "Words, Language & Grammar",
+    "Vocabulary, Slang & Word Lists"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11619",
+      "name": "Slang & Idioms"
+    },
+    {
+      "id": "8975380011",
+      "name": "Vocabulary"
+    },
+    {
+      "id": "8975381011",
+      "name": "Word Lists"
+    }
+  ]
+}

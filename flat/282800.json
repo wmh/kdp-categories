@@ -1,0 +1,18 @@
+{
+  "id": "282800",
+  "name": "Personal Health",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Personal Health"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4666",
+      "name": "General"
+    }
+  ]
+}

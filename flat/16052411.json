@@ -1,0 +1,27 @@
+{
+  "id": "16052411",
+  "name": "Spectroscopy",
+  "level": 2,
+  "parentId": "14545",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Physics",
+    "Spectroscopy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16052421",
+      "name": "General"
+    },
+    {
+      "id": "16052441",
+      "name": "Mass Spectrometry"
+    },
+    {
+      "id": "16052431",
+      "name": "NMR"
+    }
+  ]
+}

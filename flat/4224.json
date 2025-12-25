@@ -1,0 +1,55 @@
+{
+  "id": "4224",
+  "name": "Wine & Spirits",
+  "level": 2,
+  "parentId": "4219",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Beverages & Wine",
+    "Wine & Spirits"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4225",
+      "name": "Buying Guides"
+    },
+    {
+      "id": "688870",
+      "name": "Cellars"
+    },
+    {
+      "id": "4226",
+      "name": "Champagne"
+    },
+    {
+      "id": "5125",
+      "name": "Collecting"
+    },
+    {
+      "id": "713208011",
+      "name": "General"
+    },
+    {
+      "id": "4223",
+      "name": "Spirits"
+    },
+    {
+      "id": "7676227011",
+      "name": "Whiskey"
+    },
+    {
+      "id": "7676228011",
+      "name": "Wine"
+    },
+    {
+      "id": "69260",
+      "name": "Wine Pairing"
+    },
+    {
+      "id": "7676226011",
+      "name": "Wine Tasting"
+    }
+  ]
+}

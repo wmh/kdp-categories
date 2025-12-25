@@ -1,0 +1,22 @@
+{
+  "id": "11444",
+  "name": "Almanacs & Yearbooks",
+  "level": 1,
+  "parentId": "21",
+  "isLeaf": false,
+  "path": [
+    "Reference",
+    "Almanacs & Yearbooks"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11445",
+      "name": "Almanacs"
+    },
+    {
+      "id": "11447",
+      "name": "Yearbooks & Annuals"
+    }
+  ]
+}

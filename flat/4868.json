@@ -1,0 +1,44 @@
+{
+  "id": "4868",
+  "name": "Civil War",
+  "level": 2,
+  "parentId": "4853",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "United States",
+    "Civil War"
+  ],
+  "nodes": [
+    {
+      "id": "465224",
+      "name": "Campaigns & Battlefields"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "15812871",
+      "name": "Abolition"
+    },
+    {
+      "id": "465236",
+      "name": "Confederacy"
+    },
+    {
+      "id": "465222",
+      "name": "General"
+    },
+    {
+      "id": "465258",
+      "name": "Naval Operations"
+    },
+    {
+      "id": "465260",
+      "name": "Regimental Histories"
+    },
+    {
+      "id": "465262",
+      "name": "Women"
+    }
+  ]
+}

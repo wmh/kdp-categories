@@ -1,0 +1,24 @@
+{
+  "id": "10271",
+  "name": "Japanese & Haiku",
+  "level": 3,
+  "parentId": "10159396011",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Poetry",
+    "Themes & Styles",
+    "Japanese & Haiku"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "13922608011",
+      "name": "Haiku"
+    },
+    {
+      "id": "13922609011",
+      "name": "Japanese"
+    }
+  ]
+}

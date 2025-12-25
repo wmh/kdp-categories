@@ -1,0 +1,26 @@
+{
+  "id": "4465",
+  "name": "Humor & Satire",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Humor & Satire"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10159381011",
+      "name": "Dark Humor"
+    },
+    {
+      "id": "10159382011",
+      "name": "Humorous"
+    },
+    {
+      "id": "3558941011",
+      "name": "Satire"
+    }
+  ]
+}

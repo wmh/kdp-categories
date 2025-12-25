@@ -1,0 +1,22 @@
+{
+  "id": "17861278011",
+  "name": "Science Fiction & Fantasy",
+  "level": 1,
+  "parentId": "301889",
+  "isLeaf": false,
+  "path": [
+    "LGBTQ+ Books",
+    "Science Fiction & Fantasy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17861279011",
+      "name": "Fantasy Fiction"
+    },
+    {
+      "id": "17861280011",
+      "name": "Science Fiction"
+    }
+  ]
+}

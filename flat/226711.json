@@ -1,0 +1,21 @@
+{
+  "id": "226711",
+  "name": "Drilling Procedures",
+  "level": 4,
+  "parentId": "52215011",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Conservation",
+    "Energy",
+    "Drilling Procedures"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "226713",
+      "name": "Offshore Drilling"
+    }
+  ]
+}

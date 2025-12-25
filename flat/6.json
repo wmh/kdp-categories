@@ -1,0 +1,98 @@
+{
+  "id": "6",
+  "name": "Cookbooks, Food & Wine",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "4264",
+      "name": "Asian Cooking"
+    },
+    {
+      "id": "4196",
+      "name": "Baking"
+    },
+    {
+      "id": "4219",
+      "name": "Beverages & Wine"
+    },
+    {
+      "id": "4229",
+      "name": "Cooking Education & Reference"
+    },
+    {
+      "id": "4252",
+      "name": "Cooking Methods"
+    },
+    {
+      "id": "4208",
+      "name": "Cooking by Ingredient"
+    },
+    {
+      "id": "4201",
+      "name": "Desserts"
+    },
+    {
+      "id": "4327",
+      "name": "Entertaining & Holidays"
+    },
+    {
+      "id": "4256",
+      "name": "Kitchen Appliances"
+    },
+    {
+      "id": "4234",
+      "name": "Main Courses & Side Dishes"
+    },
+    {
+      "id": "4245",
+      "name": "Outdoor Cooking"
+    },
+    {
+      "id": "4251",
+      "name": "Professional Cooking"
+    },
+    {
+      "id": "4257",
+      "name": "Quick & Easy"
+    },
+    {
+      "id": "4262",
+      "name": "Regional & International"
+    },
+    {
+      "id": "4317",
+      "name": "Special Diet"
+    },
+    {
+      "id": "4300",
+      "name": "U.S. Cooking"
+    },
+    {
+      "id": "4336",
+      "name": "Vegetarian & Vegan"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "4207",
+      "name": "Canning & Preserving"
+    },
+    {
+      "id": "7661753011",
+      "name": "Celebrities & TV Shows"
+    },
+    {
+      "id": "17745806011",
+      "name": "Comfort Food"
+    },
+    {
+      "id": "4233",
+      "name": "General"
+    },
+    {
+      "id": "4285",
+      "name": "Italian Cooking"
+    }
+  ]
+}

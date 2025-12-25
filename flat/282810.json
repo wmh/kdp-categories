@@ -1,0 +1,26 @@
+{
+  "id": "282810",
+  "name": "Diabetes",
+  "level": 5,
+  "parentId": "14116",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine",
+    "Internal Medicine",
+    "Pathology",
+    "Diseases",
+    "Diabetes"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "282811",
+      "name": "General"
+    },
+    {
+      "id": "282812",
+      "name": "Type 2"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "9988",
+  "name": "Books & Reading",
+  "level": 2,
+  "parentId": "10204",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "History & Criticism",
+    "Books & Reading"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "9990",
+      "name": "Antiquarian & Rare Books"
+    },
+    {
+      "id": "9999",
+      "name": "Booksellers & Bookselling"
+    },
+    {
+      "id": "10001",
+      "name": "General"
+    },
+    {
+      "id": "10003",
+      "name": "History of Books"
+    }
+  ]
+}

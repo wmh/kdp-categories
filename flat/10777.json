@@ -1,0 +1,122 @@
+{
+  "id": "10777",
+  "name": "Law",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "173492",
+      "name": "Administrative Law"
+    },
+    {
+      "id": "173486",
+      "name": "Business"
+    },
+    {
+      "id": "227137",
+      "name": "Constitutional Law"
+    },
+    {
+      "id": "173489",
+      "name": "Criminal Law"
+    },
+    {
+      "id": "16233511",
+      "name": "English Law"
+    },
+    {
+      "id": "10868",
+      "name": "Environmental & Natural Resources Law"
+    },
+    {
+      "id": "5744305011",
+      "name": "Estate Planning"
+    },
+    {
+      "id": "227139",
+      "name": "Family Law"
+    },
+    {
+      "id": "5744306011",
+      "name": "Health & Medical Law"
+    },
+    {
+      "id": "173488",
+      "name": "Intellectual Property"
+    },
+    {
+      "id": "173487",
+      "name": "Law Practice"
+    },
+    {
+      "id": "10915",
+      "name": "Legal Education"
+    },
+    {
+      "id": "173495",
+      "name": "Legal Theory & Systems"
+    },
+    {
+      "id": "173490",
+      "name": "Rules & Procedures"
+    },
+    {
+      "id": "173491",
+      "name": "Specialties"
+    },
+    {
+      "id": "227138",
+      "name": "Tax Law"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "2422",
+      "name": "Biographies"
+    },
+    {
+      "id": "10871",
+      "name": "Ethics & Professional Responsibility"
+    },
+    {
+      "id": "10898",
+      "name": "Foreign & International Law"
+    },
+    {
+      "id": "10883",
+      "name": "General"
+    },
+    {
+      "id": "10845",
+      "name": "Law"
+    },
+    {
+      "id": "10922",
+      "name": "Legal History"
+    },
+    {
+      "id": "173483",
+      "name": "Legal Self-Help"
+    },
+    {
+      "id": "10941",
+      "name": "Media & the Law"
+    },
+    {
+      "id": "173482",
+      "name": "One-L"
+    },
+    {
+      "id": "16022411",
+      "name": "Philosophy"
+    },
+    {
+      "id": "334612011",
+      "name": "Statute Summaries"
+    },
+    {
+      "id": "16252521",
+      "name": "Statutes & Cases"
+    }
+  ]
+}

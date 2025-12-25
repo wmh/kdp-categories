@@ -1,0 +1,23 @@
+{
+  "id": "4212",
+  "name": "Meat & Game",
+  "level": 2,
+  "parentId": "4208",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Cooking by Ingredient",
+    "Meat & Game"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4213",
+      "name": "Game"
+    },
+    {
+      "id": "4214",
+      "name": "Meats"
+    }
+  ]
+}

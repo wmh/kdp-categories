@@ -1,0 +1,82 @@
+{
+  "id": "9",
+  "name": "History",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "4762",
+      "name": "Africa"
+    },
+    {
+      "id": "4808",
+      "name": "Americas"
+    },
+    {
+      "id": "4873",
+      "name": "Ancient Civilizations"
+    },
+    {
+      "id": "4884",
+      "name": "Asia"
+    },
+    {
+      "id": "4921",
+      "name": "Australia & Oceania"
+    },
+    {
+      "id": "4935",
+      "name": "Europe"
+    },
+    {
+      "id": "4987",
+      "name": "Historical Study & Educational Resources"
+    },
+    {
+      "id": "4995",
+      "name": "Middle East"
+    },
+    {
+      "id": "5011",
+      "name": "Military"
+    },
+    {
+      "id": "6343226011",
+      "name": "Modern (16th-21st Centuries)"
+    },
+    {
+      "id": "4853",
+      "name": "United States"
+    },
+    {
+      "id": "5035",
+      "name": "World"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16252761",
+      "name": "Arctic & Antarctica"
+    },
+    {
+      "id": "713290011",
+      "name": "General"
+    },
+    {
+      "id": "206206475011",
+      "name": "Indigenous"
+    },
+    {
+      "id": "5040",
+      "name": "Medieval"
+    },
+    {
+      "id": "5041",
+      "name": "Renaissance"
+    },
+    {
+      "id": "5032",
+      "name": "Russia"
+    }
+  ]
+}

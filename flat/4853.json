@@ -1,0 +1,55 @@
+{
+  "id": "4853",
+  "name": "United States",
+  "level": 1,
+  "parentId": "9",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "United States"
+  ],
+  "nodes": [
+    {
+      "id": "4868",
+      "name": "Civil War"
+    },
+    {
+      "id": "14278871",
+      "name": "State & Local"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "4854",
+      "name": "19th Century"
+    },
+    {
+      "id": "4861",
+      "name": "20th Century"
+    },
+    {
+      "id": "1196142",
+      "name": "21st Century"
+    },
+    {
+      "id": "4867",
+      "name": "Black & African Americans"
+    },
+    {
+      "id": "4869",
+      "name": "Colonial Period"
+    },
+    {
+      "id": "4870",
+      "name": "General"
+    },
+    {
+      "id": "6343225011",
+      "name": "Immigrants"
+    },
+    {
+      "id": "4871",
+      "name": "Revolution & Founding"
+    }
+  ]
+}

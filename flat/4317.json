@@ -1,0 +1,99 @@
+{
+  "id": "4317",
+  "name": "Special Diet",
+  "level": 1,
+  "parentId": "6",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Special Diet"
+  ],
+  "nodes": [
+    {
+      "id": "4336",
+      "name": "Vegetarian & Vegan"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "4636",
+      "name": "Allergies"
+    },
+    {
+      "id": "3568205011",
+      "name": "Baby Food"
+    },
+    {
+      "id": "746214",
+      "name": "Cancer"
+    },
+    {
+      "id": "11764642011",
+      "name": "Cooking for Kids"
+    },
+    {
+      "id": "4318",
+      "name": "Diabetic & Sugar-Free"
+    },
+    {
+      "id": "4635",
+      "name": "General"
+    },
+    {
+      "id": "7661758011",
+      "name": "Gluten Free"
+    },
+    {
+      "id": "4320",
+      "name": "Heart Healthy"
+    },
+    {
+      "id": "10075827011",
+      "name": "High Protein"
+    },
+    {
+      "id": "15248575011",
+      "name": "Ketogenic"
+    },
+    {
+      "id": "4321",
+      "name": "Kosher"
+    },
+    {
+      "id": "4639",
+      "name": "Low Carbohydrate"
+    },
+    {
+      "id": "4322",
+      "name": "Low Cholesterol"
+    },
+    {
+      "id": "206206511011",
+      "name": "Low FODMAP"
+    },
+    {
+      "id": "4323",
+      "name": "Low Fat"
+    },
+    {
+      "id": "4324",
+      "name": "Low Salt"
+    },
+    {
+      "id": "7114436011",
+      "name": "Paleo"
+    },
+    {
+      "id": "7661759011",
+      "name": "Weight Loss"
+    },
+    {
+      "id": "8493541011",
+      "name": "Wheat Free"
+    },
+    {
+      "id": "282853",
+      "name": "Whole Foods"
+    }
+  ]
+}

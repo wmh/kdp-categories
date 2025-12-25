@@ -1,0 +1,30 @@
+{
+  "id": "13871",
+  "name": "History & Philosophy",
+  "level": 1,
+  "parentId": "75",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "History & Philosophy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "13872",
+      "name": "General"
+    },
+    {
+      "id": "13878",
+      "name": "History of Science"
+    },
+    {
+      "id": "16311111",
+      "name": "Philosophy of Biology"
+    },
+    {
+      "id": "16311171",
+      "name": "Philosophy of Medicine"
+    }
+  ]
+}

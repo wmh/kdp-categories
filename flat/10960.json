@@ -1,0 +1,27 @@
+{
+  "id": "10960",
+  "name": "Patent, Trademark & Copyright",
+  "level": 2,
+  "parentId": "173488",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Intellectual Property",
+    "Patent, Trademark & Copyright"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883983011",
+      "name": "Copyright"
+    },
+    {
+      "id": "8883984011",
+      "name": "Patent"
+    },
+    {
+      "id": "8883985011",
+      "name": "Trademark"
+    }
+  ]
+}

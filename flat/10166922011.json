@@ -1,0 +1,31 @@
+{
+  "id": "10166922011",
+  "name": "Abuse",
+  "level": 2,
+  "parentId": "11370",
+  "isLeaf": false,
+  "path": [
+    "Parenting & Relationships",
+    "Family Relationships",
+    "Abuse"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11371",
+      "name": "Child Abuse"
+    },
+    {
+      "id": "10166923011",
+      "name": "Elder Abuse"
+    },
+    {
+      "id": "10166924011",
+      "name": "General"
+    },
+    {
+      "id": "10166925011",
+      "name": "Partner Abuse"
+    }
+  ]
+}

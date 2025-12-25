@@ -1,0 +1,23 @@
+{
+  "id": "6515545011",
+  "name": "Beauty, Grooming & Style",
+  "level": 2,
+  "parentId": "282840",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Aging",
+    "Beauty, Grooming & Style"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883969011",
+      "name": "Beauty & Grooming"
+    },
+    {
+      "id": "8883970011",
+      "name": "Style"
+    }
+  ]
+}

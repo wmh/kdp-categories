@@ -1,0 +1,26 @@
+{
+  "id": "16384",
+  "name": "Hiking & Camping",
+  "level": 1,
+  "parentId": "26",
+  "isLeaf": false,
+  "path": [
+    "Sports & Outdoors",
+    "Hiking & Camping"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16388",
+      "name": "Camping"
+    },
+    {
+      "id": "16472",
+      "name": "Instructional"
+    },
+    {
+      "id": "4651",
+      "name": "Walking"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "18",
+  "name": "Mystery, Thriller & Suspense",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "10457",
+      "name": "Mystery"
+    },
+    {
+      "id": "10484",
+      "name": "Thrillers & Suspense"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "3559293011",
+      "name": "Crime"
+    },
+    {
+      "id": "605116",
+      "name": "General"
+    },
+    {
+      "id": "12034",
+      "name": "Writing"
+    }
+  ]
+}

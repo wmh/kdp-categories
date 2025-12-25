@@ -1,0 +1,66 @@
+[
+  {
+    "id": "52173011",
+    "name": "Data Processing"
+  },
+  {
+    "id": "227545",
+    "name": "Digital Design"
+  },
+  {
+    "id": "227546",
+    "name": "Electricity Principles"
+  },
+  {
+    "id": "13709",
+    "name": "Fiber Optics"
+  },
+  {
+    "id": "107163011",
+    "name": "Filters"
+  },
+  {
+    "id": "13711",
+    "name": "General"
+  },
+  {
+    "id": "52172011",
+    "name": "Infrared"
+  },
+  {
+    "id": "107160011",
+    "name": "Measurements"
+  },
+  {
+    "id": "107185011",
+    "name": "Microwave"
+  },
+  {
+    "id": "3747",
+    "name": "Networks"
+  },
+  {
+    "id": "107186011",
+    "name": "Quantum"
+  },
+  {
+    "id": "107159011",
+    "name": "Reference"
+  },
+  {
+    "id": "227547",
+    "name": "Stereo & Audio Equipment"
+  },
+  {
+    "id": "13731",
+    "name": "Superconductivity"
+  },
+  {
+    "id": "107180011",
+    "name": "Very-Large-Scale Integration (VLSI)"
+  },
+  {
+    "id": "107170011",
+    "name": "Wiring & Currents"
+  }
+]

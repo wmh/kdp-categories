@@ -1,0 +1,78 @@
+{
+  "id": "4696",
+  "name": "Alternative Medicine",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Alternative Medicine"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4698",
+      "name": "Acupuncture & Acupressure"
+    },
+    {
+      "id": "4699",
+      "name": "Aromatherapy"
+    },
+    {
+      "id": "4700",
+      "name": "Ayurveda"
+    },
+    {
+      "id": "282874",
+      "name": "Chelation"
+    },
+    {
+      "id": "282878",
+      "name": "Chinese Medicine"
+    },
+    {
+      "id": "282880",
+      "name": "Energy Healing"
+    },
+    {
+      "id": "4701",
+      "name": "General"
+    },
+    {
+      "id": "4702",
+      "name": "Healing"
+    },
+    {
+      "id": "4703",
+      "name": "Herbal Remedies"
+    },
+    {
+      "id": "4704",
+      "name": "Holistic"
+    },
+    {
+      "id": "171105",
+      "name": "Homeopathy"
+    },
+    {
+      "id": "3558816011",
+      "name": "Hypnotherapy"
+    },
+    {
+      "id": "4705",
+      "name": "Massage"
+    },
+    {
+      "id": "4713",
+      "name": "Meditation"
+    },
+    {
+      "id": "4714",
+      "name": "Naturopathy"
+    },
+    {
+      "id": "282877",
+      "name": "Reference"
+    }
+  ]
+}

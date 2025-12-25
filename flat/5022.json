@@ -1,0 +1,36 @@
+{
+  "id": "5022",
+  "name": "United States",
+  "level": 2,
+  "parentId": "5011",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "Military",
+    "United States"
+  ],
+  "nodes": [
+    {
+      "id": "4868",
+      "name": "Civil War"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "5023",
+      "name": "General"
+    },
+    {
+      "id": "173578",
+      "name": "Operation Desert Storm"
+    },
+    {
+      "id": "5024",
+      "name": "Veterans"
+    },
+    {
+      "id": "5025",
+      "name": "Vietnam War"
+    }
+  ]
+}

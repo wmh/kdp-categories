@@ -1,0 +1,54 @@
+{
+  "id": "282948",
+  "name": "Children & Adolescent's Health",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Children & Adolescent's Health"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "282953",
+      "name": "Allergies"
+    },
+    {
+      "id": "282951",
+      "name": "Asthma"
+    },
+    {
+      "id": "282950",
+      "name": "Autism Spectrum"
+    },
+    {
+      "id": "602014",
+      "name": "Cystic Fibrosis"
+    },
+    {
+      "id": "282964",
+      "name": "Disability"
+    },
+    {
+      "id": "282960",
+      "name": "Down Syndrome"
+    },
+    {
+      "id": "282956",
+      "name": "Eating Disorders"
+    },
+    {
+      "id": "282952",
+      "name": "Epilepsy"
+    },
+    {
+      "id": "282949",
+      "name": "Learning Disorders"
+    },
+    {
+      "id": "282963",
+      "name": "Lice"
+    }
+  ]
+}

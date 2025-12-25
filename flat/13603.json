@@ -1,0 +1,59 @@
+{
+  "id": "13603",
+  "name": "Geology",
+  "level": 2,
+  "parentId": "13592",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Earth Sciences",
+    "Geology"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16052901",
+      "name": "Dynamic & Geophysics"
+    },
+    {
+      "id": "16052821",
+      "name": "General"
+    },
+    {
+      "id": "16052911",
+      "name": "Geomagnetism"
+    },
+    {
+      "id": "16053001",
+      "name": "Glaciology"
+    },
+    {
+      "id": "271631011",
+      "name": "Limnology"
+    },
+    {
+      "id": "16052891",
+      "name": "Physical"
+    },
+    {
+      "id": "16052941",
+      "name": "Plate Tectonics"
+    },
+    {
+      "id": "16053011",
+      "name": "Sedimentary"
+    },
+    {
+      "id": "16053041",
+      "name": "Specific Locations"
+    },
+    {
+      "id": "16052931",
+      "name": "Structural"
+    },
+    {
+      "id": "16053021",
+      "name": "Volcanology"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "173490",
+  "name": "Rules & Procedures",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Rules & Procedures"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10782",
+      "name": "Alternative Dispute Resolution"
+    },
+    {
+      "id": "10789",
+      "name": "Arbitration, Negotiation & Mediation"
+    },
+    {
+      "id": "10806",
+      "name": "Civil Procedure"
+    },
+    {
+      "id": "10828",
+      "name": "Court Records"
+    },
+    {
+      "id": "10830",
+      "name": "Court Rules"
+    },
+    {
+      "id": "10832",
+      "name": "Courts"
+    },
+    {
+      "id": "10836",
+      "name": "Criminal Procedure"
+    },
+    {
+      "id": "10843",
+      "name": "Depositions"
+    },
+    {
+      "id": "10873",
+      "name": "Evidence"
+    },
+    {
+      "id": "10902",
+      "name": "Jury"
+    },
+    {
+      "id": "10931",
+      "name": "Litigation"
+    },
+    {
+      "id": "10976",
+      "name": "Remedies"
+    },
+    {
+      "id": "10995",
+      "name": "Trial Practice"
+    },
+    {
+      "id": "11001",
+      "name": "Witnesses"
+    }
+  ]
+}

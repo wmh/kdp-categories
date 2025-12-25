@@ -1,0 +1,31 @@
+{
+  "id": "265787",
+  "name": "Middle Eastern",
+  "level": 2,
+  "parentId": "10311",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "World Literature",
+    "Middle Eastern"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10316",
+      "name": "Arabic"
+    },
+    {
+      "id": "265791",
+      "name": "Hebrew"
+    },
+    {
+      "id": "265792",
+      "name": "Persian"
+    },
+    {
+      "id": "265793",
+      "name": "Turkey"
+    }
+  ]
+}

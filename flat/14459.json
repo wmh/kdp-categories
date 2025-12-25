@@ -1,0 +1,48 @@
+{
+  "id": "14459",
+  "name": "Environment",
+  "level": 2,
+  "parentId": "14452",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Environment"
+  ],
+  "nodes": [
+    {
+      "id": "13529",
+      "name": "Ecology"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16052991",
+      "name": "Desertification"
+    },
+    {
+      "id": "13598",
+      "name": "Environmental Science"
+    },
+    {
+      "id": "290441",
+      "name": "Environmentalism"
+    },
+    {
+      "id": "13617",
+      "name": "Natural Disasters"
+    },
+    {
+      "id": "14480",
+      "name": "Recycling"
+    },
+    {
+      "id": "14482",
+      "name": "Water Supply"
+    },
+    {
+      "id": "14484",
+      "name": "Weather"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "14585",
+  "name": "Solid-State Physics",
+  "level": 2,
+  "parentId": "14545",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Physics",
+    "Solid-State Physics"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16052361",
+      "name": "Condensed Matter"
+    },
+    {
+      "id": "16052111",
+      "name": "General"
+    },
+    {
+      "id": "16052381",
+      "name": "Plasma Physics"
+    },
+    {
+      "id": "13731",
+      "name": "Superconductivity"
+    },
+    {
+      "id": "16052371",
+      "name": "Thin Films"
+    }
+  ]
+}

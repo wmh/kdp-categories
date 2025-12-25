@@ -1,0 +1,55 @@
+{
+  "id": "10016",
+  "name": "British & Irish",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "British & Irish"
+  ],
+  "nodes": [
+    {
+      "id": "10183895011",
+      "name": "Shakespeare"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10023",
+      "name": "Classics"
+    },
+    {
+      "id": "10088",
+      "name": "Contemporary"
+    },
+    {
+      "id": "2162",
+      "name": "Dramas & Plays"
+    },
+    {
+      "id": "16004551",
+      "name": "General"
+    },
+    {
+      "id": "10090",
+      "name": "Historical"
+    },
+    {
+      "id": "9805",
+      "name": "Horror"
+    },
+    {
+      "id": "16004661",
+      "name": "Humor & Satire"
+    },
+    {
+      "id": "10159404011",
+      "name": "Literature"
+    },
+    {
+      "id": "10096",
+      "name": "Poetry"
+    }
+  ]
+}

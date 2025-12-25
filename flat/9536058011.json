@@ -1,0 +1,24 @@
+{
+  "id": "9536058011",
+  "name": "Animals",
+  "level": 3,
+  "parentId": "7538396011",
+  "isLeaf": false,
+  "path": [
+    "Mystery, Thriller & Suspense",
+    "Mystery",
+    "Cozy",
+    "Animals"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17745825011",
+      "name": "Cats & Dogs"
+    },
+    {
+      "id": "17745826011",
+      "name": "General"
+    }
+  ]
+}

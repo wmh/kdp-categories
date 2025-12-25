@@ -1,0 +1,47 @@
+{
+  "id": "52215011",
+  "name": "Energy",
+  "level": 2,
+  "parentId": "14545",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Physics",
+    "Energy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "107167011",
+      "name": "Batteries"
+    },
+    {
+      "id": "52218011",
+      "name": "Combustion & Steam"
+    },
+    {
+      "id": "52221011",
+      "name": "Energy Saving"
+    },
+    {
+      "id": "52216011",
+      "name": "General"
+    },
+    {
+      "id": "52217011",
+      "name": "Heat Engineering & Transfer"
+    },
+    {
+      "id": "227542",
+      "name": "Mining"
+    },
+    {
+      "id": "13796",
+      "name": "Nuclear"
+    },
+    {
+      "id": "16244621",
+      "name": "Power Systems"
+    }
+  ]
+}

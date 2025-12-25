@@ -1,0 +1,28 @@
+{
+  "id": "16386",
+  "name": "Birds & Birdwatching",
+  "level": 3,
+  "parentId": "290061",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Fauna",
+    "Birds & Birdwatching"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "290111",
+      "name": "Excursion Guides"
+    },
+    {
+      "id": "290081",
+      "name": "Field Guides"
+    },
+    {
+      "id": "290110",
+      "name": "General"
+    }
+  ]
+}

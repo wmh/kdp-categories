@@ -1,0 +1,31 @@
+{
+  "id": "173488",
+  "name": "Intellectual Property",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Intellectual Property"
+  ],
+  "nodes": [
+    {
+      "id": "10960",
+      "name": "Patent, Trademark & Copyright"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10812",
+      "name": "Communications"
+    },
+    {
+      "id": "10866",
+      "name": "Entertainment"
+    },
+    {
+      "id": "10896",
+      "name": "General"
+    }
+  ]
+}

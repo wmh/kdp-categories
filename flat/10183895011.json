@@ -1,0 +1,23 @@
+{
+  "id": "10183895011",
+  "name": "Shakespeare",
+  "level": 2,
+  "parentId": "10016",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "British & Irish",
+    "Shakespeare"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10159354011",
+      "name": "Literary Criticism"
+    },
+    {
+      "id": "10159286011",
+      "name": "Works"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "5267707011",
+  "name": "Writing, Research & Publishing Guides",
+  "level": 1,
+  "parentId": "21",
+  "isLeaf": false,
+  "path": [
+    "Reference",
+    "Writing, Research & Publishing Guides"
+  ],
+  "nodes": [
+    {
+      "id": "11891",
+      "name": "Publishing & Books"
+    },
+    {
+      "id": "12015",
+      "name": "Writing"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "11653",
+      "name": "Research"
+    }
+  ]
+}

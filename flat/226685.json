@@ -1,0 +1,30 @@
+{
+  "id": "226685",
+  "name": "Behavioral Sciences",
+  "level": 1,
+  "parentId": "75",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Behavioral Sciences"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11237",
+      "name": "Anthropology"
+    },
+    {
+      "id": "226686",
+      "name": "Behavioral Psychology"
+    },
+    {
+      "id": "573358",
+      "name": "Cognitive Psychology"
+    },
+    {
+      "id": "1099192",
+      "name": "General"
+    }
+  ]
+}

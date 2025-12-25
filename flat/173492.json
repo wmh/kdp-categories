@@ -1,0 +1,62 @@
+{
+  "id": "173492",
+  "name": "Administrative Law",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Administrative Law"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10786",
+      "name": "Antitrust"
+    },
+    {
+      "id": "10804",
+      "name": "Civil Law"
+    },
+    {
+      "id": "10864",
+      "name": "Emigration & Immigration"
+    },
+    {
+      "id": "10875",
+      "name": "Federal Jurisdiction"
+    },
+    {
+      "id": "10778",
+      "name": "General"
+    },
+    {
+      "id": "10891",
+      "name": "Housing & Urban Development"
+    },
+    {
+      "id": "3568215011",
+      "name": "Indigenous Peoples"
+    },
+    {
+      "id": "10905",
+      "name": "Land Use"
+    },
+    {
+      "id": "10967",
+      "name": "Public"
+    },
+    {
+      "id": "10969",
+      "name": "Public Contract"
+    },
+    {
+      "id": "10971",
+      "name": "Public Utilities"
+    },
+    {
+      "id": "10997",
+      "name": "Urban, State & Local Government"
+    }
+  ]
+}

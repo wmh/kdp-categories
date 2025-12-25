@@ -1,0 +1,55 @@
+{
+  "id": "4264",
+  "name": "Asian",
+  "level": 2,
+  "parentId": "4262",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Regional & International",
+    "Asian"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4266",
+      "name": "Chinese"
+    },
+    {
+      "id": "4265",
+      "name": "General"
+    },
+    {
+      "id": "4268",
+      "name": "Indian"
+    },
+    {
+      "id": "4269",
+      "name": "Japanese"
+    },
+    {
+      "id": "13922571011",
+      "name": "Korean"
+    },
+    {
+      "id": "4267",
+      "name": "Pacific Rim"
+    },
+    {
+      "id": "13922572011",
+      "name": "Southeast Asian"
+    },
+    {
+      "id": "4270",
+      "name": "Thai"
+    },
+    {
+      "id": "4271",
+      "name": "Vietnamese"
+    },
+    {
+      "id": "4272",
+      "name": "Wok Cookery"
+    }
+  ]
+}

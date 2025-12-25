@@ -1,0 +1,23 @@
+{
+  "id": "17861267011",
+  "name": "Comics & Graphic Novels",
+  "level": 1,
+  "parentId": "301889",
+  "isLeaf": false,
+  "path": [
+    "LGBTQ+ Books",
+    "Comics & Graphic Novels"
+  ],
+  "nodes": [
+    {
+      "id": "7421466011",
+      "name": "Graphic Novels"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "8953370011",
+      "name": "Manga"
+    }
+  ]
+}

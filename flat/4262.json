@@ -1,0 +1,67 @@
+{
+  "id": "4262",
+  "name": "Regional & International",
+  "level": 1,
+  "parentId": "6",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Regional & International"
+  ],
+  "nodes": [
+    {
+      "id": "4264",
+      "name": "Asian"
+    },
+    {
+      "id": "4275",
+      "name": "European"
+    },
+    {
+      "id": "4300",
+      "name": "U.S. Regional"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "4263",
+      "name": "African"
+    },
+    {
+      "id": "4273",
+      "name": "Canadian"
+    },
+    {
+      "id": "4274",
+      "name": "Caribbean & West Indian"
+    },
+    {
+      "id": "4295",
+      "name": "General"
+    },
+    {
+      "id": "4299",
+      "name": "Indigenous Food of the Americas"
+    },
+    {
+      "id": "4296",
+      "name": "International"
+    },
+    {
+      "id": "4297",
+      "name": "Latin American"
+    },
+    {
+      "id": "4298",
+      "name": "Mexican"
+    },
+    {
+      "id": "691990",
+      "name": "Middle Eastern"
+    },
+    {
+      "id": "206206519011",
+      "name": "Native American"
+    }
+  ]
+}

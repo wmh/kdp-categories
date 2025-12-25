@@ -1,0 +1,27 @@
+{
+  "id": "227138",
+  "name": "Tax Law",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Tax Law"
+  ],
+  "nodes": [
+    {
+      "id": "10869",
+      "name": "Estates & Trusts"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10991",
+      "name": "General"
+    },
+    {
+      "id": "2380504011",
+      "name": "International"
+    }
+  ]
+}

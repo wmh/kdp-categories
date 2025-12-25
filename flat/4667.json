@@ -1,0 +1,31 @@
+{
+  "id": "4667",
+  "name": "Men's Health",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Men's Health"
+  ],
+  "nodes": [
+    {
+      "id": "4670",
+      "name": "Sexual Health & Impotence"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "4668",
+      "name": "General"
+    },
+    {
+      "id": "4669",
+      "name": "Hair Loss"
+    },
+    {
+      "id": "6519374011",
+      "name": "Prostate Health"
+    }
+  ]
+}

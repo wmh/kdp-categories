@@ -1,0 +1,28 @@
+{
+  "id": "14507",
+  "name": "Natural Resources",
+  "level": 2,
+  "parentId": "14452",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Natural Resources"
+  ],
+  "nodes": [
+    {
+      "id": "14511",
+      "name": "Forests & Forestry"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "14509",
+      "name": "Fisheries & Aquaculture"
+    },
+    {
+      "id": "14513",
+      "name": "General"
+    }
+  ]
+}

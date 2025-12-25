@@ -1,0 +1,29 @@
+{
+  "id": "271624011",
+  "name": "Asian",
+  "level": 3,
+  "parentId": "10159384011",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Poetry",
+    "Regional & Cultural",
+    "Asian"
+  ],
+  "nodes": [
+    {
+      "id": "10271",
+      "name": "Japanese & Haiku"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10252",
+      "name": "Chinese"
+    },
+    {
+      "id": "10159386011",
+      "name": "General"
+    }
+  ]
+}

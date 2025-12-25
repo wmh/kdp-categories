@@ -1,0 +1,94 @@
+{
+  "id": "10",
+  "name": "Health, Fitness & Dieting",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "4716",
+      "name": "Addiction & Recovery"
+    },
+    {
+      "id": "282840",
+      "name": "Aging"
+    },
+    {
+      "id": "4696",
+      "name": "Alternative Medicine"
+    },
+    {
+      "id": "4601",
+      "name": "Beauty, Grooming, & Style"
+    },
+    {
+      "id": "282948",
+      "name": "Children & Adolescent's Health"
+    },
+    {
+      "id": "4613",
+      "name": "Diets & Weight Loss"
+    },
+    {
+      "id": "4656",
+      "name": "Diseases & Physical Ailments"
+    },
+    {
+      "id": "4645",
+      "name": "Exercise & Fitness"
+    },
+    {
+      "id": "4667",
+      "name": "Men's Health"
+    },
+    {
+      "id": "4682",
+      "name": "Mental Health"
+    },
+    {
+      "id": "282861",
+      "name": "Nutrition"
+    },
+    {
+      "id": "282800",
+      "name": "Personal Health"
+    },
+    {
+      "id": "11119",
+      "name": "Psychology & Counseling"
+    },
+    {
+      "id": "465688",
+      "name": "Safety & First Aid"
+    },
+    {
+      "id": "6514340011",
+      "name": "Sexual Health"
+    },
+    {
+      "id": "4672",
+      "name": "Women's Health"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "298657",
+      "name": "General"
+    },
+    {
+      "id": "4728",
+      "name": "Reference"
+    },
+    {
+      "id": "10075829011",
+      "name": "Sports Health & Safety"
+    },
+    {
+      "id": "6511978011",
+      "name": "Teen Health"
+    },
+    {
+      "id": "13922584011",
+      "name": "Vaccinations"
+    }
+  ]
+}

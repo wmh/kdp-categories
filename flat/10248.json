@@ -1,0 +1,59 @@
+{
+  "id": "10248",
+  "name": "Poetry",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Poetry"
+  ],
+  "nodes": [
+    {
+      "id": "271623011",
+      "name": "Ancient, Classical & Medieval"
+    },
+    {
+      "id": "10271",
+      "name": "Japanese & Haiku"
+    },
+    {
+      "id": "10159384011",
+      "name": "Regional & Cultural"
+    },
+    {
+      "id": "10159396011",
+      "name": "Themes & Styles"
+    },
+    {
+      "id": "9966",
+      "name": "United States"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10250",
+      "name": "Anthologies"
+    },
+    {
+      "id": "10096",
+      "name": "British & Irish"
+    },
+    {
+      "id": "10259",
+      "name": "General"
+    },
+    {
+      "id": "10277",
+      "name": "Love Poems"
+    },
+    {
+      "id": "10285",
+      "name": "Single Authors"
+    },
+    {
+      "id": "10159402011",
+      "name": "Women Authors"
+    }
+  ]
+}

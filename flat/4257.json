@@ -1,0 +1,18 @@
+{
+  "id": "4257",
+  "name": "Quick & Easy",
+  "level": 1,
+  "parentId": "6",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Quick & Easy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4259",
+      "name": "General"
+    }
+  ]
+}

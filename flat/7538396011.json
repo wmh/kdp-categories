@@ -1,0 +1,36 @@
+{
+  "id": "7538396011",
+  "name": "Cozy",
+  "level": 2,
+  "parentId": "10457",
+  "isLeaf": false,
+  "path": [
+    "Mystery, Thriller & Suspense",
+    "Mystery",
+    "Cozy"
+  ],
+  "nodes": [
+    {
+      "id": "9536058011",
+      "name": "Animals"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "206206571011",
+      "name": "Cozy Books, Bookstores & Libraries"
+    },
+    {
+      "id": "9536059011",
+      "name": "Crafts & Hobbies"
+    },
+    {
+      "id": "9536060011",
+      "name": "Culinary"
+    },
+    {
+      "id": "9536061011",
+      "name": "General"
+    }
+  ]
+}

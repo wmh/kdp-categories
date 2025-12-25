@@ -1,0 +1,20 @@
+{
+  "id": "226994",
+  "name": "Electric Machinery & Motors",
+  "level": 3,
+  "parentId": "227544",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Electrical & Electronics",
+    "Electric Machinery & Motors"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883967011",
+      "name": "Electric Machinery"
+    }
+  ]
+}

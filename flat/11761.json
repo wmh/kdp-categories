@@ -1,0 +1,30 @@
+{
+  "id": "11761",
+  "name": "Etiquette",
+  "level": 1,
+  "parentId": "21",
+  "isLeaf": false,
+  "path": [
+    "Reference",
+    "Etiquette"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11763",
+      "name": "Conversation"
+    },
+    {
+      "id": "11765",
+      "name": "Etiquette Guides & Advice"
+    },
+    {
+      "id": "11769",
+      "name": "Rules of Order"
+    },
+    {
+      "id": "572310",
+      "name": "Weddings"
+    }
+  ]
+}

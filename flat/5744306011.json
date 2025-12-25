@@ -1,0 +1,38 @@
+{
+  "id": "5744306011",
+  "name": "Health & Medical Law",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Health & Medical Law"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "3568217011",
+      "name": "Elder Law"
+    },
+    {
+      "id": "10889",
+      "name": "Health Law"
+    },
+    {
+      "id": "10936",
+      "name": "Malpractice"
+    },
+    {
+      "id": "10943",
+      "name": "Medical Law & Legislation"
+    },
+    {
+      "id": "10946",
+      "name": "Mental Health"
+    },
+    {
+      "id": "10981",
+      "name": "Right to Die"
+    }
+  ]
+}

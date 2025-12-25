@@ -1,0 +1,19 @@
+{
+  "id": "14563",
+  "name": "Light",
+  "level": 2,
+  "parentId": "14545",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Physics",
+    "Light"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16052171",
+      "name": "General"
+    }
+  ]
+}

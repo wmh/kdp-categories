@@ -1,0 +1,67 @@
+{
+  "id": "4840",
+  "name": "South America",
+  "level": 2,
+  "parentId": "4808",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "Americas",
+    "South America"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4841",
+      "name": "Argentina"
+    },
+    {
+      "id": "4842",
+      "name": "Bolivia"
+    },
+    {
+      "id": "4843",
+      "name": "Brazil"
+    },
+    {
+      "id": "4844",
+      "name": "Chile"
+    },
+    {
+      "id": "4845",
+      "name": "Colombia"
+    },
+    {
+      "id": "4846",
+      "name": "Ecuador"
+    },
+    {
+      "id": "15812811",
+      "name": "General"
+    },
+    {
+      "id": "4847",
+      "name": "Guyana"
+    },
+    {
+      "id": "4848",
+      "name": "Paraguay"
+    },
+    {
+      "id": "4849",
+      "name": "Peru"
+    },
+    {
+      "id": "4850",
+      "name": "Suriname"
+    },
+    {
+      "id": "4851",
+      "name": "Uruguay"
+    },
+    {
+      "id": "4852",
+      "name": "Venezuela"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "227670",
+  "name": "Reference",
+  "level": 2,
+  "parentId": "265542",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine",
+    "Reference"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "227673",
+      "name": "Drug Guides"
+    },
+    {
+      "id": "3559289011",
+      "name": "Education & Training"
+    },
+    {
+      "id": "227671",
+      "name": "General"
+    },
+    {
+      "id": "227674",
+      "name": "Instruments & Supplies"
+    },
+    {
+      "id": "227675",
+      "name": "Medical Atlases"
+    },
+    {
+      "id": "227672",
+      "name": "Medicine"
+    }
+  ]
+}

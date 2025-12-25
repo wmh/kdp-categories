@@ -1,0 +1,251 @@
+{
+  "id": "14278871",
+  "name": "State & Local",
+  "level": 2,
+  "parentId": "4853",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "United States",
+    "State & Local"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "14278881",
+      "name": "Alabama"
+    },
+    {
+      "id": "14278891",
+      "name": "Alaska"
+    },
+    {
+      "id": "14278901",
+      "name": "Arizona"
+    },
+    {
+      "id": "14278911",
+      "name": "Arkansas"
+    },
+    {
+      "id": "14278921",
+      "name": "California"
+    },
+    {
+      "id": "14278931",
+      "name": "Colorado"
+    },
+    {
+      "id": "14278941",
+      "name": "Connecticut"
+    },
+    {
+      "id": "14278951",
+      "name": "Delaware"
+    },
+    {
+      "id": "14278961",
+      "name": "Florida"
+    },
+    {
+      "id": "4872",
+      "name": "General"
+    },
+    {
+      "id": "14278971",
+      "name": "Georgia"
+    },
+    {
+      "id": "14278981",
+      "name": "Hawaii"
+    },
+    {
+      "id": "14278991",
+      "name": "Idaho"
+    },
+    {
+      "id": "14279001",
+      "name": "Illinois"
+    },
+    {
+      "id": "14279011",
+      "name": "Indiana"
+    },
+    {
+      "id": "14279021",
+      "name": "Iowa"
+    },
+    {
+      "id": "14279031",
+      "name": "Kansas"
+    },
+    {
+      "id": "14279041",
+      "name": "Kentucky"
+    },
+    {
+      "id": "14279051",
+      "name": "Louisiana"
+    },
+    {
+      "id": "14279061",
+      "name": "Maine"
+    },
+    {
+      "id": "14279071",
+      "name": "Maryland"
+    },
+    {
+      "id": "14279081",
+      "name": "Massachusetts"
+    },
+    {
+      "id": "14279091",
+      "name": "Michigan"
+    },
+    {
+      "id": "15812951",
+      "name": "Mid-Atlantic"
+    },
+    {
+      "id": "15812981",
+      "name": "Midwest"
+    },
+    {
+      "id": "14279101",
+      "name": "Minnesota"
+    },
+    {
+      "id": "14279111",
+      "name": "Mississippi"
+    },
+    {
+      "id": "14279121",
+      "name": "Missouri"
+    },
+    {
+      "id": "14279131",
+      "name": "Montana"
+    },
+    {
+      "id": "14279141",
+      "name": "Nebraska"
+    },
+    {
+      "id": "14279151",
+      "name": "Nevada"
+    },
+    {
+      "id": "15812941",
+      "name": "New England"
+    },
+    {
+      "id": "14279161",
+      "name": "New Hampshire"
+    },
+    {
+      "id": "14279171",
+      "name": "New Jersey"
+    },
+    {
+      "id": "14279181",
+      "name": "New Mexico"
+    },
+    {
+      "id": "14279191",
+      "name": "New York"
+    },
+    {
+      "id": "14279201",
+      "name": "North Carolina"
+    },
+    {
+      "id": "14279211",
+      "name": "North Dakota"
+    },
+    {
+      "id": "14279221",
+      "name": "Ohio"
+    },
+    {
+      "id": "14279231",
+      "name": "Oklahoma"
+    },
+    {
+      "id": "14279241",
+      "name": "Oregon"
+    },
+    {
+      "id": "15813001",
+      "name": "Pacific Northwest"
+    },
+    {
+      "id": "14279251",
+      "name": "Pennsylvania"
+    },
+    {
+      "id": "14279261",
+      "name": "Rhode Island"
+    },
+    {
+      "id": "15812961",
+      "name": "South"
+    },
+    {
+      "id": "14279271",
+      "name": "South Carolina"
+    },
+    {
+      "id": "14279281",
+      "name": "South Dakota"
+    },
+    {
+      "id": "15812971",
+      "name": "Southwest"
+    },
+    {
+      "id": "14279291",
+      "name": "Tennessee"
+    },
+    {
+      "id": "14279301",
+      "name": "Texas"
+    },
+    {
+      "id": "14279311",
+      "name": "Utah"
+    },
+    {
+      "id": "14279321",
+      "name": "Vermont"
+    },
+    {
+      "id": "14279331",
+      "name": "Virginia"
+    },
+    {
+      "id": "14279341",
+      "name": "Washington"
+    },
+    {
+      "id": "16004341",
+      "name": "Washington D.C."
+    },
+    {
+      "id": "15812991",
+      "name": "West"
+    },
+    {
+      "id": "14279351",
+      "name": "West Virginia"
+    },
+    {
+      "id": "14282361",
+      "name": "Wisconsin"
+    },
+    {
+      "id": "14282371",
+      "name": "Wyoming"
+    }
+  ]
+}

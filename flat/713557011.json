@@ -1,0 +1,32 @@
+{
+  "id": "713557011",
+  "name": "Materials Science",
+  "level": 3,
+  "parentId": "226704",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Materials & Material Science",
+    "Materials Science"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "226705",
+      "name": "Ceramics"
+    },
+    {
+      "id": "16926974011",
+      "name": "Electronic Materials"
+    },
+    {
+      "id": "16926975011",
+      "name": "Metals & Alloys"
+    },
+    {
+      "id": "16926976011",
+      "name": "Thin Films, Surfaces & Interfaces"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "173515",
+  "name": "Engineering",
+  "level": 1,
+  "parentId": "173507",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering"
+  ],
+  "nodes": [
+    {
+      "id": "226498",
+      "name": "Aerospace"
+    },
+    {
+      "id": "13647",
+      "name": "Automotive"
+    },
+    {
+      "id": "226506",
+      "name": "Bioengineering"
+    },
+    {
+      "id": "227539",
+      "name": "Chemical"
+    },
+    {
+      "id": "227541",
+      "name": "Civil & Environmental"
+    },
+    {
+      "id": "227543",
+      "name": "Computer Modelling"
+    },
+    {
+      "id": "8082404011",
+      "name": "Construction"
+    },
+    {
+      "id": "227544",
+      "name": "Electrical & Electronics"
+    },
+    {
+      "id": "52215011",
+      "name": "Energy Production & Extraction"
+    },
+    {
+      "id": "227550",
+      "name": "Industrial, Manufacturing & Operational Systems"
+    },
+    {
+      "id": "107157011",
+      "name": "Marine Engineering"
+    },
+    {
+      "id": "226704",
+      "name": "Materials & Material Science"
+    },
+    {
+      "id": "13778",
+      "name": "Mechanical"
+    },
+    {
+      "id": "13803",
+      "name": "Reference"
+    },
+    {
+      "id": "13809",
+      "name": "Telecommunications & Sensors"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "52168011",
+      "name": "Design"
+    },
+    {
+      "id": "13756",
+      "name": "General"
+    },
+    {
+      "id": "226719",
+      "name": "Military Technology"
+    }
+  ]
+}

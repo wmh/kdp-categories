@@ -1,0 +1,27 @@
+{
+  "id": "16252591",
+  "name": "Mesopotamia",
+  "level": 2,
+  "parentId": "4873",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "Ancient Civilizations",
+    "Mesopotamia"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "202438645011",
+      "name": "Assyria"
+    },
+    {
+      "id": "202438643011",
+      "name": "Babylonia"
+    },
+    {
+      "id": "202438644011",
+      "name": "Sumer"
+    }
+  ]
+}

@@ -174,7 +174,7 @@ This dataset was scraped from Amazon KDP using Playwright automation.
 
 ## 📅 Last Updated
 
-December 24, 2025
+December 25, 2025
 
 ## 📄 License
 

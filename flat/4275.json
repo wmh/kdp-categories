@@ -1,0 +1,75 @@
+{
+  "id": "4275",
+  "name": "European",
+  "level": 2,
+  "parentId": "4262",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Regional & International",
+    "European"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4278",
+      "name": "Eastern European"
+    },
+    {
+      "id": "4276",
+      "name": "English, Scottish & Welsh"
+    },
+    {
+      "id": "4280",
+      "name": "French"
+    },
+    {
+      "id": "4281",
+      "name": "German"
+    },
+    {
+      "id": "4282",
+      "name": "Greek"
+    },
+    {
+      "id": "4283",
+      "name": "Hungarian"
+    },
+    {
+      "id": "4284",
+      "name": "Irish"
+    },
+    {
+      "id": "4285",
+      "name": "Italian"
+    },
+    {
+      "id": "4286",
+      "name": "Mediterranean"
+    },
+    {
+      "id": "4287",
+      "name": "Polish"
+    },
+    {
+      "id": "4288",
+      "name": "Portuguese"
+    },
+    {
+      "id": "4289",
+      "name": "Russian"
+    },
+    {
+      "id": "4290",
+      "name": "Scandinavian"
+    },
+    {
+      "id": "4292",
+      "name": "Spanish"
+    },
+    {
+      "id": "4293",
+      "name": "Turkish"
+    }
+  ]
+}

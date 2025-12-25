@@ -1,0 +1,38 @@
+{
+  "id": "4601",
+  "name": "Beauty, Grooming, & Style",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Beauty, Grooming, & Style"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4602",
+      "name": "Cosmetics"
+    },
+    {
+      "id": "4604",
+      "name": "General"
+    },
+    {
+      "id": "4605",
+      "name": "Hair"
+    },
+    {
+      "id": "6511973011",
+      "name": "Men's Grooming & Style"
+    },
+    {
+      "id": "4606",
+      "name": "Skin Care"
+    },
+    {
+      "id": "6511972011",
+      "name": "Style & Clothing"
+    }
+  ]
+}

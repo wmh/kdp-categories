@@ -1,0 +1,84 @@
+{
+  "id": "227199",
+  "name": "Surgery",
+  "level": 2,
+  "parentId": "265542",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine",
+    "Surgery"
+  ],
+  "nodes": [
+    {
+      "id": "227716",
+      "name": "Thoracic & Vascular"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "18882721011",
+      "name": "Abdominal"
+    },
+    {
+      "id": "227686",
+      "name": "Anesthesiology"
+    },
+    {
+      "id": "227713",
+      "name": "Colon & Rectal"
+    },
+    {
+      "id": "265543",
+      "name": "General Surgery"
+    },
+    {
+      "id": "10166938011",
+      "name": "Laparoscopic & Robotic"
+    },
+    {
+      "id": "227200",
+      "name": "Neurosurgery"
+    },
+    {
+      "id": "18882722011",
+      "name": "Oncology"
+    },
+    {
+      "id": "227196",
+      "name": "Ophthalmology"
+    },
+    {
+      "id": "227714",
+      "name": "Oral & Maxillofacial"
+    },
+    {
+      "id": "265776",
+      "name": "Orthopedics"
+    },
+    {
+      "id": "227691",
+      "name": "Otolaryngology"
+    },
+    {
+      "id": "18882723011",
+      "name": "Pediatric"
+    },
+    {
+      "id": "227201",
+      "name": "Plastic"
+    },
+    {
+      "id": "18882724011",
+      "name": "Reproductive & Urological"
+    },
+    {
+      "id": "3559290011",
+      "name": "Transplants"
+    },
+    {
+      "id": "227717",
+      "name": "Trauma"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "5391238011",
+  "name": "Mythology & Folk Tales",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Mythology & Folk Tales"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "297517",
+      "name": "Fairy Tales"
+    },
+    {
+      "id": "12615",
+      "name": "Folklore"
+    },
+    {
+      "id": "12599",
+      "name": "Mythology"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "4884",
+  "name": "Asia",
+  "level": 1,
+  "parentId": "9",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "Asia"
+  ],
+  "nodes": [
+    {
+      "id": "271588011",
+      "name": "Korea"
+    },
+    {
+      "id": "4919",
+      "name": "Vietnam"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "4885",
+      "name": "Afghanistan"
+    },
+    {
+      "id": "69261",
+      "name": "Armenia"
+    },
+    {
+      "id": "4886",
+      "name": "Bangladesh"
+    },
+    {
+      "id": "4888",
+      "name": "Bhutan"
+    },
+    {
+      "id": "4889",
+      "name": "Brunei"
+    },
+    {
+      "id": "4890",
+      "name": "Cambodia"
+    },
+    {
+      "id": "16252711",
+      "name": "Central Asia"
+    },
+    {
+      "id": "4891",
+      "name": "China"
+    },
+    {
+      "id": "16252701",
+      "name": "Far East"
+    },
+    {
+      "id": "4892",
+      "name": "General"
+    },
+    {
+      "id": "4893",
+      "name": "Georgia"
+    },
+    {
+      "id": "4894",
+      "name": "Hong Kong"
+    },
+    {
+      "id": "4895",
+      "name": "India"
+    },
+    {
+      "id": "4896",
+      "name": "Indonesia"
+    },
+    {
+      "id": "4897",
+      "name": "Japan"
+    },
+    {
+      "id": "4900",
+      "name": "Laos"
+    },
+    {
+      "id": "4901",
+      "name": "Malaysia"
+    },
+    {
+      "id": "4902",
+      "name": "Maldives"
+    },
+    {
+      "id": "4903",
+      "name": "Mauritius"
+    },
+    {
+      "id": "4904",
+      "name": "Mongolia"
+    },
+    {
+      "id": "4905",
+      "name": "Myanmar"
+    },
+    {
+      "id": "4906",
+      "name": "Nepal"
+    },
+    {
+      "id": "4907",
+      "name": "Pakistan"
+    },
+    {
+      "id": "4908",
+      "name": "Philippines"
+    },
+    {
+      "id": "5032",
+      "name": "Russia"
+    },
+    {
+      "id": "4911",
+      "name": "Singapore"
+    },
+    {
+      "id": "16252721",
+      "name": "South Asia"
+    },
+    {
+      "id": "16252731",
+      "name": "Southeast Asia"
+    },
+    {
+      "id": "4913",
+      "name": "Sri Lanka"
+    },
+    {
+      "id": "4914",
+      "name": "Taiwan"
+    },
+    {
+      "id": "4915",
+      "name": "Thailand"
+    },
+    {
+      "id": "4916",
+      "name": "Tibet"
+    }
+  ]
+}

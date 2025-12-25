@@ -1,0 +1,74 @@
+{
+  "id": "4256",
+  "name": "Kitchen Appliances",
+  "level": 1,
+  "parentId": "6",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Kitchen Appliances"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "7661738011",
+      "name": "Blenders"
+    },
+    {
+      "id": "7661739011",
+      "name": "Bread Machines"
+    },
+    {
+      "id": "7661740011",
+      "name": "Cast Iron"
+    },
+    {
+      "id": "7661741011",
+      "name": "Dehydrators"
+    },
+    {
+      "id": "7661742011",
+      "name": "Dutch Ovens"
+    },
+    {
+      "id": "7661743011",
+      "name": "Fondue Pots"
+    },
+    {
+      "id": "7661744011",
+      "name": "Food Processors"
+    },
+    {
+      "id": "7661747011",
+      "name": "Frozen Desserts"
+    },
+    {
+      "id": "7661745011",
+      "name": "Fryers"
+    },
+    {
+      "id": "7661746011",
+      "name": "General"
+    },
+    {
+      "id": "7661748011",
+      "name": "Juicers"
+    },
+    {
+      "id": "7661749011",
+      "name": "Pressure Cookers"
+    },
+    {
+      "id": "7661750011",
+      "name": "Rice Cookers"
+    },
+    {
+      "id": "7661751011",
+      "name": "Slow Cookers"
+    },
+    {
+      "id": "4272",
+      "name": "Woks"
+    }
+  ]
+}

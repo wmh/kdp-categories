@@ -1,0 +1,12 @@
+{
+  "id": "10534",
+  "name": "Repair & Maintenance",
+  "level": 3,
+  "parentId": "10503",
+  "path": [
+    "Engineering & Transportation",
+    "Transportation",
+    "Automotive",
+    "Repair & Maintenance"
+  ]
+}

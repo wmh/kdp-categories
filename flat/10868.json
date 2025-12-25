@@ -1,0 +1,26 @@
+{
+  "id": "10868",
+  "name": "Environmental & Natural Resources Law",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Environmental & Natural Resources Law"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "119235588011",
+      "name": "Animal Law"
+    },
+    {
+      "id": "8883981011",
+      "name": "Environmental Law"
+    },
+    {
+      "id": "8883982011",
+      "name": "Natural Resources Law"
+    }
+  ]
+}

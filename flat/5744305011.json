@@ -1,0 +1,27 @@
+{
+  "id": "5744305011",
+  "name": "Estate Planning",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Estate Planning"
+  ],
+  "nodes": [
+    {
+      "id": "10869",
+      "name": "Estates & Trusts"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10934",
+      "name": "Living Trusts"
+    },
+    {
+      "id": "10999",
+      "name": "Wills"
+    }
+  ]
+}

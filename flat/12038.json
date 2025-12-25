@@ -1,0 +1,24 @@
+{
+  "id": "12038",
+  "name": "Science Fiction & Fantasy",
+  "level": 3,
+  "parentId": "12015",
+  "isLeaf": false,
+  "path": [
+    "Reference",
+    "Writing, Research & Publishing Guides",
+    "Writing",
+    "Science Fiction & Fantasy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8417574011",
+      "name": "Fantasy"
+    },
+    {
+      "id": "8417575011",
+      "name": "Science Fiction"
+    }
+  ]
+}

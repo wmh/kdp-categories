@@ -1,0 +1,28 @@
+{
+  "id": "227197",
+  "name": "Pediatrics",
+  "level": 3,
+  "parentId": "227203",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine",
+    "Internal Medicine",
+    "Pediatrics"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "227697",
+      "name": "Emergencies"
+    },
+    {
+      "id": "3559281011",
+      "name": "General Pediatrics"
+    },
+    {
+      "id": "227698",
+      "name": "Perinatology & Neonatology"
+    }
+  ]
+}

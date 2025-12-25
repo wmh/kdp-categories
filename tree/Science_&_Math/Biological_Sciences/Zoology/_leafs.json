@@ -1,0 +1,66 @@
+[
+  {
+    "id": "16310991",
+    "name": "Amphibians"
+  },
+  {
+    "id": "16311001",
+    "name": "Anatomy"
+  },
+  {
+    "id": "16311011",
+    "name": "Animal Behavior & Communication"
+  },
+  {
+    "id": "16311021",
+    "name": "Animal Psychology"
+  },
+  {
+    "id": "3049071",
+    "name": "General"
+  },
+  {
+    "id": "16311031",
+    "name": "Genetics"
+  },
+  {
+    "id": "3049091",
+    "name": "Ichthyology"
+  },
+  {
+    "id": "3049111",
+    "name": "Invertebrates"
+  },
+  {
+    "id": "3049131",
+    "name": "Mammals"
+  },
+  {
+    "id": "3049151",
+    "name": "Ornithology"
+  },
+  {
+    "id": "16311041",
+    "name": "Pathology & Parasitology"
+  },
+  {
+    "id": "16311051",
+    "name": "Physiology"
+  },
+  {
+    "id": "3049171",
+    "name": "Primatology"
+  },
+  {
+    "id": "16311061",
+    "name": "Reptiles"
+  },
+  {
+    "id": "16311141",
+    "name": "Research & Ethics"
+  },
+  {
+    "id": "16311071",
+    "name": "Vertebrates"
+  }
+]

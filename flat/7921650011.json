@@ -1,0 +1,29 @@
+{
+  "id": "7921650011",
+  "name": "Alternative & Renewable",
+  "level": 4,
+  "parentId": "52215011",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Conservation",
+    "Energy",
+    "Alternative & Renewable"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "107166011",
+      "name": "Hydroelectric"
+    },
+    {
+      "id": "52219011",
+      "name": "Solar"
+    },
+    {
+      "id": "52220011",
+      "name": "Wind"
+    }
+  ]
+}

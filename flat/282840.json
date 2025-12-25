@@ -1,0 +1,39 @@
+{
+  "id": "282840",
+  "name": "Aging",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Aging"
+  ],
+  "nodes": [
+    {
+      "id": "6515545011",
+      "name": "Beauty, Grooming & Style"
+    },
+    {
+      "id": "6515549011",
+      "name": "Medical Conditions & Diseases"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "11764645011",
+      "name": "Aging & Longevity"
+    },
+    {
+      "id": "6515550011",
+      "name": "Diets & Nutrition"
+    },
+    {
+      "id": "282938",
+      "name": "Exercise"
+    },
+    {
+      "id": "4655",
+      "name": "General"
+    }
+  ]
+}

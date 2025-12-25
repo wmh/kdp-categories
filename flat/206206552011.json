@@ -1,0 +1,35 @@
+{
+  "id": "206206552011",
+  "name": "Type",
+  "level": 2,
+  "parentId": "2159",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Dramas & Plays",
+    "Type"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "15991411",
+      "name": "Comedy"
+    },
+    {
+      "id": "206206553011",
+      "name": "Historical"
+    },
+    {
+      "id": "2216",
+      "name": "Religious & Liturgical"
+    },
+    {
+      "id": "15991421",
+      "name": "Tragedy"
+    },
+    {
+      "id": "206206554011",
+      "name": "Tragicomedy"
+    }
+  ]
+}

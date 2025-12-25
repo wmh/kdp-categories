@@ -1,13 +1,12 @@
 {
   "id": "2439",
-  "name": "LGBTQ+",
-  "level": 2,
-  "parentId": "2365",
+  "name": "Biographies & Memoirs",
+  "level": 1,
+  "parentId": "301889",
   "isLeaf": false,
   "path": [
-    "Biographies & Memoirs",
-    "Community & Culture",
-    "LGBTQ+"
+    "LGBTQ+ Books",
+    "Biographies & Memoirs"
   ],
   "nodes": [],
   "leafs": [

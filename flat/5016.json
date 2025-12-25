@@ -1,0 +1,31 @@
+{
+  "id": "5016",
+  "name": "Korean War",
+  "level": 2,
+  "parentId": "5011",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "Military",
+    "Korean War"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "465288",
+      "name": "Aviation"
+    },
+    {
+      "id": "465290",
+      "name": "Campaigns"
+    },
+    {
+      "id": "465286",
+      "name": "General"
+    },
+    {
+      "id": "465292",
+      "name": "Personal Narratives"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "4670",
+  "name": "Men's Sexual Health",
+  "level": 2,
+  "parentId": "6514340011",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Sexual Health",
+    "Men's Sexual Health"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883975011",
+      "name": "Impotence"
+    },
+    {
+      "id": "8883976011",
+      "name": "Sexual Health"
+    }
+  ]
+}

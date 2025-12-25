@@ -1,0 +1,59 @@
+{
+  "id": "13615",
+  "name": "Mineralogy",
+  "level": 2,
+  "parentId": "13592",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Earth Sciences",
+    "Mineralogy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16052791",
+      "name": "Clay"
+    },
+    {
+      "id": "16052761",
+      "name": "Crystallochemical"
+    },
+    {
+      "id": "16052711",
+      "name": "Determinative"
+    },
+    {
+      "id": "16052801",
+      "name": "Extraterrestrial & Meteorites"
+    },
+    {
+      "id": "16052771",
+      "name": "Gems"
+    },
+    {
+      "id": "16052701",
+      "name": "General"
+    },
+    {
+      "id": "16052781",
+      "name": "High Pressure"
+    },
+    {
+      "id": "16052731",
+      "name": "Microscopic"
+    },
+    {
+      "id": "16052741",
+      "name": "Mineralogical Chemistry"
+    },
+    {
+      "id": "16052721",
+      "name": "Optical"
+    },
+    {
+      "id": "16052751",
+      "name": "Thermochemical"
+    }
+  ]
+}

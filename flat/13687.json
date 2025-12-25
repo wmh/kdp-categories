@@ -1,0 +1,24 @@
+{
+  "id": "13687",
+  "name": "Robotics & Automation",
+  "level": 3,
+  "parentId": "13778",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Mechanical",
+    "Robotics & Automation"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "7921647011",
+      "name": "Automation"
+    },
+    {
+      "id": "8082406011",
+      "name": "Robotics"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "227137",
+  "name": "Constitutional Law",
+  "level": 1,
+  "parentId": "10777",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Constitutional Law"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10808",
+      "name": "Civil Rights"
+    },
+    {
+      "id": "10849",
+      "name": "Discrimination"
+    },
+    {
+      "id": "10817",
+      "name": "General"
+    },
+    {
+      "id": "10892",
+      "name": "Human Rights"
+    }
+  ]
+}

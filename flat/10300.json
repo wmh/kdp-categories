@@ -1,0 +1,22 @@
+{
+  "id": "10300",
+  "name": "Short Stories & Anthologies",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Short Stories & Anthologies"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10303",
+      "name": "Anthologies"
+    },
+    {
+      "id": "10307",
+      "name": "Short Stories"
+    }
+  ]
+}

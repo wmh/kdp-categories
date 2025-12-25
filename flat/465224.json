@@ -1,0 +1,40 @@
+{
+  "id": "465224",
+  "name": "Campaigns & Battlefields",
+  "level": 3,
+  "parentId": "4868",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "United States",
+    "Civil War",
+    "Campaigns & Battlefields"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "465226",
+      "name": "Antietam"
+    },
+    {
+      "id": "465228",
+      "name": "Appomattox"
+    },
+    {
+      "id": "465232",
+      "name": "Bull Run"
+    },
+    {
+      "id": "465238",
+      "name": "Fredericksburg"
+    },
+    {
+      "id": "465234",
+      "name": "General"
+    },
+    {
+      "id": "465240",
+      "name": "Gettysburg"
+    }
+  ]
+}

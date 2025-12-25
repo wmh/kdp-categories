@@ -1,0 +1,42 @@
+[
+  {
+    "id": "17745827011",
+    "name": "Domestic"
+  },
+  {
+    "id": "9536069011",
+    "name": "Financial"
+  },
+  {
+    "id": "10485",
+    "name": "General"
+  },
+  {
+    "id": "7538393011",
+    "name": "Historical"
+  },
+  {
+    "id": "10487",
+    "name": "Legal"
+  },
+  {
+    "id": "10489",
+    "name": "Medical"
+  },
+  {
+    "id": "7538394011",
+    "name": "Military"
+  },
+  {
+    "id": "10491",
+    "name": "Psychological Thrillers"
+  },
+  {
+    "id": "10495",
+    "name": "Suspense"
+  },
+  {
+    "id": "10497",
+    "name": "Technothrillers"
+  }
+]

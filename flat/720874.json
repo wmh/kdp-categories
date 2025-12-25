@@ -1,0 +1,23 @@
+{
+  "id": "720874",
+  "name": "Anatomy",
+  "level": 2,
+  "parentId": "13469",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Biological Sciences",
+    "Anatomy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298102011",
+      "name": "Anatomy & Physiology"
+    },
+    {
+      "id": "8298103011",
+      "name": "Human Anatomy & Physiology"
+    }
+  ]
+}

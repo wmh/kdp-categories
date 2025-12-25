@@ -1,0 +1,26 @@
+{
+  "id": "11436",
+  "name": "Disabilities & Hyperactivity",
+  "level": 1,
+  "parentId": "20",
+  "isLeaf": false,
+  "path": [
+    "Parenting & Relationships",
+    "Disabilities & Hyperactivity"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11437",
+      "name": "Disabilities"
+    },
+    {
+      "id": "11439",
+      "name": "General"
+    },
+    {
+      "id": "11441",
+      "name": "Hyperactivity"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "290127",
+  "name": "Nature Travel",
+  "level": 1,
+  "parentId": "26",
+  "isLeaf": false,
+  "path": [
+    "Sports & Outdoors",
+    "Nature Travel"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17213",
+      "name": "Ecotourism"
+    }
+  ]
+}

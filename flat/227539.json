@@ -1,0 +1,55 @@
+{
+  "id": "227539",
+  "name": "Chemical",
+  "level": 2,
+  "parentId": "173515",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Chemical"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "194813011",
+      "name": "Coatings, Ceramics & Glass"
+    },
+    {
+      "id": "7940340011",
+      "name": "Cosmetics"
+    },
+    {
+      "id": "3074641",
+      "name": "Fluid Dynamics"
+    },
+    {
+      "id": "13654",
+      "name": "General"
+    },
+    {
+      "id": "226512",
+      "name": "Materials"
+    },
+    {
+      "id": "226511",
+      "name": "Plant Design"
+    },
+    {
+      "id": "194814011",
+      "name": "Plastics"
+    },
+    {
+      "id": "226513",
+      "name": "Process Dynamics"
+    },
+    {
+      "id": "52182011",
+      "name": "Structural Properties"
+    },
+    {
+      "id": "226515",
+      "name": "Unit Operations & Transport Phenomena"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "17",
+  "name": "Literature & Fiction",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "720360",
+      "name": "Action & Adventure"
+    },
+    {
+      "id": "5391236011",
+      "name": "Ancient & Medieval Literature"
+    },
+    {
+      "id": "9823",
+      "name": "Black & African American"
+    },
+    {
+      "id": "10016",
+      "name": "British & Irish"
+    },
+    {
+      "id": "2159",
+      "name": "Dramas & Plays"
+    },
+    {
+      "id": "10141",
+      "name": "Erotica"
+    },
+    {
+      "id": "10108",
+      "name": "Essays & Correspondence"
+    },
+    {
+      "id": "10134",
+      "name": "Genre Fiction"
+    },
+    {
+      "id": "10177",
+      "name": "Historical Fiction"
+    },
+    {
+      "id": "10204",
+      "name": "History & Criticism"
+    },
+    {
+      "id": "4465",
+      "name": "Humor & Satire"
+    },
+    {
+      "id": "5391238011",
+      "name": "Mythology & Folk Tales"
+    },
+    {
+      "id": "10248",
+      "name": "Poetry"
+    },
+    {
+      "id": "10300",
+      "name": "Short Stories & Anthologies"
+    },
+    {
+      "id": "9822",
+      "name": "United States"
+    },
+    {
+      "id": "542654",
+      "name": "Women's Fiction"
+    },
+    {
+      "id": "10311",
+      "name": "World Literature"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10399",
+      "name": "Classics"
+    },
+    {
+      "id": "10129",
+      "name": "Contemporary"
+    },
+    {
+      "id": "24219998011",
+      "name": "Disability Fiction"
+    },
+    {
+      "id": "11043112011",
+      "name": "General"
+    },
+    {
+      "id": "10132",
+      "name": "Literary"
+    },
+    {
+      "id": "23504858011",
+      "name": "Own Voices"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "5744307011",
+  "name": "Test Preparation",
+  "level": 2,
+  "parentId": "10915",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Legal Education",
+    "Test Preparation"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "5744308011",
+      "name": "Bar Examination"
+    },
+    {
+      "id": "11691",
+      "name": "LSAT"
+    }
+  ]
+}

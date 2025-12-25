@@ -1,0 +1,46 @@
+{
+  "id": "542654",
+  "name": "Women's Fiction",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Women's Fiction"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "9059881011",
+      "name": "Black & African American"
+    },
+    {
+      "id": "3559170011",
+      "name": "Contemporary"
+    },
+    {
+      "id": "542660",
+      "name": "Divorce"
+    },
+    {
+      "id": "542656",
+      "name": "Domestic Life"
+    },
+    {
+      "id": "542662",
+      "name": "Friendship"
+    },
+    {
+      "id": "542658",
+      "name": "Mothers & Children"
+    },
+    {
+      "id": "542666",
+      "name": "Single Women"
+    },
+    {
+      "id": "542664",
+      "name": "Sisters"
+    }
+  ]
+}

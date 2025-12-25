@@ -1,0 +1,39 @@
+{
+  "id": "226697",
+  "name": "Electromagnetism",
+  "level": 2,
+  "parentId": "14545",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Physics",
+    "Electromagnetism"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16052211",
+      "name": "Dielectrics"
+    },
+    {
+      "id": "16052221",
+      "name": "Electric Conductivity"
+    },
+    {
+      "id": "16052201",
+      "name": "Electricity"
+    },
+    {
+      "id": "16052191",
+      "name": "General"
+    },
+    {
+      "id": "16052241",
+      "name": "Magnetism"
+    },
+    {
+      "id": "16052231",
+      "name": "Semiconductor Physics"
+    }
+  ]
+}

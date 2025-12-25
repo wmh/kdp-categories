@@ -1,0 +1,27 @@
+{
+  "id": "271588011",
+  "name": "Korea",
+  "level": 2,
+  "parentId": "4884",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "Asia",
+    "Korea"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "271589011",
+      "name": "General"
+    },
+    {
+      "id": "4898",
+      "name": "North"
+    },
+    {
+      "id": "4899",
+      "name": "South"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "4987",
+  "name": "Historical Study & Educational Resources",
+  "level": 1,
+  "parentId": "9",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "Historical Study & Educational Resources"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "11242",
+      "name": "Archaeology"
+    },
+    {
+      "id": "197501011",
+      "name": "Essays"
+    },
+    {
+      "id": "16244611",
+      "name": "Historical Geography"
+    },
+    {
+      "id": "11452",
+      "name": "Historical Maps"
+    },
+    {
+      "id": "4988",
+      "name": "Historiography"
+    },
+    {
+      "id": "4989",
+      "name": "Reference"
+    },
+    {
+      "id": "15812191",
+      "name": "Social History"
+    },
+    {
+      "id": "4991",
+      "name": "Study & Teaching"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "107157011",
+  "name": "Marine Engineering",
+  "level": 2,
+  "parentId": "173515",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Marine Engineering"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "226720",
+      "name": "Ocean & Coastal Engineering"
+    }
+  ]
+}

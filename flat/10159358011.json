@@ -1,0 +1,56 @@
+{
+  "id": "10159358011",
+  "name": "Regional & Cultural",
+  "level": 2,
+  "parentId": "10204",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "History & Criticism",
+    "Regional & Cultural"
+  ],
+  "nodes": [
+    {
+      "id": "271608011",
+      "name": "Asian"
+    },
+    {
+      "id": "271602011",
+      "name": "European"
+    },
+    {
+      "id": "9928",
+      "name": "United States"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "271601011",
+      "name": "African"
+    },
+    {
+      "id": "10159363011",
+      "name": "Australian & Oceanian"
+    },
+    {
+      "id": "10159364011",
+      "name": "Canadian"
+    },
+    {
+      "id": "10159365011",
+      "name": "Caribbean & Latin American"
+    },
+    {
+      "id": "10423",
+      "name": "Jewish"
+    },
+    {
+      "id": "10159374011",
+      "name": "Middle Eastern"
+    },
+    {
+      "id": "10159375011",
+      "name": "Russian & Soviet"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "10732",
+  "name": "Poetry",
+  "level": 2,
+  "parentId": "10719",
+  "isLeaf": false,
+  "path": [
+    "LGBTQ+ Books",
+    "Literature & Fiction",
+    "Poetry"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10256",
+      "name": "Gay"
+    },
+    {
+      "id": "10274",
+      "name": "Lesbian"
+    }
+  ]
+}

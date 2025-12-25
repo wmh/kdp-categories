@@ -1,0 +1,59 @@
+{
+  "id": "720360",
+  "name": "Action & Adventure",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Action & Adventure"
+  ],
+  "nodes": [
+    {
+      "id": "10159268011",
+      "name": "Mystery, Thriller & Suspense"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10192708011",
+      "name": "Classics"
+    },
+    {
+      "id": "10159265011",
+      "name": "Fantasy"
+    },
+    {
+      "id": "10159266011",
+      "name": "General"
+    },
+    {
+      "id": "10159267011",
+      "name": "Men's Adventure"
+    },
+    {
+      "id": "10159272011",
+      "name": "Romance"
+    },
+    {
+      "id": "16273",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "10159273011",
+      "name": "Sea Adventures"
+    },
+    {
+      "id": "10159274011",
+      "name": "Short Stories"
+    },
+    {
+      "id": "10159275011",
+      "name": "War & Military"
+    },
+    {
+      "id": "10159276011",
+      "name": "Women's Adventure"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "11047977011",
+  "name": "Family Life",
+  "level": 2,
+  "parentId": "10134",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Genre Fiction",
+    "Family Life"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17745815011",
+      "name": "General"
+    },
+    {
+      "id": "17745816011",
+      "name": "Marriage & Divorce"
+    },
+    {
+      "id": "211758952011",
+      "name": "Multigenerational"
+    },
+    {
+      "id": "211758953011",
+      "name": "Parenthood & Children"
+    },
+    {
+      "id": "17745817011",
+      "name": "Siblings"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "4224",
+  "name": "Wine & Spirits",
+  "level": 2,
+  "parentId": "4219",
+  "path": [
+    "6",
+    "Beverages & Wine",
+    "Wine & Spirits"
+  ]
+}

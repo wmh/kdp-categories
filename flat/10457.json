@@ -1,0 +1,67 @@
+{
+  "id": "10457",
+  "name": "Mystery",
+  "level": 1,
+  "parentId": "18",
+  "isLeaf": false,
+  "path": [
+    "Mystery, Thriller & Suspense",
+    "Mystery"
+  ],
+  "nodes": [
+    {
+      "id": "7538396011",
+      "name": "Cozy"
+    },
+    {
+      "id": "9536081011",
+      "name": "Supernatural"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "11764650011",
+      "name": "Amateur Sleuths"
+    },
+    {
+      "id": "10459",
+      "name": "Anthologies"
+    },
+    {
+      "id": "9059878011",
+      "name": "Black & African American"
+    },
+    {
+      "id": "10466",
+      "name": "General"
+    },
+    {
+      "id": "10468",
+      "name": "Hard-Boiled"
+    },
+    {
+      "id": "10470",
+      "name": "Historical"
+    },
+    {
+      "id": "7538397011",
+      "name": "International Mystery & Crime"
+    },
+    {
+      "id": "10482",
+      "name": "Police Procedurals"
+    },
+    {
+      "id": "7538398011",
+      "name": "Private Investigators"
+    },
+    {
+      "id": "10461",
+      "name": "Traditional Detectives"
+    },
+    {
+      "id": "10480",
+      "name": "Women Sleuths"
+    }
+  ]
+}

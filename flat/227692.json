@@ -1,0 +1,37 @@
+{
+  "id": "227692",
+  "name": "Pathology",
+  "level": 3,
+  "parentId": "227203",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine",
+    "Internal Medicine",
+    "Pathology"
+  ],
+  "nodes": [
+    {
+      "id": "14116",
+      "name": "Diseases"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "227694",
+      "name": "Clinical Chemistry"
+    },
+    {
+      "id": "227695",
+      "name": "Forensic Medicine"
+    },
+    {
+      "id": "227693",
+      "name": "General"
+    },
+    {
+      "id": "227696",
+      "name": "Laboratory Medicine"
+    }
+  ]
+}

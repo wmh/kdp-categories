@@ -1,0 +1,22 @@
+{
+  "id": "11626",
+  "name": "Catalogs & Directories",
+  "level": 1,
+  "parentId": "21",
+  "isLeaf": false,
+  "path": [
+    "Reference",
+    "Catalogs & Directories"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "170940",
+      "name": "Catalogs"
+    },
+    {
+      "id": "170941",
+      "name": "Directories"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "226498",
+  "name": "Aerospace",
+  "level": 2,
+  "parentId": "173515",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Aerospace"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "226499",
+      "name": "Aerodynamics"
+    },
+    {
+      "id": "107150011",
+      "name": "Aircraft Design & Construction"
+    },
+    {
+      "id": "107149011",
+      "name": "Applied"
+    },
+    {
+      "id": "7921644011",
+      "name": "Astronautics & Space Flight"
+    },
+    {
+      "id": "107152011",
+      "name": "Avionics"
+    },
+    {
+      "id": "226502",
+      "name": "Gas Dynamics"
+    },
+    {
+      "id": "107148011",
+      "name": "General"
+    },
+    {
+      "id": "226503",
+      "name": "Heat Transfer"
+    },
+    {
+      "id": "226505",
+      "name": "Propulsion Technology"
+    }
+  ]
+}

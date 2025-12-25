@@ -1,0 +1,23 @@
+{
+  "id": "282819",
+  "name": "Ulcers & Gastritis",
+  "level": 2,
+  "parentId": "4656",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Diseases & Physical Ailments",
+    "Ulcers & Gastritis"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8929888011",
+      "name": "Gastritis"
+    },
+    {
+      "id": "8929889011",
+      "name": "Ulcers"
+    }
+  ]
+}

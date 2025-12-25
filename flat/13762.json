@@ -1,0 +1,24 @@
+{
+  "id": "13762",
+  "name": "Industrial Design",
+  "level": 3,
+  "parentId": "227550",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Industrial, Manufacturing & Operational Systems",
+    "Industrial Design"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "194818011",
+      "name": "Packaging"
+    },
+    {
+      "id": "7921653011",
+      "name": "Products"
+    }
+  ]
+}

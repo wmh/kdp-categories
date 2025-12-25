@@ -1,0 +1,24 @@
+{
+  "id": "13559",
+  "name": "Trees",
+  "level": 3,
+  "parentId": "13547",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Plants",
+    "Trees"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16310941",
+      "name": "General"
+    },
+    {
+      "id": "16310951",
+      "name": "Seed-Bearing Plants"
+    }
+  ]
+}

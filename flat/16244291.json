@@ -1,0 +1,34 @@
+{
+  "id": "16244291",
+  "name": "LGBTQ+ Demographic Studies",
+  "level": 1,
+  "parentId": "301889",
+  "isLeaf": false,
+  "path": [
+    "LGBTQ+ Books",
+    "LGBTQ+ Demographic Studies"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "18882727011",
+      "name": "Bisexual"
+    },
+    {
+      "id": "9147392011",
+      "name": "Gay"
+    },
+    {
+      "id": "13922615011",
+      "name": "General"
+    },
+    {
+      "id": "9147393011",
+      "name": "Lesbian"
+    },
+    {
+      "id": "18882728011",
+      "name": "Transgender"
+    }
+  ]
+}

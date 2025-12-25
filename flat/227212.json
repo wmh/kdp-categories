@@ -1,0 +1,46 @@
+{
+  "id": "227212",
+  "name": "Cancer",
+  "level": 5,
+  "parentId": "14116",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine",
+    "Internal Medicine",
+    "Pathology",
+    "Diseases",
+    "Cancer"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "18882713011",
+      "name": "Breast Cancer"
+    },
+    {
+      "id": "18882714011",
+      "name": "Leukemia & Lymphoma"
+    },
+    {
+      "id": "18882715011",
+      "name": "Lung Cancer"
+    },
+    {
+      "id": "18882716011",
+      "name": "Pediatric Cancer"
+    },
+    {
+      "id": "18882717011",
+      "name": "Prostate Cancer"
+    },
+    {
+      "id": "18882718011",
+      "name": "Skin Cancer"
+    },
+    {
+      "id": "18882722011",
+      "name": "Surgery"
+    }
+  ]
+}

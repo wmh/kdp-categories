@@ -1,0 +1,63 @@
+{
+  "id": "10311",
+  "name": "World Literature",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "World Literature"
+  ],
+  "nodes": [
+    {
+      "id": "10313",
+      "name": "African"
+    },
+    {
+      "id": "271599011",
+      "name": "Asian"
+    },
+    {
+      "id": "271600011",
+      "name": "European"
+    },
+    {
+      "id": "265787",
+      "name": "Middle Eastern"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16004541",
+      "name": "Australia & Oceania"
+    },
+    {
+      "id": "10324",
+      "name": "Canadian"
+    },
+    {
+      "id": "10425",
+      "name": "Caribbean & Latin American"
+    },
+    {
+      "id": "15959241",
+      "name": "General"
+    },
+    {
+      "id": "206206473011",
+      "name": "Indigenous"
+    },
+    {
+      "id": "16004751",
+      "name": "Jewish"
+    },
+    {
+      "id": "10433",
+      "name": "Russian & Soviet"
+    },
+    {
+      "id": "15959271",
+      "name": "Yiddish"
+    }
+  ]
+}

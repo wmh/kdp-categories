@@ -1,0 +1,32 @@
+{
+  "id": "52175011",
+  "name": "Properties",
+  "level": 3,
+  "parentId": "226704",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Materials & Material Science",
+    "Properties"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "52180011",
+      "name": "Electrical"
+    },
+    {
+      "id": "52181011",
+      "name": "Magnetic"
+    },
+    {
+      "id": "52178011",
+      "name": "Physical"
+    },
+    {
+      "id": "52179011",
+      "name": "Thermal"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "465688",
+  "name": "Safety & First Aid",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Safety & First Aid"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298087011",
+      "name": "First Aid"
+    },
+    {
+      "id": "8298088011",
+      "name": "Safety"
+    }
+  ]
+}

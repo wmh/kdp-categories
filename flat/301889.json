@@ -1,0 +1,46 @@
+{
+  "id": "301889",
+  "name": "LGBTQ+ Books",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "2439",
+      "name": "Biographies & Memoirs"
+    },
+    {
+      "id": "17861267011",
+      "name": "Comics & Graphic Novels"
+    },
+    {
+      "id": "16244291",
+      "name": "LGBTQ+ Demographic Studies"
+    },
+    {
+      "id": "10719",
+      "name": "Literature & Fiction"
+    },
+    {
+      "id": "301806",
+      "name": "Mysteries & Thrillers"
+    },
+    {
+      "id": "13922579011",
+      "name": "Romance"
+    },
+    {
+      "id": "17861278011",
+      "name": "Science Fiction & Fantasy"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "16926940011",
+      "name": "Humor"
+    },
+    {
+      "id": "17217",
+      "name": "LGBTQ+ Travel"
+    }
+  ]
+}

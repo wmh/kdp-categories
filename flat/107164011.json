@@ -1,0 +1,29 @@
+{
+  "id": "107164011",
+  "name": "Electric",
+  "level": 4,
+  "parentId": "52215011",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Conservation",
+    "Energy",
+    "Electric"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "107168011",
+      "name": "General"
+    },
+    {
+      "id": "107165011",
+      "name": "Power"
+    },
+    {
+      "id": "107169011",
+      "name": "Power Distribution"
+    }
+  ]
+}

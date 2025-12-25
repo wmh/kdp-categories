@@ -1,0 +1,86 @@
+{
+  "id": "21",
+  "name": "Reference",
+  "level": 0,
+  "isLeaf": false,
+  "nodes": [
+    {
+      "id": "11444",
+      "name": "Almanacs & Yearbooks"
+    },
+    {
+      "id": "11448",
+      "name": "Atlases & Maps"
+    },
+    {
+      "id": "2572",
+      "name": "Careers"
+    },
+    {
+      "id": "11626",
+      "name": "Catalogs & Directories"
+    },
+    {
+      "id": "11475",
+      "name": "Dictionaries & Thesauruses"
+    },
+    {
+      "id": "11713",
+      "name": "Encyclopedias & Subject Guides"
+    },
+    {
+      "id": "11761",
+      "name": "Etiquette"
+    },
+    {
+      "id": "11773",
+      "name": "Language Study & Reference"
+    },
+    {
+      "id": "5267710011",
+      "name": "Test Preparation"
+    },
+    {
+      "id": "11970",
+      "name": "Words, Language & Grammar"
+    },
+    {
+      "id": "5267707011",
+      "name": "Writing, Research & Publishing Guides"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "11472",
+      "name": "Consumer Guides"
+    },
+    {
+      "id": "11823",
+      "name": "English as a Second Language"
+    },
+    {
+      "id": "11880",
+      "name": "Genealogy"
+    },
+    {
+      "id": "408268",
+      "name": "General"
+    },
+    {
+      "id": "17745830011",
+      "name": "Personal & Private Investigations"
+    },
+    {
+      "id": "11902",
+      "name": "Quotations"
+    },
+    {
+      "id": "17745831011",
+      "name": "Signs & Symbols"
+    },
+    {
+      "id": "8975382011",
+      "name": "Survival & Emergency Preparedness"
+    }
+  ]
+}

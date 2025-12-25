@@ -1,0 +1,47 @@
+{
+  "id": "10165",
+  "name": "Genre Fiction",
+  "level": 2,
+  "parentId": "10719",
+  "isLeaf": false,
+  "path": [
+    "LGBTQ+ Books",
+    "Literature & Fiction",
+    "Genre Fiction"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17861268011",
+      "name": "Action & Adventure Fiction"
+    },
+    {
+      "id": "17861269011",
+      "name": "Classic Fiction"
+    },
+    {
+      "id": "17861270011",
+      "name": "Coming of Age Fiction"
+    },
+    {
+      "id": "17861271011",
+      "name": "Family Life Fiction"
+    },
+    {
+      "id": "17861272011",
+      "name": "Historical Fiction"
+    },
+    {
+      "id": "17861273011",
+      "name": "Horror Fiction"
+    },
+    {
+      "id": "17861274011",
+      "name": "Humorous Fiction"
+    },
+    {
+      "id": "17861275011",
+      "name": "Literary Fiction"
+    }
+  ]
+}

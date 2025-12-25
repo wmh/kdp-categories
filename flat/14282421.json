@@ -1,0 +1,68 @@
+{
+  "id": "14282421",
+  "name": "Bibliographies & Indexes",
+  "level": 3,
+  "parentId": "11891",
+  "isLeaf": false,
+  "path": [
+    "Reference",
+    "Writing, Research & Publishing Guides",
+    "Publishing & Books",
+    "Bibliographies & Indexes"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "14282511",
+      "name": "Agriculture"
+    },
+    {
+      "id": "14282461",
+      "name": "Art & Photography"
+    },
+    {
+      "id": "14282471",
+      "name": "Business"
+    },
+    {
+      "id": "14282451",
+      "name": "Education"
+    },
+    {
+      "id": "11895",
+      "name": "General"
+    },
+    {
+      "id": "14282441",
+      "name": "History"
+    },
+    {
+      "id": "14282501",
+      "name": "Law"
+    },
+    {
+      "id": "14282491",
+      "name": "Literature"
+    },
+    {
+      "id": "14282481",
+      "name": "Medicine"
+    },
+    {
+      "id": "14282431",
+      "name": "Music"
+    },
+    {
+      "id": "14282521",
+      "name": "Politics"
+    },
+    {
+      "id": "14282541",
+      "name": "Religion"
+    },
+    {
+      "id": "14282531",
+      "name": "Science"
+    }
+  ]
+}

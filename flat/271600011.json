@@ -1,0 +1,44 @@
+{
+  "id": "271600011",
+  "name": "European",
+  "level": 2,
+  "parentId": "10311",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "World Literature",
+    "European"
+  ],
+  "nodes": [
+    {
+      "id": "10408",
+      "name": "Eastern"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "10159404011",
+      "name": "British & Irish"
+    },
+    {
+      "id": "10410",
+      "name": "French"
+    },
+    {
+      "id": "10412",
+      "name": "German"
+    },
+    {
+      "id": "10419",
+      "name": "Italian"
+    },
+    {
+      "id": "10436",
+      "name": "Scandinavian"
+    },
+    {
+      "id": "10441",
+      "name": "Spanish & Portuguese"
+    }
+  ]
+}

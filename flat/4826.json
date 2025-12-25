@@ -1,0 +1,47 @@
+{
+  "id": "4826",
+  "name": "Central America",
+  "level": 2,
+  "parentId": "4808",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "Americas",
+    "Central America"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "4827",
+      "name": "Belize"
+    },
+    {
+      "id": "4828",
+      "name": "Costa Rica"
+    },
+    {
+      "id": "4829",
+      "name": "El Salvador"
+    },
+    {
+      "id": "4830",
+      "name": "General"
+    },
+    {
+      "id": "4831",
+      "name": "Guatemala"
+    },
+    {
+      "id": "4832",
+      "name": "Honduras"
+    },
+    {
+      "id": "4833",
+      "name": "Nicaragua"
+    },
+    {
+      "id": "4834",
+      "name": "Panama"
+    }
+  ]
+}

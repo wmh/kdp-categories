@@ -1,0 +1,32 @@
+{
+  "id": "227210",
+  "name": "Neurology",
+  "level": 3,
+  "parentId": "227203",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine",
+    "Internal Medicine",
+    "Neurology"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "227635",
+      "name": "Alzheimer's Disease"
+    },
+    {
+      "id": "227211",
+      "name": "General"
+    },
+    {
+      "id": "227636",
+      "name": "Headache"
+    },
+    {
+      "id": "227637",
+      "name": "Neuroscience"
+    }
+  ]
+}

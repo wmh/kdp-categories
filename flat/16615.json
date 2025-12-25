@@ -1,0 +1,30 @@
+{
+  "id": "16615",
+  "name": "Other Team Sports",
+  "level": 1,
+  "parentId": "26",
+  "isLeaf": false,
+  "path": [
+    "Sports & Outdoors",
+    "Other Team Sports"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16617",
+      "name": "Cricket"
+    },
+    {
+      "id": "15763071",
+      "name": "Field Hockey"
+    },
+    {
+      "id": "16618",
+      "name": "Lacrosse"
+    },
+    {
+      "id": "15763051",
+      "name": "Track & Field"
+    }
+  ]
+}

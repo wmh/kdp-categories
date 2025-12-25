@@ -1,0 +1,20 @@
+{
+  "id": "226709",
+  "name": "Polymers & Textiles",
+  "level": 3,
+  "parentId": "226704",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Materials & Material Science",
+    "Polymers & Textiles"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "194820011",
+      "name": "Textiles"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "10869",
+  "name": "Estates & Trusts",
+  "level": 2,
+  "parentId": "227138",
+  "isLeaf": false,
+  "path": [
+    "Law",
+    "Tax Law",
+    "Estates & Trusts"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298089011",
+      "name": "Estates & Trusts"
+    },
+    {
+      "id": "8298090011",
+      "name": "Living Trusts"
+    }
+  ]
+}

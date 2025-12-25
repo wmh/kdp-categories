@@ -1,0 +1,66 @@
+[
+  {
+    "id": "16311581",
+    "name": "Cardiovascular"
+  },
+  {
+    "id": "16311631",
+    "name": "Chemistry"
+  },
+  {
+    "id": "16311601",
+    "name": "Clinical"
+  },
+  {
+    "id": "16311591",
+    "name": "Drug Delivery Systems"
+  },
+  {
+    "id": "227673",
+    "name": "Drug Guides"
+  },
+  {
+    "id": "227661",
+    "name": "For Nurses"
+  },
+  {
+    "id": "227738",
+    "name": "For Veterinarians"
+  },
+  {
+    "id": "265545",
+    "name": "General"
+  },
+  {
+    "id": "16311541",
+    "name": "Molecular"
+  },
+  {
+    "id": "16311571",
+    "name": "Neuropsychopharmacology"
+  },
+  {
+    "id": "265547",
+    "name": "Pain Medicine"
+  },
+  {
+    "id": "16311561",
+    "name": "Pharmacodynamics"
+  },
+  {
+    "id": "265548",
+    "name": "Pharmacy"
+  },
+  {
+    "id": "16311611",
+    "name": "Product Development"
+  },
+  {
+    "id": "16311551",
+    "name": "Reference"
+  },
+  {
+    "id": "265549",
+    "name": "Toxicology"
+  }
+]

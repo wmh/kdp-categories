@@ -1,0 +1,88 @@
+{
+  "id": "227541",
+  "name": "Civil & Environmental",
+  "level": 2,
+  "parentId": "173515",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Civil & Environmental"
+  ],
+  "nodes": [
+    {
+      "id": "13735",
+      "name": "Environmental"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "226716",
+      "name": "Acoustics"
+    },
+    {
+      "id": "7921645011",
+      "name": "Bridges"
+    },
+    {
+      "id": "52187011",
+      "name": "Earthwork Design"
+    },
+    {
+      "id": "52204011",
+      "name": "Fire Science"
+    },
+    {
+      "id": "226525",
+      "name": "Foundations & Soil Mechanics"
+    },
+    {
+      "id": "13671",
+      "name": "General"
+    },
+    {
+      "id": "226551",
+      "name": "Geotechnical"
+    },
+    {
+      "id": "7921646011",
+      "name": "Highway & Traffic"
+    },
+    {
+      "id": "13665",
+      "name": "Hydrology"
+    },
+    {
+      "id": "226524",
+      "name": "Mechanics"
+    },
+    {
+      "id": "13684",
+      "name": "Remote Sensing"
+    },
+    {
+      "id": "226523",
+      "name": "Seismic Design"
+    },
+    {
+      "id": "226527",
+      "name": "Steel Design"
+    },
+    {
+      "id": "226528",
+      "name": "Structural"
+    },
+    {
+      "id": "226504",
+      "name": "Structural Dynamics"
+    },
+    {
+      "id": "226529",
+      "name": "Surveying & Photogrammetry"
+    },
+    {
+      "id": "226530",
+      "name": "Transportation"
+    }
+  ]
+}

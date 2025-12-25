@@ -1,0 +1,36 @@
+{
+  "id": "290062",
+  "name": "Conservation",
+  "level": 2,
+  "parentId": "14452",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Conservation"
+  ],
+  "nodes": [
+    {
+      "id": "52215011",
+      "name": "Energy"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "290066",
+      "name": "Forests"
+    },
+    {
+      "id": "290063",
+      "name": "General"
+    },
+    {
+      "id": "16310541",
+      "name": "Land"
+    },
+    {
+      "id": "290065",
+      "name": "Water"
+    }
+  ]
+}

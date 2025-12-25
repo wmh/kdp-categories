@@ -1,0 +1,171 @@
+{
+  "id": "10134",
+  "name": "Genre Fiction",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Genre Fiction"
+  ],
+  "nodes": [
+    {
+      "id": "11047977011",
+      "name": "Family Life"
+    },
+    {
+      "id": "10177",
+      "name": "Historical"
+    },
+    {
+      "id": "49",
+      "name": "Horror"
+    },
+    {
+      "id": "10165",
+      "name": "LGBTQ+"
+    },
+    {
+      "id": "12489",
+      "name": "Religious & Inspirational"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "13922574011",
+      "name": "Absurdist"
+    },
+    {
+      "id": "18882711011",
+      "name": "Adaptations & Pastiche"
+    },
+    {
+      "id": "16926918011",
+      "name": "Animals"
+    },
+    {
+      "id": "3558938011",
+      "name": "Biographical & Autofiction"
+    },
+    {
+      "id": "17745813011",
+      "name": "City Life"
+    },
+    {
+      "id": "3558939011",
+      "name": "Coming of Age"
+    },
+    {
+      "id": "211758947011",
+      "name": "Death, Grief & Bereavement"
+    },
+    {
+      "id": "17745814011",
+      "name": "Disaster"
+    },
+    {
+      "id": "13922575011",
+      "name": "Epistolary"
+    },
+    {
+      "id": "10163",
+      "name": "Family Saga"
+    },
+    {
+      "id": "24425114011",
+      "name": "Feel-Good"
+    },
+    {
+      "id": "17745818011",
+      "name": "Friendship"
+    },
+    {
+      "id": "99546083011",
+      "name": "GameLit & LitRPG"
+    },
+    {
+      "id": "10159332011",
+      "name": "Gothic"
+    },
+    {
+      "id": "9059882011",
+      "name": "Holidays"
+    },
+    {
+      "id": "206206505011",
+      "name": "Immigration"
+    },
+    {
+      "id": "12096755011",
+      "name": "Light Novels"
+    },
+    {
+      "id": "9059883011",
+      "name": "Mashups"
+    },
+    {
+      "id": "271586011",
+      "name": "Medical"
+    },
+    {
+      "id": "271587011",
+      "name": "Metaphysical & Visionary"
+    },
+    {
+      "id": "171129",
+      "name": "Political"
+    },
+    {
+      "id": "18289232011",
+      "name": "Psychological"
+    },
+    {
+      "id": "3558941011",
+      "name": "Satire"
+    },
+    {
+      "id": "886086",
+      "name": "Sea Stories"
+    },
+    {
+      "id": "13922576011",
+      "name": "Small Town & Rural"
+    },
+    {
+      "id": "17745819011",
+      "name": "Southern"
+    },
+    {
+      "id": "301912",
+      "name": "Sports"
+    },
+    {
+      "id": "206206506011",
+      "name": "Suburban"
+    },
+    {
+      "id": "4497",
+      "name": "TV, Movie, Video Game Adaptations"
+    },
+    {
+      "id": "7587452011",
+      "name": "Time Travel"
+    },
+    {
+      "id": "211758948011",
+      "name": "Travel & Vacation"
+    },
+    {
+      "id": "3558942011",
+      "name": "Urban Life"
+    },
+    {
+      "id": "10195",
+      "name": "War"
+    },
+    {
+      "id": "10197",
+      "name": "Westerns"
+    }
+  ]
+}

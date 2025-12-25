@@ -1,0 +1,86 @@
+{
+  "id": "16596",
+  "name": "Miscellaneous",
+  "level": 1,
+  "parentId": "26",
+  "isLeaf": false,
+  "path": [
+    "Sports & Outdoors",
+    "Miscellaneous"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16598",
+      "name": "Air Sports & Recreation"
+    },
+    {
+      "id": "11764692011",
+      "name": "Disability Sports"
+    },
+    {
+      "id": "13022431",
+      "name": "Equipment & Supplies"
+    },
+    {
+      "id": "518504",
+      "name": "Essays"
+    },
+    {
+      "id": "16602",
+      "name": "History of Sports"
+    },
+    {
+      "id": "4481",
+      "name": "Humor"
+    },
+    {
+      "id": "16599",
+      "name": "Journalism"
+    },
+    {
+      "id": "16606",
+      "name": "Motor Sports"
+    },
+    {
+      "id": "172760",
+      "name": "Motorcycle Racing"
+    },
+    {
+      "id": "16608",
+      "name": "Olympic Games"
+    },
+    {
+      "id": "16612",
+      "name": "Reference"
+    },
+    {
+      "id": "13022461",
+      "name": "Sociology of Sports"
+    },
+    {
+      "id": "15763031",
+      "name": "Sports Broadcasting"
+    },
+    {
+      "id": "16244671",
+      "name": "Sports Events"
+    },
+    {
+      "id": "15763091",
+      "name": "Sports Facilities Management"
+    },
+    {
+      "id": "16613",
+      "name": "Sports Psychology"
+    },
+    {
+      "id": "496398",
+      "name": "Sports Science"
+    },
+    {
+      "id": "15763041",
+      "name": "Women in Sports"
+    }
+  ]
+}

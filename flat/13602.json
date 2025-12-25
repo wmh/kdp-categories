@@ -1,0 +1,35 @@
+{
+  "id": "13602",
+  "name": "Geography",
+  "level": 2,
+  "parentId": "13592",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Earth Sciences",
+    "Geography"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16311081",
+      "name": "Biogeography"
+    },
+    {
+      "id": "16004521",
+      "name": "General"
+    },
+    {
+      "id": "16244611",
+      "name": "Historic"
+    },
+    {
+      "id": "15959291",
+      "name": "Information Systems"
+    },
+    {
+      "id": "15959301",
+      "name": "Regional"
+    }
+  ]
+}

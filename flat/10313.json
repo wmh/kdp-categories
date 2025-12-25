@@ -1,0 +1,31 @@
+{
+  "id": "10313",
+  "name": "African",
+  "level": 2,
+  "parentId": "10311",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "World Literature",
+    "African"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "265790",
+      "name": "Central & South African"
+    },
+    {
+      "id": "265789",
+      "name": "East African"
+    },
+    {
+      "id": "10314",
+      "name": "General"
+    },
+    {
+      "id": "265788",
+      "name": "West African"
+    }
+  ]
+}

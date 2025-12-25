@@ -1,0 +1,52 @@
+{
+  "id": "10408",
+  "name": "Eastern",
+  "level": 3,
+  "parentId": "271600011",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "World Literature",
+    "European",
+    "Eastern"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "30388114011",
+      "name": "Belarusian"
+    },
+    {
+      "id": "30388112011",
+      "name": "Bulgarian"
+    },
+    {
+      "id": "30388120011",
+      "name": "Czech"
+    },
+    {
+      "id": "30388117011",
+      "name": "Hungarian"
+    },
+    {
+      "id": "30388116011",
+      "name": "Moldovan"
+    },
+    {
+      "id": "30388118011",
+      "name": "Polish"
+    },
+    {
+      "id": "30388115011",
+      "name": "Romanian"
+    },
+    {
+      "id": "30388113011",
+      "name": "Slovak"
+    },
+    {
+      "id": "30388119011",
+      "name": "Ukrainian"
+    }
+  ]
+}

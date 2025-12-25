@@ -1,0 +1,91 @@
+{
+  "id": "226680",
+  "name": "Agricultural Sciences",
+  "level": 1,
+  "parentId": "75",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Agricultural Sciences"
+  ],
+  "nodes": [
+    {
+      "id": "3048971",
+      "name": "Animal Husbandry"
+    },
+    {
+      "id": "14494",
+      "name": "Food Science"
+    },
+    {
+      "id": "14511",
+      "name": "Forestry"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "226683",
+      "name": "Agronomy"
+    },
+    {
+      "id": "226684",
+      "name": "Bacteriology"
+    },
+    {
+      "id": "52104011",
+      "name": "Biotechnology"
+    },
+    {
+      "id": "52105011",
+      "name": "Chemistry"
+    },
+    {
+      "id": "3048991",
+      "name": "Crop Science"
+    },
+    {
+      "id": "52071011",
+      "name": "Economics"
+    },
+    {
+      "id": "10166951011",
+      "name": "Enology & Viticulture"
+    },
+    {
+      "id": "226682",
+      "name": "General"
+    },
+    {
+      "id": "52107011",
+      "name": "History"
+    },
+    {
+      "id": "226681",
+      "name": "Horticulture"
+    },
+    {
+      "id": "16244651",
+      "name": "Insecticides & Pesticides"
+    },
+    {
+      "id": "3049011",
+      "name": "Irrigation"
+    },
+    {
+      "id": "52108011",
+      "name": "Marketing"
+    },
+    {
+      "id": "13630",
+      "name": "Soil Science"
+    },
+    {
+      "id": "3049031",
+      "name": "Sustainable Agriculture"
+    },
+    {
+      "id": "3049051",
+      "name": "Tropical Agriculture"
+    }
+  ]
+}

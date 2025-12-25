@@ -1,0 +1,35 @@
+{
+  "id": "226506",
+  "name": "Bioengineering",
+  "level": 2,
+  "parentId": "173515",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Bioengineering"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "13511",
+      "name": "Biochemistry"
+    },
+    {
+      "id": "226509",
+      "name": "Biomechanics"
+    },
+    {
+      "id": "226507",
+      "name": "Biomedical Engineering"
+    },
+    {
+      "id": "13518",
+      "name": "Biotechnology"
+    },
+    {
+      "id": "194812011",
+      "name": "Genetic Engineering"
+    }
+  ]
+}

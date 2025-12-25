@@ -1,0 +1,86 @@
+{
+  "id": "227191",
+  "name": "Basic Sciences",
+  "level": 1,
+  "parentId": "173514",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Basic Sciences"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "227595",
+      "name": "Anatomy"
+    },
+    {
+      "id": "226684",
+      "name": "Bacteriology"
+    },
+    {
+      "id": "13511",
+      "name": "Biochemistry"
+    },
+    {
+      "id": "227277",
+      "name": "Biostatistics"
+    },
+    {
+      "id": "13518",
+      "name": "Biotechnology"
+    },
+    {
+      "id": "13524",
+      "name": "Cell Biology"
+    },
+    {
+      "id": "227597",
+      "name": "Embryology"
+    },
+    {
+      "id": "227208",
+      "name": "Epidemiology"
+    },
+    {
+      "id": "13535",
+      "name": "Genetics"
+    },
+    {
+      "id": "227599",
+      "name": "Histology"
+    },
+    {
+      "id": "227192",
+      "name": "Immunology"
+    },
+    {
+      "id": "172406",
+      "name": "Microbiology"
+    },
+    {
+      "id": "266179",
+      "name": "Neuroanatomy"
+    },
+    {
+      "id": "227601",
+      "name": "Nosology"
+    },
+    {
+      "id": "227602",
+      "name": "Pathophysiology"
+    },
+    {
+      "id": "265545",
+      "name": "Pharmacology"
+    },
+    {
+      "id": "227603",
+      "name": "Physiology"
+    },
+    {
+      "id": "16311221",
+      "name": "Virology"
+    }
+  ]
+}

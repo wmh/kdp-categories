@@ -1,0 +1,63 @@
+{
+  "id": "9823",
+  "name": "Black & African American",
+  "level": 2,
+  "parentId": "9822",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "United States",
+    "Black & African American"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "9059875011",
+      "name": "Christian"
+    },
+    {
+      "id": "10159287011",
+      "name": "Dramas & Plays"
+    },
+    {
+      "id": "15196864011",
+      "name": "Fantasy"
+    },
+    {
+      "id": "9059876011",
+      "name": "General"
+    },
+    {
+      "id": "9059877011",
+      "name": "Historical"
+    },
+    {
+      "id": "15196865011",
+      "name": "Horror"
+    },
+    {
+      "id": "9059878011",
+      "name": "Mystery, Thriller & Suspense"
+    },
+    {
+      "id": "10159391011",
+      "name": "Poetry"
+    },
+    {
+      "id": "9059879011",
+      "name": "Romance"
+    },
+    {
+      "id": "15196866011",
+      "name": "Science Fiction"
+    },
+    {
+      "id": "9059880011",
+      "name": "Urban"
+    },
+    {
+      "id": "9059881011",
+      "name": "Women's Fiction"
+    }
+  ]
+}

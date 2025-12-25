@@ -1,0 +1,54 @@
+{
+  "id": "16211",
+  "name": "Gaming",
+  "level": 1,
+  "parentId": "25",
+  "isLeaf": false,
+  "path": [
+    "Science Fiction & Fantasy",
+    "Gaming"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "7586183011",
+      "name": "Battletech"
+    },
+    {
+      "id": "7592931011",
+      "name": "Call of Cthulhu"
+    },
+    {
+      "id": "7586185011",
+      "name": "GURPS"
+    },
+    {
+      "id": "7586186011",
+      "name": "Pathfinder"
+    },
+    {
+      "id": "15463426011",
+      "name": "Savage Worlds"
+    },
+    {
+      "id": "7586187011",
+      "name": "Shadowrun"
+    },
+    {
+      "id": "16221",
+      "name": "Strategy"
+    },
+    {
+      "id": "8626718011",
+      "name": "Trading Card Games"
+    },
+    {
+      "id": "7586188011",
+      "name": "Traveller"
+    },
+    {
+      "id": "7586189011",
+      "name": "Warhammer"
+    }
+  ]
+}

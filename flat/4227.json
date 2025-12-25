@@ -1,0 +1,27 @@
+{
+  "id": "4227",
+  "name": "Homebrewing, Distilling & Wine Making",
+  "level": 2,
+  "parentId": "4219",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Beverages & Wine",
+    "Homebrewing, Distilling & Wine Making"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8883942011",
+      "name": "Distilling"
+    },
+    {
+      "id": "8883943011",
+      "name": "Homebrewing"
+    },
+    {
+      "id": "8883944011",
+      "name": "Wine Making"
+    }
+  ]
+}

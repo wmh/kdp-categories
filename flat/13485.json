@@ -1,0 +1,20 @@
+{
+  "id": "13485",
+  "name": "Dinosaurs",
+  "level": 3,
+  "parentId": "13474",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Biological Sciences",
+    "Animals",
+    "Dinosaurs"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "300226",
+      "name": "General"
+    }
+  ]
+}

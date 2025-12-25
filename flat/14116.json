@@ -1,0 +1,62 @@
+{
+  "id": "14116",
+  "name": "Diseases",
+  "level": 4,
+  "parentId": "227692",
+  "isLeaf": false,
+  "path": [
+    "Medical Books",
+    "Medicine",
+    "Internal Medicine",
+    "Pathology",
+    "Diseases"
+  ],
+  "nodes": [
+    {
+      "id": "227212",
+      "name": "Cancer"
+    },
+    {
+      "id": "282810",
+      "name": "Diabetes"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "14117",
+      "name": "AIDS & HIV"
+    },
+    {
+      "id": "14125",
+      "name": "Brain"
+    },
+    {
+      "id": "14131",
+      "name": "Cardiovascular"
+    },
+    {
+      "id": "227207",
+      "name": "Communicable Diseases"
+    },
+    {
+      "id": "14145",
+      "name": "Digestive Organs"
+    },
+    {
+      "id": "14149",
+      "name": "Extremities"
+    },
+    {
+      "id": "14154",
+      "name": "General"
+    },
+    {
+      "id": "14166",
+      "name": "Psoriasis"
+    },
+    {
+      "id": "14170",
+      "name": "Viral"
+    }
+  ]
+}

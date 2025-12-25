@@ -1,0 +1,98 @@
+{
+  "id": "4613",
+  "name": "Diets & Weight Loss",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Diets & Weight Loss"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "282870",
+      "name": "American Diabetes Association"
+    },
+    {
+      "id": "282871",
+      "name": "American Heart Association"
+    },
+    {
+      "id": "10924661",
+      "name": "Atkins Diet"
+    },
+    {
+      "id": "282860",
+      "name": "Blood Type Diets"
+    },
+    {
+      "id": "6511976011",
+      "name": "Detoxes & Cleanses"
+    },
+    {
+      "id": "4615",
+      "name": "Diets"
+    },
+    {
+      "id": "4623",
+      "name": "Food Counters"
+    },
+    {
+      "id": "713264011",
+      "name": "General"
+    },
+    {
+      "id": "6511977011",
+      "name": "Gluten Free"
+    },
+    {
+      "id": "282855",
+      "name": "Hypnosis for Diets"
+    },
+    {
+      "id": "15248576011",
+      "name": "Ketogenic"
+    },
+    {
+      "id": "10924671",
+      "name": "Low Carb"
+    },
+    {
+      "id": "4618",
+      "name": "Low Fat"
+    },
+    {
+      "id": "4616",
+      "name": "Other Diets"
+    },
+    {
+      "id": "6511975011",
+      "name": "Paleo"
+    },
+    {
+      "id": "10924681",
+      "name": "South Beach Diet"
+    },
+    {
+      "id": "4619",
+      "name": "Vegan"
+    },
+    {
+      "id": "6511974011",
+      "name": "Vegetarian"
+    },
+    {
+      "id": "4621",
+      "name": "Weight Loss"
+    },
+    {
+      "id": "282857",
+      "name": "Weight Watchers"
+    },
+    {
+      "id": "8493540011",
+      "name": "Wheat Free"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "5391236011",
+  "name": "Ancient & Medieval Literature",
+  "level": 1,
+  "parentId": "17",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Ancient & Medieval Literature"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "10159263011",
+      "name": "Ancient & Classical"
+    },
+    {
+      "id": "10402",
+      "name": "Greek"
+    },
+    {
+      "id": "10404",
+      "name": "Medieval"
+    },
+    {
+      "id": "10406",
+      "name": "Roman"
+    }
+  ]
+}

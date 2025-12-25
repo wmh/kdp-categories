@@ -1,0 +1,51 @@
+{
+  "id": "14576",
+  "name": "Nuclear Physics",
+  "level": 2,
+  "parentId": "14545",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Physics",
+    "Nuclear Physics"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "16052251",
+      "name": "Atomic & Nuclear Physics"
+    },
+    {
+      "id": "16052261",
+      "name": "Atomic Physics"
+    },
+    {
+      "id": "16052301",
+      "name": "Electron Physics"
+    },
+    {
+      "id": "16052281",
+      "name": "Fusion & Fission"
+    },
+    {
+      "id": "16052271",
+      "name": "General"
+    },
+    {
+      "id": "16052291",
+      "name": "Nuclear Magnetic Resonance"
+    },
+    {
+      "id": "16052331",
+      "name": "Particle Accelerators"
+    },
+    {
+      "id": "16052321",
+      "name": "Particle Physics"
+    },
+    {
+      "id": "16052311",
+      "name": "Radioactivity"
+    }
+  ]
+}

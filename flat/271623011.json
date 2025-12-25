@@ -1,0 +1,23 @@
+{
+  "id": "271623011",
+  "name": "Ancient, Classical & Medieval",
+  "level": 2,
+  "parentId": "10248",
+  "isLeaf": false,
+  "path": [
+    "Literature & Fiction",
+    "Poetry",
+    "Ancient, Classical & Medieval"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "8298098011",
+      "name": "Ancient & Classical"
+    },
+    {
+      "id": "8298099011",
+      "name": "Medieval"
+    }
+  ]
+}

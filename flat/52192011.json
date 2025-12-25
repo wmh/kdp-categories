@@ -1,0 +1,33 @@
+{
+  "id": "52192011",
+  "name": "Pollution",
+  "level": 4,
+  "parentId": "13735",
+  "isLeaf": false,
+  "path": [
+    "Engineering & Transportation",
+    "Engineering",
+    "Civil & Environmental",
+    "Environmental",
+    "Pollution"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "226543",
+      "name": "Air"
+    },
+    {
+      "id": "52193011",
+      "name": "General"
+    },
+    {
+      "id": "52195011",
+      "name": "Marine"
+    },
+    {
+      "id": "52194011",
+      "name": "Water"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "4252",
+  "name": "Cooking Methods",
+  "level": 1,
+  "parentId": "6",
+  "isLeaf": false,
+  "path": [
+    "6",
+    "Cooking Methods"
+  ],
+  "nodes": [
+    {
+      "id": "4257",
+      "name": "Quick & Easy"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "7661756011",
+      "name": "Budget"
+    },
+    {
+      "id": "4258",
+      "name": "Cooking for One or Two"
+    },
+    {
+      "id": "11764640011",
+      "name": "Cooking with Kids"
+    },
+    {
+      "id": "4331",
+      "name": "Gourmet"
+    },
+    {
+      "id": "4255",
+      "name": "Large Quantities"
+    },
+    {
+      "id": "4260",
+      "name": "Microwave Cooking"
+    },
+    {
+      "id": "332055011",
+      "name": "Organic"
+    },
+    {
+      "id": "7661757011",
+      "name": "Raw"
+    },
+    {
+      "id": "7661751011",
+      "name": "Slow Cooking"
+    }
+  ]
+}

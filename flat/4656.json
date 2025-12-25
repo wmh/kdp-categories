@@ -1,0 +1,215 @@
+{
+  "id": "4656",
+  "name": "Diseases & Physical Ailments",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Diseases & Physical Ailments"
+  ],
+  "nodes": [
+    {
+      "id": "171141",
+      "name": "Cancer"
+    },
+    {
+      "id": "282810",
+      "name": "Diabetes"
+    },
+    {
+      "id": "282819",
+      "name": "Ulcers & Gastritis"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "4657",
+      "name": "AIDS"
+    },
+    {
+      "id": "465676",
+      "name": "Abdominal"
+    },
+    {
+      "id": "4658",
+      "name": "Allergies"
+    },
+    {
+      "id": "227635",
+      "name": "Alzheimer's Disease"
+    },
+    {
+      "id": "282815",
+      "name": "Asthma"
+    },
+    {
+      "id": "4660",
+      "name": "Backache"
+    },
+    {
+      "id": "282821",
+      "name": "Candida"
+    },
+    {
+      "id": "282823",
+      "name": "Chronic Fatigue Syndrome & Fibromyalgia"
+    },
+    {
+      "id": "600616",
+      "name": "Chronic Pain"
+    },
+    {
+      "id": "602014",
+      "name": "Cystic Fibrosis"
+    },
+    {
+      "id": "4663",
+      "name": "Disability"
+    },
+    {
+      "id": "10166919011",
+      "name": "Endocrine System"
+    },
+    {
+      "id": "282822",
+      "name": "Endometriosis"
+    },
+    {
+      "id": "3118861",
+      "name": "Epilepsy"
+    },
+    {
+      "id": "282842",
+      "name": "Eye Problems"
+    },
+    {
+      "id": "297481",
+      "name": "General"
+    },
+    {
+      "id": "465678",
+      "name": "Genetic"
+    },
+    {
+      "id": "282809",
+      "name": "Genitourinary & STDs"
+    },
+    {
+      "id": "282824",
+      "name": "Headaches"
+    },
+    {
+      "id": "282847",
+      "name": "Hearing Problems"
+    },
+    {
+      "id": "282813",
+      "name": "Heart Disease"
+    },
+    {
+      "id": "282829",
+      "name": "Hepatitis"
+    },
+    {
+      "id": "4661",
+      "name": "Herpes"
+    },
+    {
+      "id": "282814",
+      "name": "High Blood Pressure"
+    },
+    {
+      "id": "282828",
+      "name": "Hospice"
+    },
+    {
+      "id": "465680",
+      "name": "Immune Systems"
+    },
+    {
+      "id": "68181",
+      "name": "Infertility"
+    },
+    {
+      "id": "300207",
+      "name": "Irritable Bowel Syndrome"
+    },
+    {
+      "id": "282816",
+      "name": "Lung & Respiratory Diseases"
+    },
+    {
+      "id": "282820",
+      "name": "Lupus"
+    },
+    {
+      "id": "282825",
+      "name": "Multiple Sclerosis"
+    },
+    {
+      "id": "282830",
+      "name": "Musculoskeletal Diseases"
+    },
+    {
+      "id": "465682",
+      "name": "Nervous System"
+    },
+    {
+      "id": "282831",
+      "name": "Organ Transplants"
+    },
+    {
+      "id": "282826",
+      "name": "Osteoporosis"
+    },
+    {
+      "id": "282848",
+      "name": "Pain Management"
+    },
+    {
+      "id": "282843",
+      "name": "Parkinson's Disease"
+    },
+    {
+      "id": "282832",
+      "name": "Reference"
+    },
+    {
+      "id": "4664",
+      "name": "Repetitive Strain Injury"
+    },
+    {
+      "id": "465684",
+      "name": "Respiratory"
+    },
+    {
+      "id": "282834",
+      "name": "Rheumatic Diseases"
+    },
+    {
+      "id": "282844",
+      "name": "Skin Ailments"
+    },
+    {
+      "id": "282817",
+      "name": "Sleep Disorders"
+    },
+    {
+      "id": "282836",
+      "name": "Spinal Cord Injuries"
+    },
+    {
+      "id": "282818",
+      "name": "Strokes"
+    },
+    {
+      "id": "6519373011",
+      "name": "Thyroid Conditions"
+    },
+    {
+      "id": "282837",
+      "name": "Tourette Syndrome"
+    }
+  ]
+}

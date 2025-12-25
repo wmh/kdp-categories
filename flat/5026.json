@@ -1,0 +1,32 @@
+{
+  "id": "5026",
+  "name": "Weapons & Warfare",
+  "level": 2,
+  "parentId": "5011",
+  "isLeaf": false,
+  "path": [
+    "History",
+    "Military",
+    "Weapons & Warfare"
+  ],
+  "nodes": [
+    {
+      "id": "5028",
+      "name": "Conventional"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "5027",
+      "name": "Biological & Chemical"
+    },
+    {
+      "id": "16244131",
+      "name": "Control"
+    },
+    {
+      "id": "5029",
+      "name": "Nuclear"
+    }
+  ]
+}

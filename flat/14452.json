@@ -1,0 +1,115 @@
+{
+  "id": "14452",
+  "name": "Nature & Ecology",
+  "level": 1,
+  "parentId": "75",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology"
+  ],
+  "nodes": [
+    {
+      "id": "13474",
+      "name": "Animals"
+    },
+    {
+      "id": "16386",
+      "name": "Birdwatching"
+    },
+    {
+      "id": "290062",
+      "name": "Conservation"
+    },
+    {
+      "id": "290071",
+      "name": "Ecosystems"
+    },
+    {
+      "id": "14459",
+      "name": "Environment"
+    },
+    {
+      "id": "290061",
+      "name": "Fauna"
+    },
+    {
+      "id": "290078",
+      "name": "Field Guides"
+    },
+    {
+      "id": "14507",
+      "name": "Natural Resources"
+    },
+    {
+      "id": "14519",
+      "name": "Oceans & Seas"
+    },
+    {
+      "id": "13547",
+      "name": "Plants"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "14454",
+      "name": "Animal Rights"
+    },
+    {
+      "id": "290064",
+      "name": "Endangered Species"
+    },
+    {
+      "id": "206206567011",
+      "name": "Foraging"
+    },
+    {
+      "id": "14533",
+      "name": "Forests & Rainforests"
+    },
+    {
+      "id": "14486",
+      "name": "General"
+    },
+    {
+      "id": "206206568011",
+      "name": "Indigenous Stewardship"
+    },
+    {
+      "id": "14488",
+      "name": "Lakes & Ponds"
+    },
+    {
+      "id": "14505",
+      "name": "Mountains"
+    },
+    {
+      "id": "16311131",
+      "name": "Natural History"
+    },
+    {
+      "id": "171225",
+      "name": "Nature Writing & Essays"
+    },
+    {
+      "id": "764418",
+      "name": "Reference"
+    },
+    {
+      "id": "13625",
+      "name": "Rivers"
+    },
+    {
+      "id": "14538",
+      "name": "Rocks & Minerals"
+    },
+    {
+      "id": "13456",
+      "name": "Star Gazing"
+    },
+    {
+      "id": "14543",
+      "name": "Water Supply & Land Use"
+    }
+  ]
+}

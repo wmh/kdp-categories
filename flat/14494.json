@@ -1,0 +1,31 @@
+{
+  "id": "14494",
+  "name": "Food Science",
+  "level": 2,
+  "parentId": "226680",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Agricultural Sciences",
+    "Food Science"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "17745842011",
+      "name": "Chemistry & Biotechnology"
+    },
+    {
+      "id": "17745843011",
+      "name": "Food Packaging & Processing"
+    },
+    {
+      "id": "17745844011",
+      "name": "Food Safety & Security"
+    },
+    {
+      "id": "17745845011",
+      "name": "Food Types"
+    }
+  ]
+}

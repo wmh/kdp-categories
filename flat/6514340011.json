@@ -1,0 +1,27 @@
+{
+  "id": "6514340011",
+  "name": "Sexual Health",
+  "level": 1,
+  "parentId": "10",
+  "isLeaf": false,
+  "path": [
+    "Health, Fitness & Dieting",
+    "Sexual Health"
+  ],
+  "nodes": [
+    {
+      "id": "4670",
+      "name": "Men's Sexual Health"
+    }
+  ],
+  "leafs": [
+    {
+      "id": "6514343011",
+      "name": "General"
+    },
+    {
+      "id": "6511979011",
+      "name": "Women's Sexual Health"
+    }
+  ]
+}

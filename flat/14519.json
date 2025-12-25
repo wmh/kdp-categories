@@ -1,0 +1,35 @@
+{
+  "id": "14519",
+  "name": "Oceans & Seas",
+  "level": 2,
+  "parentId": "14452",
+  "isLeaf": false,
+  "path": [
+    "Science & Math",
+    "Nature & Ecology",
+    "Oceans & Seas"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "290072",
+      "name": "Coral Reefs"
+    },
+    {
+      "id": "14509",
+      "name": "Fisheries & Aquaculture"
+    },
+    {
+      "id": "14525",
+      "name": "General"
+    },
+    {
+      "id": "14529",
+      "name": "Marine Life"
+    },
+    {
+      "id": "14531",
+      "name": "Seashells"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "16190",
+  "name": "Fantasy",
+  "level": 1,
+  "parentId": "25",
+  "isLeaf": false,
+  "path": [
+    "Science Fiction & Fantasy",
+    "Fantasy"
+  ],
+  "nodes": [],
+  "leafs": [
+    {
+      "id": "202437562011",
+      "name": "Action & Adventure"
+    },
+    {
+      "id": "16275",
+      "name": "Alternate History"
+    },
+    {
+      "id": "16193",
+      "name": "Anthologies"
+    },
+    {
+      "id": "10139",
+      "name": "Arthurian"
+    },
+    {
+      "id": "10387328011",
+      "name": "Coming of Age"
+    },
+    {
+      "id": "211759009011",
+      "name": "Cozy"
+    },
+    {
+      "id": "9803",
+      "name": "Dark"
+    },
+    {
+      "id": "16926919011",
+      "name": "Dragons & Mythical Creatures"
+    },
+    {
+      "id": "16197",
+      "name": "Epic"
+    },
+    {
+      "id": "16926920011",
+      "name": "Gaslamp"
+    },
+    {
+      "id": "16199",
+      "name": "General"
+    },
+    {
+      "id": "16201",
+      "name": "Historical"
+    },
+    {
+      "id": "16203",
+      "name": "History & Criticism"
+    },
+    {
+      "id": "11764648011",
+      "name": "Humorous"
+    },
+    {
+      "id": "202437565011",
+      "name": "LGBTQ+"
+    },
+    {
+      "id": "202437563011",
+      "name": "Low Fantasy"
+    },
+    {
+      "id": "9045831011",
+      "name": "Magical Realism"
+    },
+    {
+      "id": "14051773011",
+      "name": "Military"
+    },
+    {
+      "id": "10387329011",
+      "name": "New Adult & College"
+    },
+    {
+      "id": "13922577011",
+      "name": "Romantic"
+    },
+    {
+      "id": "202437564011",
+      "name": "Short Stories"
+    },
+    {
+      "id": "9059889011",
+      "name": "Superheroes"
+    },
+    {
+      "id": "16205",
+      "name": "Sword & Sorcery"
+    }
+  ]
+}
